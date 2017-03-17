@@ -44,7 +44,7 @@ To get more help on the `angular-cli` use `ng help` or go check out the [Angular
 
 ## Notes
 Below stuff still needs to be in.
-
+todo: look at the forums, specifically the post of Pip_ for the ingredients for T8/T14 white gems
 ### Mini Bosses
 Gate Warden
 (Ancestral Ruins, Lake Nithus)
@@ -289,4 +289,4 @@ Refining Salt - Majerio's Shop 
 
 
 ## Thank you
-Special thanks to: Dragondreamer
+Special thanks to: Dragondreamer, Pip_
