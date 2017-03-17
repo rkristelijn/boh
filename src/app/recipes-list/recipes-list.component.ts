@@ -197,6 +197,21 @@ export class RecipesListComponent implements OnInit {
             }
           ]
         },
+        { name: "Potion: Magic Resist",
+          time: 30, // minutes
+          description: "Increase magic resist by ?% for 10 seconds",
+          ingredients: [{
+              name: 'Unstable Ether',
+              amount: 1
+            },{
+              name: 'Dark Ether',
+              amount: 3
+            },{
+              name: 'Blackened Ichor',
+              amount: 3
+            }
+          ]
+        },
         { name: "Potion: Minor Magic Resistance",
           time: 5, // minutes
           description: "Reduces magic damage taken by 5% for 10 seconds",
@@ -221,15 +236,18 @@ export class RecipesListComponent implements OnInit {
             }
           ]
         },
-        { name: "Potion: Melee Resistance",
+        { name: "Potion: Melee Resistance", //thanks to Pip_
           time: 30, // minutes
           description: "Reduces physical damage taken by 20% for 10 seconds",
           ingredients: [{
-              name: '?',
+              name: 'Black Wyvern Scale',
+              amount: 1
+            },{
+              name: 'Black Ichor',
               amount: 3
             },{
-              name: 'Undead Ichor',
-              amount: 10
+              name: 'Iron Ore',
+              amount: 3
             }
           ]
         },
@@ -382,7 +400,7 @@ export class RecipesListComponent implements OnInit {
         },
         { name: "Transmute: Ice Resistance Gem",
           time: 1440, // 24 hours in minutes
-          description: "Creates one Ice Crit Power Gem out of White Shards and other materials",
+          description: "Creates one Ice Resistance Gem out of White Shards and other materials",
           ingredients: [{
               name: 'Tier 14 White Shards',
               amount: 500
@@ -412,22 +430,22 @@ export class RecipesListComponent implements OnInit {
         },
         { name: "Transmute: Melee Crit Power Gem",
           time: 1440, // 24 hours in minutes
-          description: "Creates one Melee Crit Power Gem out of White Shards and other materials",
+          description: "Creates one Melee Crit Power Gem out of White Shards and other materials - thanks Pip_",
           ingredients: [{
               name: 'Tier 8 White Shards',
               amount: 500
             },{
-              name: '?',
+              name: 'Dark Ichor',
               amount: 250
             },{
-              name: '?',
+              name: 'Polar Melt',
               amount: 100
             }
           ]
         },
         { name: "Transmute: Melee Resistance Gem",
           time: 1440, // 24 hours in minutes
-          description: "Creates one Melee Resistance Gem out of White Shards and other materials",
+          description: "There is no Melee Resistance Gem sadly - thanks Pip_",
           ingredients: [{
               name: 'Tier 14 White Shards',
               amount: 500
@@ -592,7 +610,7 @@ export class RecipesListComponent implements OnInit {
                        "Power: Status Resist I - Reduces the chance a negative effect can be placed on you (1.50% per level)\n",
           ingredients: [{
               name: 'Essence',
-              amount: 250
+              amount: 250 //thanks Pip_
             },{
               name: 'Emerald Flux',
               amount: 2
@@ -718,7 +736,7 @@ export class RecipesListComponent implements OnInit {
                        "Power: Status Resist I - Reduces the chance a negative effect can be placed on you (1.50% per level)\n",
           ingredients: [{
               name: 'Pure Essence',
-              amount: 200
+              amount: 200 //thanks Pip_
             },{
               name: 'Emerald Flux',
               amount: 200
