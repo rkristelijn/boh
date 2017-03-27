@@ -41,7 +41,7 @@
                     <tr *ngFor='let recipe of recipes | recipeFilter:listFilter | recipeIngredientsFilter:ingredientFilter'>
                         <td>{{recipe.name}}</td>
 
-                        <td>{{recipe.time}}</td>
+                        <td>{{recipe.time | time}}</td>
                         <!--<td>{{recipe.name}}</td>-->
                         <!--<td>{{ recipe.ingredients | json }}</td>-->
                         <td>

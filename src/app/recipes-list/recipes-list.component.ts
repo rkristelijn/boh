@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 import {RecipeComponent } from '../recipe/recipe.component';
+import {TimePipe } from './time.pipe';
 //import { IngredientComponent } from '../ingredient/ingredient.component';
 @Component({
   selector: 'app-recipes-list',
@@ -37,6 +38,20 @@ export class RecipesListComponent implements OnInit {
               amount: 1
             }
           ]
+        },
+        {name: 'Cooking: Deviled Eggs',
+          time: 180, //3 hours in minutes
+          description: 'Cook up some deviled eggs, just watch the magical mustard',
+          ingredients: [{
+              name: 'Purifying Salts',
+              amount: 10
+            },{
+              name: 'Drops of Putrid Ooze',
+              amount: 5
+            },{
+              name: 'Deathstrike Egg',
+              amount: 1
+            }]
         },
         { name: 'Craft: Blackened Ichor',
           time: 5, //minutes

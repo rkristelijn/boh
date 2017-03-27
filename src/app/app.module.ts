@@ -11,6 +11,7 @@ import { RecipesListComponent } from './recipes-list/recipes-list.component';
 import { IngredientComponent } from './ingredient/ingredient.component';
 import { RecipeFilterPipe } from './recipes-list/recipes-list.pipe';
 import { RecipeIngredientFilterPipe } from './recipes-list/recipes-list.ingredients.pipe';
+import { TimePipe } from './recipes-list/time.pipe';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { RecipeIngredientFilterPipe } from './recipes-list/recipes-list.ingredie
     RecipesListComponent,
     IngredientComponent,
     RecipeFilterPipe,
-    RecipeIngredientFilterPipe
+    RecipeIngredientFilterPipe,
+    TimePipe
   ],
   imports: [
     BrowserModule,
