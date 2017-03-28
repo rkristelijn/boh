@@ -135,7 +135,7 @@ export class RecipesListComponent implements OnInit {
           time: 30, // minutes
           description: "Increase dodge chance by 20% for 10 seconds",
           ingredients: [{
-              name: 'Alpha Wolf Pay',
+              name: 'Alpha Wolf Paw', //thanks Danae
               amount: 1
             },{
               name: 'Mountain Lichen',
@@ -258,7 +258,7 @@ export class RecipesListComponent implements OnInit {
               name: 'Black Wyvern Scale',
               amount: 1
             },{
-              name: 'Black Ichor',
+              name: 'Blackened Ichor', //thanks Danae
               amount: 3
             },{
               name: 'Iron Ore',
@@ -458,21 +458,21 @@ export class RecipesListComponent implements OnInit {
             }
           ]
         },
-        { name: "Transmute: Melee Resistance Gem",
-          time: 1440, // 24 hours in minutes
-          description: "There is no Melee Resistance Gem sadly - thanks Pip_",
-          ingredients: [{
-              name: 'Tier 14 White Shards',
-              amount: 500
-            },{
-              name: '?',
-              amount: 250
-            },{
-              name: '?',
-              amount: 100
-            }
-          ]
-        },
+        // { name: "Transmute: Melee Resistance Gem",
+        //   time: 1440, // 24 hours in minutes
+        //   description: "There is no Melee Resistance Gem sadly - thanks Pip_",
+        //   ingredients: [{
+        //       name: 'Tier 14 White Shards',
+        //       amount: 500
+        //     },{
+        //       name: '?',
+        //       amount: 250
+        //     },{
+        //       name: '?',
+        //       amount: 100
+        //     }
+        //   ]
+        // }, //thanks Danae
         { name: "Transmute: Nature Crit Gem",
           time: 1440, // 24 hours in minutes
           description: "Creates one Nature Crit Gem out of White Shards and other materials",
@@ -772,7 +772,7 @@ export class RecipesListComponent implements OnInit {
                        "Power: Status Resist I - Reduces the chance a negative effect can be placed on you (1.50% per level)\n",
           ingredients: [{
               name: 'Pure Essence',
-              amount: 500
+              amount: 300
             },{
               name: 'Emerald Flux',
               amount: 400
@@ -952,7 +952,7 @@ export class RecipesListComponent implements OnInit {
                        "Skill: Two-handed Bonus I - Increases Two-hand weapon damage (1.00% per level)\n",
           ingredients: [{
               name: 'Pure Essence',
-              amount: 500
+              amount: 300
             },{
               name: 'Amber Flux',
               amount: 400
@@ -1123,7 +1123,7 @@ export class RecipesListComponent implements OnInit {
                        "Magic: Luck I - Increases the chance to receive an additional bonus loot roll from enimies (0.50% per level)\n",
           ingredients: [{
               name: 'Pure Essence',
-              amount: 500
+              amount: 300
             },{
               name: 'Indigo Flux',
               amount: 400
