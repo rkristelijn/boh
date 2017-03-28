@@ -289,4 +289,8 @@ Refining Salt - Majerio's Shop 
 
 
 ## Thank you
-Special thanks to: Dragondreamer, Pip_
+Special thanks to: 
+- Dragondreamer, 
+- Pip_, 
+- Danae
+... for helping with testing, reporting bugs and help with forming ideas.
