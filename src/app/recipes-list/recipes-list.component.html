@@ -1,9 +1,8 @@
 <div class='panel panel-primary'>
     <div class='panel-heading'>
-        {{pageTitle}}
+        Recipe List
     </div>
 
-    <!-- Filter the Products   -->
     <div class='panel-body'>
         <div class='row'>
             <div class='col-md-2'>Recipename filter by:</div>
@@ -22,9 +21,6 @@
                 <h3>Recipe filtered by: {{listFilter}} Ingredients filtered: by {{ingredientFilter}} </h3> 
             </div>
         </div>
-        <!--
-
-        <div class='has-error' *ngIf='errorMessage'>{{errorMessage}}</div>-->
 
         <div class='table-responsive'>
             <table class='table'
@@ -37,13 +33,10 @@
                     </tr>
                 </thead>
                 <tbody>
-                    <!--<tr *ngFor='let repice of recipes | recipyFilter:listFilter'>-->
                     <tr *ngFor='let recipe of recipes | recipeFilter:listFilter | recipeIngredientsFilter:ingredientFilter'>
                         <td>{{recipe.name}}</td>
 
                         <td>{{recipe.time | time}}</td>
-                        <!--<td>{{recipe.name}}</td>-->
-                        <!--<td>{{ recipe.ingredients | json }}</td>-->
                         <td>
                             <div *ngFor='let ingredient of recipe.ingredients'>
                                 {{ingredient.amount }} {{ingredient.material.name}}

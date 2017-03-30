@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { MatsComponent } from '../mats/mats.component';
+//pipes
+import { MaterialFilterPipe } from './mats-list.material.pipe';
 
 @Component({
   selector: 'app-mats-list',
@@ -9,6 +11,8 @@ import { MatsComponent } from '../mats/mats.component';
 export class MatsListComponent implements OnInit {
   private matsList: MatsComponent[];
   private staticValues:any[];
+  locationFilter:string;
+  materialFilter:string;
   constructor() { 
     this.matsList = [];
   }
@@ -21,6 +25,7 @@ export class MatsListComponent implements OnInit {
   }
 
   ngOnInit() {
+    this.loadStaticValues();
   }
 
   loadStaticValues() {
