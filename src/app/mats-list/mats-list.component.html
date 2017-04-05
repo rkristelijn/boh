@@ -29,11 +29,17 @@
                 <thead>
                     <tr>
                         <th>Name</th>
+                        <th>Location</th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr *ngFor='let material of matsList | materialFilter:materialFilter'>
+                    <tr *ngFor='let material of matsList | materialFilter:materialFilter | locationFilter:locationFilter'>
                         <td>{{material.name}}</td>
+                        <td>
+                            <div *ngFor="let drop of material.locations">
+                                {{drop}}
+                            </div>
+                        </td>
                     </tr>
                 </tbody>
             </table>

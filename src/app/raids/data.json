@@ -1,0 +1,223 @@
+[
+    {
+        "name": "Gobblin' Goblins",
+        "valor": "Squire's Valor",
+        "might": 0,
+        "gold": 30,
+        "silver": 90,
+        "bronze": 135,
+        "description": "Colette's fare has taken a turn for the worse since you've left, but the smells have managed to attract a horde of goblins who find the smell irrestible!",
+        "total waves": 93,
+        "phases": [
+            "enemies, Goblins"
+        ]
+    },
+    {
+        "name": "The Plaguerider",
+        "valor": "Squire's Valor",
+        "might": 150,
+        "phases": [
+            "enemies, Rath'een",
+            "boss: Plaguerider Skar"
+        ]
+    },
+    {
+        "name": "Lockbolt's Reign",
+        "valor": "Squire's Valor",
+        "might": 350,
+        "phases": [
+            "enemies, bandits?",
+            "enemies, bandits?",
+            "boss: Lockbolt"
+        ]
+    },
+    {
+        "name": "Wrath of the Overseer",
+        "valor": "Squire's Valor",
+        "might": 650,
+        "phases": [
+            "enemies, Rath'eens, Undeads?",
+            "enemies, Rath'eens, Undeads?",
+            "boss: Undead Overseer"
+        ]
+    },
+    {
+        "name": "Risen from the Depths",
+        "valor": "Soldier's Valor",
+        "might": 1150,
+        "phases": [
+            "enemies, Rath'eens, Undeads?",
+            "enemies, Rath'eens, Undeads?",
+            "boss: Kraken"
+        ]
+    },
+    {
+        "name": "Attack at Dawn",
+        "valor": "Soldier's Valor",
+        "might": 1850,
+        "phases": [
+            "enemies, Rath'eens, Undeads?",
+            "boss: Cerberus",
+            "enemies, Rath'eens, Undeads?",
+            "boss: General Zuur"
+        ]
+    },
+    {
+        "name": "Crypt of Corruption",
+        "valor": "Soldier's Valor",
+        "might": 2300,
+        "phases": [
+            "enemies, Onslaught",
+            "enemies, Onslaught",
+            "boss: Onslaught "
+        ]
+    },
+    {
+        "name": "Dark Lord Helion",
+        "valor": "Soldier's Valor",
+        "might": 2800,
+        "phases": [
+            "enemies",
+            "enemies",
+            "boss"
+        ]
+    },
+    {
+        "name": "Cursed Keep",
+        "valor": "Knight's Valor",
+        "might": 3400,
+        "phases": [
+            "enemies",
+            "enemies",
+            "enemies",
+            "boss"
+        ]
+    },
+    {
+        "name": "Vale of the Ice Dragon",
+        "valor": "Knight's Valor",
+        "might": 3752,
+        "phases": [
+            "enemies",
+            "enemies",
+            "boss"
+        ]
+    },
+    {
+        "name": "War of Fellmarsh",
+        "valor": "Knight's Valor",
+        "might": 4655,
+        "phases": [
+            "enemies",
+            "boss?",
+            "enemies",
+            "boss"
+        ]
+    },
+    {
+        "name": "Forgotten Sentinels",
+        "valor": "Knight's Valor",
+        "might": 4655,
+        "phases": [
+            "enemies",
+            "enemies",
+            "enemies",
+            "boss"
+        ]
+    },
+    {
+        "name": "Horde of the Goblin King",
+        "valor": "Captains's Valor",
+        "might": 6507,
+        "phases": [
+            "enemies",
+            "boss",
+            "enemies",
+            "boss"
+        ]
+    },
+    {
+        "name": "Battle of the Vile Gate",
+        "valor": "Captain's Valor",
+        "might": 8550,
+        "phases": [
+            "enemies",
+            "enemies",
+            "boss"
+        ]
+    },
+    {
+        "name": "Karnak's Final Stand",
+        "valor": "Captain's Valor",
+        "might": 10350,
+        "phases": [
+            "enemies?",
+            "boss? Onslaught?",
+            "enemies?",
+            "boss? Onslaught?"
+        ]
+    },
+    {
+        "name": "Hunted in the Mists",
+        "valor": "Champions's Valor",
+        "might": 12200,
+        "phases": [
+            "enemies?",
+            "boss? Onslaught?",
+            "enemies?",
+            "boss? Onslaught?"
+        ]
+    },
+    {
+        "name": "Legacy of Blades",
+        "valor": "Champions's Valor",
+        "might": 14625,
+        "phases": [
+            "enemies?",
+            "boss? Onslaught?",
+            "enemies?",
+            "boss? Onslaught?"
+        ]
+    },
+    {
+        "name": "Crystallized Vengeance",
+        "valor": "Guardians's Valor",
+        "might": 17460,
+        "phases": [
+            "enemies?",
+            "boss? Onslaught?",
+            "enemies?",
+            "boss? Onslaught?"
+        ]
+    },
+    {
+        "name": "Primal Mysteries",
+        "valor": "Guardians's Valor",
+        "might": 23530,
+        "phases": [
+            "enemies?",
+            "enemies",
+            "boss Onslaught"
+        ]
+    },
+    {
+        "name": "Rise of the Spider Queen",
+        "valor": "Guardians's Valor",
+        "might": 31360,
+        "phases": [
+            "enemies",
+            "enemies",
+            "boss Onslaught"
+        ]
+    },
+    {
+        "name": "The Shadow Returns",
+        "valor": "Guardians's Valor",
+        "might": 37080,
+        "phases": [
+            "enemies",
+            "boss Onslaught",
+            "boss Onslaught"
+        ]
+    }
+]

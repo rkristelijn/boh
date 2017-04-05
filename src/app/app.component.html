@@ -1,6 +1,15 @@
-<h1>
-  {{title}}
-  <!--<app-recipes-list></app-recipes-list>-->
-  <router-outlet></router-outlet>
-  <footer><small>Version 1.1.1 Mar 28 2017 5:02 Server Time @see <a href="https://github.com/rkristelijn/boh">github</a></small></footer>
-</h1>
+<h1>{{title}}</h1>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" routerLink="/recipes">Recipes</a>
+      <a class="navbar-brand" routerLink="/materials">Materials</a>
+    </div>
+  </div>
+</nav>
+<router-outlet></router-outlet>
+<footer class="footer">
+  <div class="container">
+    <span class="text-muted">Version 1.2.0 April 5 2017 20:02 Server Time - by Gius @see <a href="https://github.com/rkristelijn/boh">github</a></span>
+  </div>
+</footer>

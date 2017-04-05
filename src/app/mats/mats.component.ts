@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class MatsComponent implements OnInit {
   //properties
   name : string;
-  locations : string[];
+  locations : string[] = [];
 
   /**
    * Creates a new material
@@ -32,4 +32,11 @@ export class MatsComponent implements OnInit {
   ngOnInit() {
   }
 
+  hasLocation(search:string):boolean {
+    for(let loc of this.locations) {
+      console.log(loc);
+      if(loc.toLocaleLowerCase().indexOf(search) !== -1) return true;
+    }
+  return false;
+  }
 }

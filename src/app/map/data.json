@@ -1,0 +1,103 @@
+{
+    "name": "main",
+    "zones": [
+        {
+            "name": "Hunter's Way",
+            "type": "Quest"
+        },
+        {
+            "name": "Emerald Portal",
+            "type": "Quest"
+        },
+        {
+            "name": "Indigo Portal",
+            "type": "Quest"
+        },
+        {
+            "name": "Amber Portal",
+            "type": "Quest"
+        },
+        {
+            "name": "Black Market",
+            "type": "Shop"
+        },
+        {
+            "name": "Hunter's Folly",
+            "type": "Dungeon"
+        },
+        {
+            "name": "Glenfort Village",
+            "type": "area",
+            "zones": [
+                {
+                    "name": "Shattered Plane",
+                    "type": "area"
+                }
+            ]
+        },
+        {
+            "name": "Glenfort Plains",
+            "type": "area"
+        },
+        {
+            "name": "Ebain Forest",
+            "type": "area"
+        },
+        {
+            "name": "The Cursed Quarry",
+            "type": "area"
+        },
+        {
+            "name": "The Urgresh Mountains",
+            "type": "area"
+        },
+        {
+            "name": "Lake Nithus",
+            "type": "area"
+        },
+        {
+            "name": "Dragenmoor",
+            "type": "area"
+        },
+        {
+            "name": "The Frozen Value",
+            "type": "area"
+        },
+        {
+            "name": "Fellmarsh",
+            "type": "area"
+        },
+        {
+            "name": "The Undrian Plateau",
+            "type": "area",
+            "zones": [
+                {
+                    "name": "Vile Realm Gate",
+                    "type": "area",
+                    "zones": [
+                        {
+                            "name": "Serrated Scar",
+                            "type": "area"
+                        },
+                        {
+                            "name": "The Sanctuary",
+                            "type": "area"
+                        },
+                        {
+                            "name": "Accursed Steppe",
+                            "type": "area"
+                        },
+                        {
+                            "name": "Ethereal Expanse",
+                            "type": "area"
+                        },
+                        {
+                            "name": "Mistwalker Woodlands",
+                            "type": "area"
+                        }
+                    ]
+                },
+            ]
+        },
+    ]
+}
