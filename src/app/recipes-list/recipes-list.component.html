@@ -1,10 +1,16 @@
 <div class='panel panel-primary'>
     <div class='panel-heading'>
-        Recipe List
+        <div class="row">
+            <div class="col-sm-2">Recipe List</div>
+            <label class="col-sm-2" for="listFilter">Recipename filter by:</label>
+            <input class="col-sm-2" type='text' name="listFilter" [(ngModel)]='listFilter' />
+            <label class="col-sm-2" for="ingredientFilter">Material filter by:</label>
+            <input class="col-sm-2" type='text' name="ingredientFilter" [(ngModel)]='ingredientFilter' />
+        </div>
     </div>
 
     <div class='panel-body'>
-        <div class='row'>
+        <!--<div class='row'>
             <div class='col-md-2'>Recipename filter by:</div>
             <div class='col-md-4'>
                 <input type='text' [(ngModel)]='listFilter' />
@@ -15,7 +21,7 @@
             <div class='col-md-4'>
                 <input type='text' [(ngModel)]='ingredientFilter' />
             </div>
-        </div>
+        </div>-->
         <div class='row' *ngIf='listFilter || ingredientFilter'>
             <div class='col-md-6'>
                 <h3>Recipe filtered by: {{listFilter}} Ingredients filtered: by {{ingredientFilter}} </h3> 
@@ -39,7 +45,7 @@
                         <td>{{recipe.time | time}}</td>
                         <td>
                             <div *ngFor='let ingredient of recipe.ingredients'>
-                                {{ingredient.amount }} {{ingredient.material.name}}
+                                {{ingredient.amount }} <a routerLink="/materials/" [queryParams]="{search:ingredient.material.name}">{{ingredient.material.name}}</a>
                             </div>
                         </td>
                     </tr>

@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute, Params } from '@angular/router';
+
 import { MatsComponent } from '../mats/mats.component';
 //pipes
 import { MaterialFilterPipe } from './mats-list.material.pipe';
@@ -14,7 +16,7 @@ export class MatsListComponent implements OnInit {
   private staticValues: any[];
   locationFilter: string;
   materialFilter: string;
-  constructor() {
+  constructor(private activatedRoute: ActivatedRoute) {
     this.matsList = [];
   }
   /**
@@ -27,10 +29,20 @@ export class MatsListComponent implements OnInit {
 
   ngOnInit() {
     this.loadStaticValues();
+
+    this.activatedRoute.queryParams.subscribe((params: Params) => {
+      this.materialFilter = params['search'];
+    });
   }
 
   loadStaticValues() {
     this.staticValues = [
+      {
+        name: "Silverware",
+        drops: [
+          "Event: Werechef"
+        ]
+      },
       {
         name: 'Tier 14 White Shard',
         drops: [
@@ -126,46 +138,283 @@ export class MatsListComponent implements OnInit {
           "Craft: Pure Essence"
         ]
       },
-      { name: 'Refined Essence' },
-      { name: 'Essence' },
-      { name: 'Amber Flux' },
-      { name: 'Emerald Flux' },
-      { name: 'Indigo Flux' },
-      { name: 'Purifying Salts' },
-      { name: 'Refining Salts' },
-      { name: 'Alpha Wolf Paw' },
-      { name: 'Anger Spirits' },
-      { name: 'Black Wyvern Scale' },
-      { name: 'Blackened Ichor' },
-      { name: 'Blood Raven Tears' },
-      { name: 'Cave Serpent Venom' },
-      { name: 'Crystal Mantra Wurm Hide' },
-      { name: 'Dark Ether' },
-      { name: 'Despair' },
-      { name: 'Drops of Putrid Oooze' },
-      { name: 'Ember of Enduring Fire' },
-      { name: 'Exquisite Spider Silk' },
-      { name: 'Fell Leaf' },
-      { name: 'Fire Crystal' },
-      { name: 'Fladhead Stone' },
-      { name: 'Crizzly Tooth' },
-      { name: 'Impure Shadow' },
-      { name: 'Iron Basilisk Eye' },
-      { name: 'Iron Ore' },
-      { name: 'Mountain Lichen' },
-      { name: 'Pearl' },
-      { name: 'Polar Melt' },
-      { name: 'Pristine Crystal Shard' },
-      { name: 'Quill of the Fierce' },
-      { name: 'Scroll of Shattered Illusion' },
-      { name: 'Shard of the Ancient' },
-      { name: 'Spirit Orb' },
-      { name: 'Undead Ichor' },
-      { name: 'Unstable Ether' },
-      { name: 'Vile Extracts' },
-      { name: 'Vile Haunch' },
-      { name: 'Vile Lichen' },
-      { name: 'Werewolf Tooth' },
+      {
+        name: 'Refined Essence',
+        drops: [
+          "Recipe: Refined Essence",
+          "Zone: Incursion Portals",
+          "Dungeon: Vile Gate",
+          "Raid: Karnak's Final Stand",
+          "Raid: Rise of the Spider Queen"
+        ]
+      },
+      {
+        name: 'Essence',
+        drops: [
+          "Zone: Incursion Portals",
+          "Dungeon: Vile Gate",
+          "Raid: Karnak's Final Stand",
+          "Raid: All on The Undrian Plateau",
+          "Zones: All on The Undrian Plateau"
+        ]
+      },
+      {
+        name: 'Amber Flux',
+        drops: [
+          "Zone: Incursion Portals",
+          "Dungeon: Vile Gate",
+          "Raid: Karnak's Final Stand",
+          "Raid: All on The Undrian Plateau",
+          "Zones: All on The Undrian Plateau",
+          "Recipe: Amber Flux"
+        ]
+      },
+      {
+        name: 'Emerald Flux',
+        drops: [
+          "Zone: Incursion Portals",
+          "Dungeon: Vile Gate",
+          "Raid: Karnak's Final Stand",
+          "Raid: All on The Undrian Plateau",
+          "Zones: All on The Undrian Plateau",
+          "Recipe: Emerald Flux"
+        ]
+      },
+      {
+        name: 'Indigo Flux',
+        drops: [
+          "Zone: Incursion Portals",
+          "Dungeon: Vile Gate",
+          "Raid: Karnak's Final Stand",
+          "Raid: All on The Undrian Plateau",
+          "Zones: All on The Undrian Plateau",
+          "Recipe: Indigo Flux"
+        ]
+      },
+      {
+        name: 'Purifying Salts',
+        drops: [
+          "Shop: Majerio's Shop / Special / 250 silver"
+        ]
+      },
+      {
+        name: 'Refining Salts',
+        drops: [
+          "Shop: Majerio's Shop / Special / 500 silver"
+        ]
+      },
+      {
+        name: 'Alpha Wolf Paw',
+        drops: [
+          "Raid: ?",
+          "Zone: Dunia's meadow, Glenfort Planes"
+        ]
+      },
+      {
+        name: 'Anger Spirits',
+        drops: [
+          "Event: ?"
+        ]
+      },
+      {
+        name: 'Black Wyvern Scale',
+        drops: [
+          "Zone: Canyon of Shodows, Urgresh Mountains"
+        ]
+      },
+      {
+        name: 'Blackened Ichor',
+        drops: [
+          "Recipe: Blackend Ichor",
+          "Zone: Underwell Passage, Serrated Scar"
+        ]
+      },
+      {
+        name: 'Blood Raven Tears',
+        drops: [
+          "Area: Dense Forrest / Accursed Steppe"
+        ]
+      },
+      {
+        name: 'Cave Serpent Venom',
+        drops: [
+          "Area: Then Energy Mine, Cursed Quarry"
+        ]
+      },
+      {
+        name: 'Crystal Mantra Wurm Hide',
+        drops: [
+          "Area: Windswept Plains / Serrated Scar"
+        ]
+      },
+      {
+        name: 'Dark Ether',
+        drops: [
+          "Area: Helion's Pass / Lake Nithus",
+          "Area: Griving Glade / Lake Nithus"
+        ]
+      },
+      {
+        name: 'Despair',
+        drops: [
+          "Event: Tragick Valentine"
+        ]
+      },
+      {
+        name: 'Drops of Putrid Ooze',
+        drops: [
+          "Area: Putrid Pools / Serrated Scar"
+        ]
+      },
+      {
+        name: 'Ember of Enduring Fire',
+        drops: [
+          "Area: River Crossing / Mistwaler Woodlands"
+        ]
+      },
+      {
+        name: 'Exquisite Spider Silk',
+        drops: [
+          "Area: The Warrens / Serrated Scar"
+        ]
+      },
+      {
+        name: 'Fell Leaf',
+        drops: [
+          "Area: Graycoast Bog / Fellmarsh"
+        ]
+      },
+      {
+        name: 'Fire Crystal',
+        drops: [
+          "Area: Flame Cavern, Dragonmoor"
+        ]
+      },
+      {
+        name: 'Fladhead Stone',
+        drops: [
+          "Area: Floating Stones / The Sanctuary"
+        ]
+      },
+      {
+        name: 'Gnarly Sticks?',
+        drops: [
+          "Area: River's Edge, Ethereal Expanse"
+        ]
+      },
+      {
+        name: 'Crizzly Tooth',
+        drops: [
+          "Area: Heart of the Ebian, Ebian Forest"
+        ]
+      },
+      {
+        name: 'Impure Shadow',
+        drops: [
+          "Raid: Primal Mysteries"
+        ]
+      },
+      {
+        name: 'Iron Basilisk Eye',
+        drops: [
+          "Area: Flame Cavern / Dragonmoor"
+        ]
+      },
+      {
+        name: 'Iron Ore',
+        drops: [
+          "Area: Waterfall Cavern, Cursed Quarry"
+        ]
+      },
+      {
+        name: 'Mountain Lichen',
+        drops: [
+          "Area: Urgresh Peaks, Urgresh Mountains"
+        ]
+      },
+      {
+        name: 'Pearls',
+        drops: [
+          "Event: Pirates"
+        ]
+      },
+      {
+        name: 'Polar Melt',
+        drops: [
+          "Area: Icy Wastes, Frozen Vale"
+        ]
+      },
+      {
+        name: 'Pristine Crystal Shard',
+        drops: [
+          "Area: Underwell Passage / Serrated Scar"
+        ]
+      },
+      {
+        name: "Rock Wyvern Hides?",
+        drops: [
+          "Area: River's Edge / Ethereal Expanse"
+        ]
+      },
+      {
+        name: "Shadow Crystal?",
+        drops: [
+          "Area: Spirit Forest / Ethereal Expanse"
+        ]
+      },
+      {
+        name: 'Quill of the Fierce',
+        drops: [
+        ]
+      },
+      {
+        name: 'Scroll of Shattered Illusion',
+        drops: [
+        ]
+      },
+      {
+        name: 'Spirit Orb',
+        drops: [
+          "Area: Spirit Forest / Ethereal Expanse"
+        ]
+      },
+      {
+        name: 'Undead Ichor',
+        drops: [
+          "Area: Helion's Pass, Lake Nithus",
+          "Area: All with undeads"
+        ]
+      },
+      {
+        name: 'Unstable Ether',
+        drops: [
+          "Area: Ancestral Ruins, Lake Nithus"
+        ]
+      },
+      {
+        name: 'Vile Extracts',
+        drops: [
+          "Area: Sacred Landing / Mistwalker Woodlands"
+        ]
+      },
+      {
+        name: 'Vile Haunch',
+        drops: [
+          "Area: Overlord's View / Accursed Steppe"
+        ]
+      },
+      {
+        name: 'Vile Lichen',
+        drops: [
+          "Area: Dense Forest / Accursed Steppe"
+        ]
+      },
+      {
+        name: 'Werewolf Tooth',
+        drops: [
+          "Event: Werechef"
+        ]
+      },
       {
         name: 'Shard of the Righteous',
         drops: [
@@ -195,13 +444,44 @@ export class MatsListComponent implements OnInit {
         drops: [
           "Keeper: Met'Huzil Keeper of the Flame @ The Sanctuary / Third Floor 111e/K?"
         ]
+      },
+      {
+        name: "Iron Graver",
+        drops: [
+          "Shop: Majerio's Shop (10000 silver)"
+        ]
+      },
+      {
+        name: "Steel Graver",
+        drops: [
+          "Shop: Majerio's Shop (100000 silver)"
+        ]
+      },
+      {
+        name: "Diamond Graver",
+        drops: [
+          "Shop: Majerio's Shop (1000000 silver)",
+          "Shop: Majerio's Shop (20 Gold Shields)"
+        ]
+      },
+      {
+        name: "Prismatic Flux",
+        drops: [
+          "Recipe: Prismatic Flux"
+        ]
+      },
+       {
+        name: "Prismatic Gem",
+        drops: [
+          "Recipe: Prismatic Gem"
+        ]
       }
     ];
 
     for (let mats of this.staticValues) {
       let material = new MatsComponent(mats.name);
 
-      if(mats.drops) {
+      if (mats.drops) {
         for (let drop of mats.drops) {
           material.addLocation(drop);
         }

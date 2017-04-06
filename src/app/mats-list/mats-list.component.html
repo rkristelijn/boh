@@ -1,31 +1,23 @@
 <div class='panel panel-primary'>
     <div class='panel-heading'>
-        Material List
+        <div class="row">
+            <div class="col-sm-2">Material List</div>
+            <label class="col-sm-2" for="materialFilter">Material filter by:</label>
+            <input class="col-sm-2" type='text' name="materialFilter" [(ngModel)]='materialFilter' />
+            <label class="col-sm-2" for="locationFilter">Location filter by:</label>
+            <input class="col-sm-2" type='text' name="locationFilter" [(ngModel)]='locationFilter' />
+        </div>
     </div>
 
     <div class='panel-body'>
-
-        <div class='row'>
-            <div class='col-md-2'>Material filter by:</div>
-            <div class='col-md-4'>
-                <input type='text' [(ngModel)]='materialFilter' />
-            </div>
-        </div>
-        <div class='row'>
-            <div class='col-md-2'>Location filter by:</div>
-            <div class='col-md-4'>
-                <input type='text' [(ngModel)]='locationFilter' />
-            </div>
-        </div>
         <div class='row' *ngIf='materialFilter || locationFilter'>
             <div class='col-md-6'>
-                <h3>Materials filtered by: {{materialFilter}} Ingredients filtered: by {{locationFilter}} </h3> 
+                <h3>Materials filtered by: {{materialFilter}} Ingredients filtered: by {{locationFilter}} </h3>
             </div>
         </div>
-        
+
         <div class='table-responsive'>
-            <table class='table'
-                   *ngIf='matsList && matsList.length'>
+            <table class='table' *ngIf='matsList && matsList.length'>
                 <thead>
                     <tr>
                         <th>Name</th>

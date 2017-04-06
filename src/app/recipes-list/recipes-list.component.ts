@@ -123,7 +123,7 @@ export class RecipesListComponent implements OnInit {
               name: 'Prismatic Gem',
               amount: 3
             },{
-              name: 'Prismatic Flix',
+              name: 'Prismatic Flux',
               amount: 3
             },{
               name: 'Broken Ring',
@@ -342,7 +342,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Fire Crit Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 8 White Shards',
+              name: 'Tier 8 White Shard',
               amount: 500
             },{
               name: 'Fire Crystal',
@@ -357,7 +357,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Fire Crit Power Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 8 White Shards',
+              name: 'Tier 8 White Shard',
               amount: 500
             },{
               name: 'Fire Crystal',
@@ -372,7 +372,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Fire Resistance Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 14 White Shards',
+              name: 'Tier 14 White Shard',
               amount: 500
             },{
               name: 'Fire Crystal',
@@ -387,7 +387,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Ice Crit Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 8 White Shards',
+              name: 'Tier 8 White Shard',
               amount: 500
             },{
               name: 'Dark Ether',
@@ -402,7 +402,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Ice Crit Power Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 8 White Shards',
+              name: 'Tier 8 White Shard',
               amount: 500
             },{
               name: 'Dark Ether',
@@ -417,7 +417,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Ice Resistance Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 14 White Shards',
+              name: 'Tier 14 White Shard',
               amount: 500
             },{
               name: 'Dark Ether',
@@ -432,7 +432,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Melee Crit Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 8 White Shards',
+              name: 'Tier 8 White Shard',
               amount: 500
             },{
               name: 'Fire Crystal',
@@ -447,7 +447,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Melee Crit Power Gem out of White Shards and other materials - thanks Pip_",
           ingredients: [{
-              name: 'Tier 8 White Shards',
+              name: 'Tier 8 White Shard',
               amount: 500
             },{
               name: 'Dark Ichor',
@@ -477,7 +477,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Nature Crit Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 8 White Shards',
+              name: 'Tier 8 White Shard',
               amount: 500
             },{
               name: 'Fell Leaf',
@@ -492,7 +492,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Nature Crit Power Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 8 White Shards',
+              name: 'Tier 8 White Shard',
               amount: 500
             },{
               name: 'Fell Leaf',
@@ -507,7 +507,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Nature Resistance Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 14 White Shards',
+              name: 'Tier 14 White Shard',
               amount: 500
             },{
               name: 'Fell Leaf',
@@ -537,13 +537,13 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Prismatic Gem out of T4 Gem Shards",
           ingredients: [{
-              name: 'Tier 4 Red Shards',
+              name: 'Tier 4 Red Shard',
               amount: 50
             },{
-              name: 'Tier 4 Blue Shards',
+              name: 'Tier 4 Blue Shard',
               amount: 50
             },{
-              name: 'Tier 4 Yellow Shards',
+              name: 'Tier 4 Yellow Shard',
               amount: 50
             }
           ]
@@ -552,7 +552,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Spirit Crit Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 8 White Shards',
+              name: 'Tier 8 White Shard',
               amount: 500
             },{
               name: 'Mountain Lichen',
@@ -567,7 +567,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Spirit Crit Power Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 8 White Shards',
+              name: 'Tier 8 White Shard',
               amount: 500
             },{
               name: 'Mountain Lichen',
@@ -582,7 +582,7 @@ export class RecipesListComponent implements OnInit {
           time: 1440, // 24 hours in minutes
           description: "Creates one Spirit Resistance Gem out of White Shards and other materials",
           ingredients: [{
-              name: 'Tier 14 White Shards',
+              name: 'Tier 14 White Shard',
               amount: 500
             },{
               name: 'Mountain Lichen',

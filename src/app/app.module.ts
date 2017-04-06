@@ -9,6 +9,7 @@ import { MatsListComponent } from './mats-list/mats-list.component';
 import { RecipeComponent } from './recipe/recipe.component';
 import { RecipesListComponent } from './recipes-list/recipes-list.component';
 import { IngredientComponent } from './ingredient/ingredient.component';
+import { LocationsComponent } from './map/location.component';
 //pipes
 import { RecipeFilterPipe } from './recipes-list/recipes-list.pipe';
 import { RecipeIngredientFilterPipe } from './recipes-list/recipes-list.ingredients.pipe';
@@ -26,6 +27,7 @@ import { routing } from './app.routing';
     RecipeComponent,
     RecipesListComponent,
     IngredientComponent,
+    LocationsComponent,
     /*Pipes*/
     RecipeFilterPipe,
     RecipeIngredientFilterPipe,

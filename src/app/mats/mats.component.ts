@@ -34,7 +34,6 @@ export class MatsComponent implements OnInit {
 
   hasLocation(search:string):boolean {
     for(let loc of this.locations) {
-      console.log(loc);
       if(loc.toLocaleLowerCase().indexOf(search) !== -1) return true;
     }
   return false;

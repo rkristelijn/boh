@@ -3,6 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 
 import { RecipesListComponent } from './recipes-list/recipes-list.component';
 import { MatsListComponent } from './mats-list/mats-list.component';
+import { LocationsComponent } from './map/location.component';
 
 const appRoutes: Routes = [
   {
@@ -12,6 +13,10 @@ const appRoutes: Routes = [
   {
     path: 'materials',
     component : MatsListComponent
+  },
+  {
+    path: 'locations',
+    component : LocationsComponent
   },
   {
     path: '',
