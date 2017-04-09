@@ -4,6 +4,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { RecipesListComponent } from './recipes-list/recipes-list.component';
 import { MatsListComponent } from './mats-list/mats-list.component';
 import { LocationsComponent } from './map/location.component';
+import { RaidListComponent } from './raids/raid-list.component';
 
 const appRoutes: Routes = [
   {
@@ -17,6 +18,10 @@ const appRoutes: Routes = [
   {
     path: 'locations',
     component : LocationsComponent
+  },
+  {
+    path: 'raids',
+    component : RaidListComponent
   },
   {
     path: '',

@@ -104,29 +104,6 @@ Black Market Exclusive Recipes
 Black Market Random/Rotated Recipes
 - Various Power, Skill and Magic (125 gs/250 gs)
 
-### Raid overview: 
-Name;Might Requirement;Description;Toons needed;pressure (e/min)
--
-Gobblin' Goblins;0;(Level 3-6) One wave phase;3;6,2
-The Plaguerider;150;(Level 5-8) One wave phase, one boss phase;7,03030303;11,6
-Lockbolt's Reign;350;(Level 7-10) Two wave phases and one boss phase;8,027027027;9,9
-Wrath of the Overseer;650;(Level 8-11) Two wave phases and one boss phase;10,43243243;12,86666667
-Risen from the Depths;1150;(Level 9-12) Two wave phases and one boss phase;18;17,2
-Attack at Dawn;1850;(Level 12-15) Two wave phase and one boss phase;16,89189189;20,83333333
-Crypt of Corruption;2300;(Level 12-15) Two Onslaught wave phases and one Onslaught boss phase;25,05405405;30,9
-Dark Lord Helion;2800;(Level14-17) Wave phase, Boss phase, Wave phase, and the Boss phase;19,97674419;19,08888889
-Cursed Keep;3400;(Level 16-19 ) Wave phase, Boss phase, Wave phase and then Boss phase;25,51282051;28,42857143
-Vale of the Ice Dragon;3950;(Level 20) The Frozen Vale Two wave phases and one boss phase;27,5625;23,00869565
-War of Fellmarsh;4900;(Level 24-25 ) Fellmarsh Wave phase, Two Boss phases, One Onslaught Wave Phase(4e), Boss phase;33,04166667;27,5826087
-Horde of the Goblin King;6850;(Level 26-28 ) The Undrean Plateau Two Wave phases, and Two Boss phases;32,08;25,664
-Battle of the Vile Gate;9000;(Level 27-30 ) Shattered Plane One wave phase, one onslaught phase, one boss phase (10e Onslaught) ;32,08;25,664
-Karnak's Final Stand;11500;(Level 27-30 ) The Undrean Plateau Two wave phases, one boss phase;36,46341463;37,375
-Hunted in the Mists;15350;;26,74;21,392
-Legacy of Blades;16250;;36,16;28,928
-Crystallized Vengeance;19400;;;
-Primal Mysteries;36200;;;
-Rise of the Spider Queen;39200
-The Shadow Returns;41200
 
 ###Undrian plateau 
 https://www.venan.com/boh_forum/viewtopic.php?p=18424#p18424by
@@ -143,46 +120,6 @@ The flux quests are a lot easier now that it has been reduced to 3 of each flux 
 Morbid Analysis is the one that kills me now, need to kill 100 vile, so its back into the portals to spend around 70 - 80 energy on killing vile, the tough bit about this quest is that if you try to get it all in one portal then you will hit the final incursion level which can be tough for players that haven't got there might up very far yet, so might be easier for weaker players to just complete the first couple levels of a few different portals (this method is more time consuming, but a lot easier on the health pots and without the fear of death).
 
 'Shoot the messenger' and all three of the 'Old Wounds' quests cost 10 energy each and are all 5 wave dungeons, fairly straight forward and gives you a nice little back story of what the vile gate is and what lies beyond it.
-
-### Gems and Shards
-Gems
-Red: Health, Magic, Melee
-Blue: Crit Power, Physical Resist, Magic Resist
-Yellow: Haste, Dodge, Crit
- 
-Shards
-T3 - 100 is random T3 gem (square)
-Blue: Edas' Keep
-Red: Hunter's Folly
-Yelow: Ice Dragon's Lair
- 
-T4 - 100 is random T4 gem (round)
-B: Emperor's Court
-R: Hall of the Goblin King
-Y: The Vile Gate
-BRY: Karnak's Temple
- 
-T5 - 100 is random T5 gem (5 point)
-B: Prince of Blades
-R: Callisto's Keep
-Y: Disturbed Grave
- 
-T6 - 100 is random T6 gem (6 point)
-B: Yodrin's Tower
-R: Sha'lyn's Liar
-Y: Pinnacle
-
-### Keepers
-5 Shard of the Righteous - Mistwalker Woodlands - 148e/keeper - River Crossing 100e/k - Saydon keeper of mist
-5 Shard of the Ancient - Accused Steppe - 185e/k - Nested Perch / War Council 125e/k - Bromet keeper of ages
-5 Shard of the Eternal - Serrated Scar - 167e/k - Underwell Passage / Vile Cliff 167e/k - Orisin keeper of Silence 
-5 Shard of the Pure - Ethereal Expanse - 238e/k - Void Corridor 111e/k - Graphazul keeper of Void
- 
-1 Blood oath talisman
-1 Gem of Life - 3hrs
-1 Gem of Death - 3 hrs
-4 Immortal Binding - 3rd Floor, The Sanctuary - Met'Huzil keeper of the flame
-1 Amulet of Creation - 48hrs
 
 ###The Shards of Ironhaven
 Find the Shard…in Glenfort Plains – Eldritch Symbols I quest (lvl 8)

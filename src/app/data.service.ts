@@ -8,17 +8,26 @@ export class DataService {
     urlMaterials: string = './app/data/material-list.json';
     urlLocations: string = './app/data/locations.json';
     urlRecipes:   string = './app/data/recipe-list.json';
+    urlRaids:     string = './app/data/raid-list.json';
 
     materials: any[];
     recipes:   any[];
+    raids:     any[];
     locations: any;
+
+    /** empty constructure with dependancy injection for HTTP calls
+     * @param http 
+     */
     constructor(private http: Http) { }
+
+    /** Returns the materials either from memory or
+     * from a REST call
+     * @returns Observable <any>
+     */
     getMaterials(): Observable <any> {
         if (this.materials) {
-            console.log("materials from cache");
             return Observable.of(this.materials);
         } else {
-            console.log("getting data for materials...");
             return this.http.get(this.urlMaterials)
                 .map(res => res.json())
                 .do((data) => {
@@ -26,12 +35,15 @@ export class DataService {
                 });
         }
     }
+
+    /** Returns the materials either from memory or
+     * from a REST call
+     * @returns Observable <any>
+     */
     getLocations(): Observable <any> {
         if (this.locations) {
-            console.log("locations from cache");
             return Observable.of(this.locations);
         } else {
-            console.log("getting data for locations...");
             return this.http.get(this.urlLocations)
                 .map(res => res.json())
                 .do((data) => {
@@ -39,16 +51,35 @@ export class DataService {
                 });
         }
     }
+
+    /** Returns the materials either from memory or
+     * from a REST call
+     * @returns Observable <any>
+     */
     getRecipes(): Observable <any> {
         if (this.recipes) {
-            console.log("recipes from cache");
             return Observable.of(this.recipes);
         } else {
-            console.log("getting data for recipes...");
             return this.http.get(this.urlRecipes)
                 .map(res => res.json())
                 .do((data) => {
                     this.recipes = data;
+                });
+        }
+    }
+
+    /** Returns the list or Raids either from memory or
+     * from a REST call
+     * @returns Observable <any>
+     */
+    getRaids(): Observable <any> {
+        if (this.raids) {
+            return Observable.of(this.raids);
+        } else {
+            return this.http.get(this.urlRaids)
+                .map(res => res.json())
+                .do((data) => {
+                    this.raids = data;
                 });
         }
     }

@@ -1,0 +1,55 @@
+<div class='panel panel-primary'>
+    <div class='panel-heading'>
+        <div class="row">
+            <div class="col-sm-12">Raid List</div>
+        </div>
+    </div>
+
+    <div class='panel-body'>
+        <div class='table-responsive'>
+            <table class='table' *ngIf='raids && raids.length'>
+                <thead>
+                    <tr>
+                        <th (click)="sortOn($event, 'name')">Name<span [class]="getClass('name')"></span></th>
+                        <th (click)="sortOn($event, 'valor')">Valor<span [class]="getClass('valor')"></span></th>
+                        <th (click)="sortOn($event, 'might')">Might<span [class]="getClass('might')"></span></th>
+                        <th>Gold, Silver, Bronze Time</th>
+                        <th (click)="sortOn($event, 'waves')">Waves<span [class]="getClass('waves')"></span></th>
+                        <th>Phases</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><input type='text' name="nameFilter" [(ngModel)]='nameFilter' placeholder="Filter name..." /></td>
+                        <td>
+                            <select name="valorFilter" [(ngModel)]='valorFilter' placeholder="Filter valor...">
+                                <option name="" value=""></option>
+                                <option name="Squire's Valor" value="Squire's Valor">Squire's Valor</option>
+                                <option name="Soldier's Valor" value="Soldier's Valor">Soldier's Valor</option>
+                                <option name="Knight's Valor" value="Knight's Valor">Knight's Valor</option>
+                                <option name="Captain's Valor" value="Captain's Valor">Captain's Valor</option>
+                                <option name="Guardian's Valor" value="Guardian's Valor">Guardian's Valor</option>
+                        </select>
+                        </td>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <!--<tr *ngFor="let raid of raids | stringFilter:locationStringFilter:'name' | stringFilter:typeStringFilter:'type' | stringFilter:areaStringFilter:'parent' | orderBy : [sort] ">-->
+                    <tr *ngFor="let raid of raids | stringFilter:nameFilter:'name' | stringFilter:valorFilter:'valor' | orderBy : [sort] ">
+                        <td><a [routerLink]="['/locations']" [queryParams]="{search: raid.name}">{{ raid.name }}</a></td>
+                        <td>{{ raid.valor }}</td>
+                        <td>{{ raid.might }}</td>
+                        <td>
+                            <div>G:{{ raid.gold | time }}</div>
+                            <div>S:{{ raid.silver | time }}</div>
+                            <div>B:{{ raid.bronze | time }}</div>
+                        </td>
+                        <td>{{ raid.waves }}</td>
+                        <td>
+                            <div *ngFor="let phase of raid.phases; let i = index;">Phase {{ i+1 }}: {{ phase }}</div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

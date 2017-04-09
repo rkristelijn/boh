@@ -10,10 +10,11 @@ import { RecipeComponent } from './recipe/recipe.component';
 import { RecipesListComponent } from './recipes-list/recipes-list.component';
 import { IngredientComponent } from './ingredient/ingredient.component';
 import { LocationsComponent } from './map/location.component';
+import { RaidListComponent } from './raids/raid-list.component';
 //pipes
 import { RecipeFilterPipe } from './recipes-list/recipes-list.pipe';
 import { RecipeIngredientFilterPipe } from './recipes-list/recipes-list.ingredients.pipe';
-import { TimePipe } from './recipes-list/time.pipe';
+import { TimePipe } from '../assets/time.pipe';
 import { MaterialFilterPipe } from './mats-list/mats-list.material.pipe';
 import { LocationFilterPipe } from './mats-list/mats-list.location.pipe';
 import { HyperlinkPipe } from './mats-list/mats-list.hyperlink.pipe';
@@ -35,6 +36,7 @@ import { DataService } from './data.service';
     RecipesListComponent,
     IngredientComponent,
     LocationsComponent,
+    RaidListComponent,
     /*Pipes*/
     RecipeFilterPipe,
     RecipeIngredientFilterPipe,

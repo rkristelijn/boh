@@ -1,0 +1,300 @@
+[
+    {
+        "name": "Gobblin's Goblins",
+        "valor": "Squire's Valor",
+        "might": 0,
+        "gold": 30,
+        "silver": 90,
+        "bronze": 135,
+        "description": "Colette's fare has taken a turn for the worse since you've left, but the smells have managed to attract a horde of goblins who find the smell irrestible!",
+        "waves": 93,
+        "phases": [
+            "93 waves, enemies, Goblins"
+        ]
+    },
+    {
+        "name": "The Plaguerider",
+        "valor": "Squire's Valor",
+        "might": 150,
+        "gold": 40,
+        "silver": 120,
+        "bronze": 180,
+        "waves": 232,
+        "phases": [
+            "116 waves, enemies, Rath'een",
+            "116 waves, boss: Plaguerider Skar"
+        ]
+    },
+    {
+        "name": "Lockbolt's Reign",
+        "valor": "Squire's Valor",
+        "might": 350,
+        "gold": 60,
+        "silver": 180,
+        "bronze": 270,
+        "waves": 297,
+        "phases": [
+            "104 waves, enemies, bandits?",
+            "104 waves, enemies, bandits?",
+            "89 waves, boss: Lockbolt"
+        ]
+    },
+    {
+        "name": "Wrath of the Overseer",
+        "valor": "Squire's Valor",
+        "might": 650,
+        "gold": 60,
+        "silver": 180,
+        "bronze": 270,
+        "waves": 386,
+        "phases": [
+            "116 waves, enemies, Rath'eens, Undeads?",
+            "154 waves, enemies, Rath'eens, Undeads?",
+            "116 wavesw, boss: Undead Overseer"
+        ]
+    },
+    {
+        "name": "Risen from the Depths",
+        "valor": "Soldier's Valor",
+        "might": 1150,
+        "gold": 90,
+        "silver": 180,
+        "bronze": 270,
+        "waves": 774,
+        "phases": [
+            "232 waves, enemies, Rath'eens, Undeads?",
+            "232 waves, enemies, Rath'eens, Undeads?",
+            "310 waves, boss: Dark? Kraken"
+        ]
+    },
+    {
+        "name": "Attack at Dawn",
+        "valor": "Soldier's Valor",
+        "might": 1850,
+        "gold": 60,
+        "silver": 120,
+        "bronze": 180,
+        "waves": 625,
+        "phases": [
+            "125 waves, enemies, Rath'eens, Undeads?",
+            "250 waves, enemies: Rath'eens, Undeads?",
+            "250 waves, boss: General Zuur"
+        ]
+    },
+    {
+        "name": "Crypt of Corruption",
+        "valor": "Soldier's Valor",
+        "might": 2300,
+        "gold": 60,
+        "silver": 120,
+        "bronze": 180,
+        "waves": 927,
+        "phases": [
+            "309 waves, enemies, Onslaught",
+            "309 waves, enemies, Onslaught",
+            "309 waves, boss?: Onslaught "
+        ]
+    },
+    {
+        "name": "Dark Lord Helion",
+        "valor": "Soldier's Valor",
+        "might": 2800,
+        "gold": 90,
+        "silver": 180,
+        "bronze": 270,
+        "waves": 859,
+        "phases": [
+            "? waves, enemies",
+            "? waves, enemies",
+            "? waves, boss, Helion? exact name?"
+        ]
+    },
+    {
+        "name": "Cursed Keep",
+        "valor": "Knight's Valor",
+        "might": 3400,
+        "gold": 70,
+        "silver": 120,
+        "bronze": 180,
+        "waves": 995,
+        "phases": [
+            "119 waves, enemies",
+            "249 waves, boss, Cerberus",
+            "119 waves, enemies",
+            "348 waves, boss exact name?"
+        ]
+    },
+    {
+        "name": "Vale of the Ice Dragon",
+        "valor": "Knight's Valor",
+        "might": 3752,
+        "gold": 115,
+        "silver": 180,
+        "bronze": 270,
+        "waves": 1440,
+        "phases": [
+            "432 waves, enemies",
+            "576 waves, enemies",
+            "348 waves, boss, Vallus"
+        ]
+    },
+    {
+        "name": "War of Fellmarsh",
+        "valor": "Knight's Valor",
+        "might": 4655,
+        "gold": 115,
+        "silver": 180,
+        "bronze": 270,
+        "waves": 1600,
+        "phases": [
+            "440 waves, enemies",
+            "216 waves, enemies?",
+            "216 waves, boss? Pink Bogworm, snail, exact name?",
+            "488 waves, enemies?",
+            "488 waves, boss: Emperor Trask"
+        ]
+    },
+    {
+        "name": "Forgotten Sentinels (retired)",
+        "valor": "Knight's Valor",
+        "might": 4655,
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0,
+        "waves": 0,
+        "phases": [
+            "enemies",
+            "enemies",
+            "enemies",
+            "boss"
+        ]
+    },
+    {
+        "name": "Horde of the Goblin King",
+        "valor": "Captains's Valor",
+        "might": 6507,
+        "gold": 125,
+        "silver": 180,
+        "bronze": 270,
+        "waves": 1604,
+        "phases": [
+            "561 waves, enemies",
+            "321 waves, boss, Direhorn?",
+            "321 waves, enemies",
+            "401 waves, boss, Goblin King"
+        ]
+    },
+    {
+        "name": "Battle of the Vile Gate",
+        "valor": "Captain's Valor",
+        "might": 8550,
+        "gold": 80,
+        "silver": 120,
+        "bronze": 180,
+        "waves": 1604,
+        "phases": [
+            "642 waves, enemies",
+            "481 waves, enemies",
+            "401 waves, boss name?"
+        ]
+    },
+    {
+        "name": "Karnak's Final Stand",
+        "valor": "Captain's Valor",
+        "might": 10350,
+        "gold": 80,
+        "silver": 120,
+        "bronze": 180,
+        "waves": 1495,
+        "phases": [
+            "507 waves, enemies?",
+            "494 waves, boss?enemies? is Lunar/Solar construct?",
+            "494 waves, bos Karnak?"
+        ]
+    },
+    {
+        "name": "Hunted in the Mists",
+        "valor": "Champions's Valor",
+        "might": 12200,
+        "gold": 125,
+        "silver": 180,
+        "bronze": 270,
+        "waves": 1337,
+        "phases": [
+            "535 waves, enemies?",
+            "401 waves, enemies?",
+            "401 waves, boss stupid bear, whatshisnameagain?"
+        ]
+    },
+    {
+        "name": "Legacy of Blades",
+        "valor": "Champions's Valor",
+        "might": 14625,
+        "gold": 125,
+        "silver": 180,
+        "bronze": 270,
+        "waves": 1808,
+        "phases": [
+            "669 waves, enemies?",
+            "402 waves, boss? Prince of Blades",
+            "402 waves, enemies?",
+            "335 waves, boss? Sedalb fo Drol?"
+        ]
+    },
+    {
+        "name": "Crystallized Vengeance",
+        "valor": "Guardian's Valor",
+        "might": 17460,
+        "gold": 125,
+        "silver": 180,
+        "bronze": 270,
+        "waves": 1672,
+        "phases": [
+            "enemies?",
+            "enemies?",
+            "boss? Onslaught? "
+        ]
+    },
+    {
+        "name": "Primal Mysteries",
+        "valor": "Guardian's Valor",
+        "might": 23530,
+        "gold": 85,
+        "silver": 120,
+        "bronze": 180,
+        "waves": 1630,
+        "phases": [
+            "652 waves, enemies",
+            "489 waves, enemies",
+            "489 waves, boss, The Originator"
+        ]
+    },
+    {
+        "name": "Rise of the Spider Queen",
+        "valor": "Guardian's Valor",
+        "might": 31360,
+        "gold": 80,
+        "silver": 120,
+        "bronze": 180,
+        "waves": 1236,
+        "phases": [
+            "465 waves, enemies",
+            "465 waves, enemies",
+            "306, boss, The Spider Queen, Onslaught 10e each"
+        ]
+    },
+    {
+        "name": "The Shadow Returns",
+        "valor": "Guardian's Valor",
+        "might": 37080,
+        "gold": 85,
+        "silver": 120,
+        "bronze": 180,
+        "waves": 1057,
+        "phases": [
+            "486 waves, enemies",
+            "245 waves, boss, The Hunter, Onslaught 10e each",
+            "326 waves, boss, The Eldritch Hunter, Onslaughter 10e each"
+        ]
+    }
+]
