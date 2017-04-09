@@ -4,9 +4,9 @@
  font-family: Arial;
 }
 
-/*input[type=text] {
-    color: black;
-}*/
+.activeRouterLink {
+    font-weight: bold;
+}
 
 th {
     cursor: pointer;
