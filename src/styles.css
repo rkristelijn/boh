@@ -3,3 +3,32 @@
  
  font-family: Arial;
 }
+
+/*input[type=text] {
+    color: black;
+}*/
+
+th {
+    cursor: pointer;
+}
+.caret-up {
+    width: 0; 
+    height: 0; 
+    border-left: 4px solid rgba(0, 0, 0, 0);
+    border-right: 4px solid rgba(0, 0, 0, 0);
+    border-bottom: 4px solid;
+    
+    display: inline-block;
+    margin-left: 2px;
+    vertical-align: middle;
+}
+table {
+    table-layout:fixed;
+}
+thead {
+    color: #337AB7;
+}
+td {
+    text-overflow: ellipsis;
+    overflow:hidden;
+}

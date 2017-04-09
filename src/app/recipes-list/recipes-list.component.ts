@@ -2,13 +2,15 @@ import { Component, OnInit } from '@angular/core';
 
 import {RecipeComponent } from '../recipe/recipe.component';
 import {TimePipe } from './time.pipe';
-//import { IngredientComponent } from '../ingredient/ingredient.component';
+import { OrderBy } from '../../assets/order.pipe';
+
 @Component({
   selector: 'app-recipes-list',
   templateUrl: './recipes-list.component.html',
   styleUrls: ['./recipes-list.component.css']
 })
 export class RecipesListComponent implements OnInit {
+  sort:string = 'name';
   private staticValues:any[];
   recipes: RecipeComponent[];
   listFilter: string;
@@ -1153,5 +1155,33 @@ export class RecipesListComponent implements OnInit {
     }
 
     if(log) console.log(this.recipes);
+  }
+
+  /// sorting events
+
+  /**
+   * 
+   * @param event 
+   * @param col 
+   */
+  sortOn(event, col) {
+    let direction = "";
+    if (this.sort === col) {
+      this.sort = `-${col}`;
+      direction = "-up";
+    } else this.sort = col;
+    switch (event.srcElement.tagName) {
+      case "TR": event.srcElement.children[0].className = `caret${direction}`; break;
+      case "SPAN": event.srcElement.className = `caret${direction}`; break;
+    }
+  }
+
+  /** if this.sort starts with -, the direction is up, not down
+   * 
+   * @param item 
+   */
+  getClass(item) {
+    let direction = (this.sort[0]) === '-' ? "-up" : "";
+    if (item === this.sort || this.sort === `-${item}`) return `caret${direction}`;
   }
 }

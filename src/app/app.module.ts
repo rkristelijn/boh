@@ -16,6 +16,10 @@ import { RecipeIngredientFilterPipe } from './recipes-list/recipes-list.ingredie
 import { TimePipe } from './recipes-list/time.pipe';
 import { MaterialFilterPipe } from './mats-list/mats-list.material.pipe';
 import { LocationFilterPipe } from './mats-list/mats-list.location.pipe';
+import { HyperlinkPipe } from './mats-list/mats-list.hyperlink.pipe';
+import { StringFilterPipe } from '../assets/stringFilter.pipe';
+import { OrderBy } from '../assets/order.pipe';
+
 //router
 import { routing } from './app.routing';
 
@@ -33,7 +37,11 @@ import { routing } from './app.routing';
     RecipeIngredientFilterPipe,
     TimePipe,
     MaterialFilterPipe,
-    LocationFilterPipe
+    LocationFilterPipe,
+    HyperlinkPipe,
+    /*Generic pipes*/
+    StringFilterPipe,
+    OrderBy
   ],
   imports: [
     BrowserModule,

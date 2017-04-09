@@ -1,33 +1,39 @@
 import { Component, OnInit } from '@angular/core';
+import { ActivatedRoute, Params } from '@angular/router';
 
-import {Http} from '@angular/http';
+import { Http } from '@angular/http';
+
+//import { OrderBy } from '../../assets/order.pipe';
+//qimport { LocationStringFilterPipe } from './locations.filter.pipe';
 
 @Component({
   selector: 'app-location',
   templateUrl: './location.component.html',
   styleUrls: ['./location.component.css']
 })
-export class LocationsComponent implements OnInit {
+export class LocationsComponent {
   map: any;
   locations: any[] = [];
-  constructor(private http:Http) {
+  sort: string = 'name';
+  locationStringFilter: string;
+  typeStringFilter: string;
+  areaStringFilter: string;
+
+  constructor(private http: Http, private activatedRoute: ActivatedRoute) {
     this.http.get('./app/map/data.json').subscribe(res => {
       this.map = res.json();
-      //console.log(this.map)
-      this.loadLocations(this.map.zones, 'main');
-      console.log("locations", this.locations);
+      this.loadLocations(this.map.zones, '');
     });
-   }
 
-  ngOnInit() {}
+    this.activatedRoute.queryParams.subscribe((params: Params) => {
+      this.locationStringFilter = params['search'];
+    });
+  }
 
   loadLocations(items, parent) {
-    console.log("items", items);
-    if(items) for (let item of items) {
-      console.log("item",item);
-      if (item.type === "Area") {
+    if (items) for (let item of items) {
+      if (item.zones) {
         this.addLocation(item.name, item.type, parent);
-        console.log("going to load:", item.zones);
         this.loadLocations(item.zones, item.name);
       } else {
         this.addLocation(item.name, item.type, parent);
@@ -41,6 +47,34 @@ export class LocationsComponent implements OnInit {
       type: type,
       parent: parent
     });
+  }
+
+  /// sorting events
+
+  /**
+   * 
+   * @param event 
+   * @param col 
+   */
+  sortOn(event, col) {
+    let direction = "";
+    if (this.sort === col) {
+      this.sort = `-${col}`;
+      direction = "-up";
+    } else this.sort = col;
+    switch (event.srcElement.tagName) {
+      case "TR": event.srcElement.children[0].className = `caret${direction}`; break;
+      case "SPAN": event.srcElement.className = `caret${direction}`; break;
+    }
+  }
+
+  /** if this.sort starts with -, the direction is up, not down
+   * 
+   * @param item 
+   */
+  getClass(item) {
+    let direction = (this.sort[0]) === '-' ? "-up" : "";
+    if (item === this.sort || this.sort === `-${item}`) return `caret${direction}`;
   }
 
 }

@@ -1,5 +1,5 @@
 {
-    "name": "main",
+    "name": "",
     "zones": [
         {
             "name": "Hunter's Way",
@@ -7,15 +7,15 @@
         },
         {
             "name": "Emerald Portal",
-            "type": "Quest"
+            "type": "Portal"
         },
         {
             "name": "Indigo Portal",
-            "type": "Quest"
+            "type": "Portal"
         },
         {
             "name": "Amber Portal",
-            "type": "Quest"
+            "type": "Portal"
         },
         {
             "name": "Black Market",
@@ -31,69 +31,553 @@
             "zones": [
                 {
                     "name": "Shattered Plane",
-                    "type": "Area"
+                    "type": "Portal",
+                    "zones": [
+                        {
+                            "name": "Majerio's Portal",
+                            "type": "Portal"
+                        },
+                        {
+                            "name": "Karnak's Final Stand",
+                            "type": "Raid"
+                        },
+                        {
+                            "name": "Debris Field",
+                            "type": "Quest"
+                        },
+                        {
+                            "name": "Karnak's Temple",
+                            "type": "Dungeon"
+                        }
+                    ]
+                },
+                {
+                    "name": "Majerio's Shop",
+                    "type": "Shop"
+                },
+                {
+                    "name": "Workshop",
+                    "type": "Shop"
+                },
+                {
+                    "name": "Training Hall",
+                    "type": "Shop"
+                },
+                {
+                    "name": "Mucky Duck Inn",
+                    "type": "Shop"
+                },
+                {
+                    "name": "Gobblin's Goblins",
+                    "type": "Raid"
+                },
+                {
+                    "name": "Barber Shop",
+                    "type": "Shop"
+                },
+                {
+                    "name": "My Home",
+                    "type": "Shop"
+                },
+                {
+                    "name": "Glenfort Temple",
+                    "type": "Shop"
+                },
+                {
+                    "name": "Glenfort Coliseum",
+                    "type": "Shop"
                 }
             ]
         },
         {
             "name": "Glenfort Plains",
-            "type": "Area"
+            "type": "Area",
+            "zones": [
+                {
+                    "name": "The Plaguerider",
+                    "type": "Raid"
+                },
+                {
+                    "name": "Plaguerider's Pass",
+                    "type": "Dungeon"
+                },
+                {
+                    "name": "Glenfort River",
+                    "type": "Quest"
+                },
+                {
+                    "name": "The Fallow Fields",
+                    "type": "Elite"
+                },
+                {
+                    "name": "Dunia's Meadow",
+                    "type": "Quest"
+                }
+            ]
         },
         {
             "name": "Ebain Forest",
-            "type": "Area"
+            "type": "Area",
+            "zones": [
+                {
+                    "name": "The Deep Wood",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Lockbolt's Grove",
+                    "type": "Dungeon"
+                },
+                {
+                    "name": "Heart of Ebian",
+                    "type": "Elite"
+                },
+                {
+                    "name": "Ebian Clearing",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Forest Entrance",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Lockbolt's Reign",
+                    "type": "Raid"
+                }
+            ]
         },
         {
             "name": "The Cursed Quarry",
-            "type": "Area"
+            "type": "Area",
+            "zones": [
+                {
+                    "name": "The Energy Mine",
+                    "type": "Elite"
+                },
+                {
+                    "name": "Diamond Mine",
+                    "type": "Quest"
+                },
+                {
+                    "name": "The Pit",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Wrath of the Overseer",
+                    "type": "Raid"
+                },
+                {
+                    "name": "Rath'een Ridge",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Bloodstone Burrow",
+                    "type": "Dungeon"
+                },
+                {
+                    "name": "Risen from the Depths",
+                    "type": "Raid"
+                },
+                {
+                    "name": "Waterfall Cavern",
+                    "type": "Quest"
+                },
+                {
+                    "name": "The Kraken's Lair",
+                    "type": "Dungeon"
+                }
+            ]
         },
         {
             "name": "The Urgresh Mountains",
-            "type": "Area"
+            "type": "Area",
+            "zones": [
+                {
+                    "name": "The Steppes of Cerbarus",
+                    "type": "Dungeon"
+                },
+                {
+                    "name": "The Seething Swamp",
+                    "type": "Quest"
+                },
+                {
+                    "name": "The Cliffs of Zuur",
+                    "type": "Dungeon"
+                },
+                {
+                    "name": "Caves of the Fallen",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Attack at Dawn",
+                    "type": "Raid"
+                },
+                {
+                    "name": "The Foothills",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Urgresh Borderlands",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Canyon of Shadow",
+                    "type": "Elite"
+                },
+                {
+                    "name": "Urgresh Peak",
+                    "type": "Quest"
+                }
+            ]
         },
         {
             "name": "Lake Nithus",
-            "type": "Area"
+            "type": "Area",
+            "zones": [
+                {
+                    "name": "Crypt of Curruption",
+                    "type": "Raid"
+                },
+                {
+                    "name": "The Infested Coast",
+                    "type": "Quest"
+                },
+                {
+                    "name": "The Darkened Shores",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Isle of Nithus",
+                    "type": "Quest"
+                },
+                {
+                    "name": "The Shallows",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Helion Temple",
+                    "type": "Dungeon"
+                },
+                {
+                    "name": "The City of Nithus",
+                    "type": "Dungeon"
+                },
+                {
+                    "name": "Dark Loard Helion",
+                    "type": "Raid"
+                },
+                {
+                    "name": "The Grieving Glade",
+                    "type": "Quest"
+                },
+                {
+                    "name": "The Ghost Ship",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Nithus Boglands",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Ancestral Nithus",
+                    "type": "Elite"
+                }
+            ]
         },
         {
-            "name": "Dragenmoor",
-            "type": "Area"
+            "name": "Dragonmoor",
+            "type": "Area",
+            "zones": [
+                {
+                    "name": "Shores of the Realm",
+                    "type": "Quest"
+                },
+                {
+                    "name": "The Shadow Returns",
+                    "type": "Raid"
+                },
+                {
+                    "name": "Cliffside Forest",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Dragonmoor Canyon",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Cursed Keep",
+                    "type": "Raid"
+                },
+                {
+                    "name": "Lava Caves",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Flame Cavern",
+                    "type": "Elite"
+                },
+                {
+                    "name": "Edda's Keep",
+                    "type": "Dungeon"
+                }
+            ]
         },
         {
             "name": "The Frozen Value",
-            "type": "Area"
+            "type": "Area",
+            "zones": [
+                {
+                    "name": "Ice Dragon's Lair",
+                    "type": "Dungeon"
+                },
+                {
+                    "name": "The Tomb of Vallus",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Vale of the Ice Dragon",
+                    "type": "Raid"
+                },
+                {
+                    "name": "Glacial Drift",
+                    "type": "Quest"
+                },
+                {
+                    "name": "The Icy Wastes",
+                    "type": "Quest"
+                }
+            ]
         },
         {
             "name": "Fellmarsh",
-            "type": "Area"
+            "type": "Area",
+            "zones": [
+                {
+                    "name": "War of Fellmarsh",
+                    "type": "Raid"
+                },
+                {
+                    "name": "Ironhaven Tower",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Shadow's Gate",
+                    "type": "Quest"
+                },
+                {
+                    "name": "The Emperor's Court",
+                    "type": "Dungeon"
+                },
+                {
+                    "name": "Graycoast Bog",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Old Market Square",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Ferndell Swamp",
+                    "type": "Quest"
+                },
+                {
+                    "name": "The Barrens",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Fellmarsh Caverns",
+                    "type": "Quest"
+                }
+            ]
         },
         {
             "name": "The Undrian Plateau",
             "type": "Area",
             "zones": [
                 {
-                    "name": "Vile Realm Gate",
-                    "type": "Area",
+                    "name": "Undrian Gate",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Horde of the Goblin King",
+                    "type": "Raid"
+                },
+                {
+                    "name": "Hall of the Goblin King",
+                    "type": "Dungeon"
+                },
+                {
+                    "name": "The Switchback",
+                    "type": "Quest"
+                },
+                {
+                    "name": "The Vile Gate",
+                    "type": "Dungeon"
+                },
+                {
+                    "name": "Battle of the Vile Gate",
+                    "type": "Raid"
+                },
+                {
+                    "name": "Vile Gate Realm",
+                    "type": "Portal",
                     "zones": [
                         {
                             "name": "Serrated Scar",
-                            "type": "Area"
+                            "type": "Area",
+                            "zones": [
+                                {
+                                    "name": "Windswept Plans",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Rise of the Spider Queen",
+                                    "type": "Raid"
+                                },
+                                {
+                                    "name": "Sha'lyn's Lair",
+                                    "type": "Dungeon"
+                                },
+                                {
+                                    "name": "The Warrens",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Vile Cliffs",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Underwell Passage",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Putrid Pools",
+                                    "type": "Quest"
+                                }
+                            ]
                         },
                         {
                             "name": "The Sanctuary",
-                            "type": "Area"
+                            "type": "Area",
+                            "zones": [
+                                {
+                                    "name": "Third Floor",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Crystallized Vengeance",
+                                    "type": "Raid"
+                                },
+                                {
+                                    "name": "Pinnacle",
+                                    "type": "Dungeon"
+                                }
+                            ]
                         },
                         {
                             "name": "Accursed Steppe",
-                            "type": "Area"
+                            "type": "Area",
+                            "zones": [
+                                {
+                                    "name": "War Council",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Legacy of Blades",
+                                    "type": "Raid"
+                                },
+                                {
+                                    "name": "The Prince of Blades",
+                                    "type": "Dungeon"
+                                },
+                                {
+                                    "name": "Disturbed Grave",
+                                    "type": "Dungeon"
+                                },
+                                {
+                                    "name": "Field of the Dead",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Dense Forest",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Nested Perch",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Overlord's View",
+                                    "type": "Quest"
+                                }
+                            ]
                         },
                         {
                             "name": "Ethereal Expanse",
-                            "type": "Area"
+                            "type": "Area",
+                            "zones": [
+                                {
+                                    "name": "River's Edge",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Primal Mysteries",
+                                    "type": "Raid"
+                                },
+                                {
+                                    "name": "Yodrin's Tower",
+                                    "type": "Dungeon"
+                                },
+                                {
+                                    "name": "Void Corridor",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Spirit Forest",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Floating Stones",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Lower Quarter",
+                                    "type": "Quest"
+                                }
+                            ]
                         },
                         {
                             "name": "Mistwalker Woodlands",
-                            "type": "Area"
+                            "type": "Area",
+                            "zones": [
+                                {
+                                    "name": "River Crossing",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Hunted in the Mist",
+                                    "type": "Raid"
+                                },
+                                {
+                                    "name": "Callisto's Keep",
+                                    "type": "Dungeon"
+                                },
+                                {
+                                    "name": "Estate Grounds",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Broken Willow",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Sacred Landing",
+                                    "type": "Quest"
+                                },
+                                {
+                                    "name": "Stabilized Portal",
+                                    "type": "Portal"
+                                }
+                            ]
                         }
                     ]
                 }

@@ -1,32 +1,29 @@
 <div class='panel panel-primary'>
     <div class='panel-heading'>
         <div class="row">
-            <div class="col-sm-2">Location List</div>
-            <!--<label class="col-sm-2" for="materialFilter">Material filter by:</label>
-            <input class="col-sm-2" type='text' name="materialFilter" [(ngModel)]='materialFilter' />
-            <label class="col-sm-2" for="locationFilter">Location filter by:</label>
-            <input class="col-sm-2" type='text' name="locationFilter" [(ngModel)]='locationFilter' />-->
+            <div class="col-sm-12">Location List</div>
         </div>
     </div>
 
     <div class='panel-body'>
-        <!--<div class='row' *ngIf='materialFilter || locationFilter'>
-            <div class='col-md-6'>
-                <h3>Materials filtered by: {{materialFilter}} Ingredients filtered: by {{locationFilter}} </h3>
-            </div>
-        </div>-->
+        
 
         <div class='table-responsive'>
             <table class='table' *ngIf='locations && locations.length'>
                 <thead>
                     <tr>
-                        <th>Name</th>
-                        <th>Area</th>
-                        <th>Parent</th>
+                        <th (click)="sortOn($event, 'name')">Name<span [class]="getClass('name')"></span></th>
+                        <th (click)="sortOn($event, 'type')">Type<span [class]="getClass('type')"></span></th>
+                        <th (click)="sortOn($event, 'parent')">Area<span [class]="getClass('parent')"></span></th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr *ngFor='let location of locations'>
+                    <tr>
+                        <td><input type='text' name="locationStringFilter" [(ngModel)]='locationStringFilter' placeholder="Filter location..."/></td> 
+                        <td><input type='text' name="typeStringFilter" [(ngModel)]='typeStringFilter' placeholder="Filter area..."/></td> 
+                        <td><input type='text' name="areaStringFilter" [(ngModel)]='areaStringFilter' placeholder="Filter area..."/></td> 
+                    </tr>
+                    <tr *ngFor="let location of locations | stringFilter:locationStringFilter:'name' | stringFilter:typeStringFilter:'type' | stringFilter:areaStringFilter:'parent' | orderBy : [sort] ">
                         <td>{{location.name}}</td>
                         <td>{{location.type}}</td>
                         <td>{{location.parent}}</td>

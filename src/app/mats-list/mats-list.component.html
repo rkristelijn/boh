@@ -1,35 +1,36 @@
 <div class='panel panel-primary'>
     <div class='panel-heading'>
         <div class="row">
-            <div class="col-sm-2">Material List</div>
-            <label class="col-sm-2" for="materialFilter">Material filter by:</label>
-            <input class="col-sm-2" type='text' name="materialFilter" [(ngModel)]='materialFilter' />
-            <label class="col-sm-2" for="locationFilter">Location filter by:</label>
-            <input class="col-sm-2" type='text' name="locationFilter" [(ngModel)]='locationFilter' />
+            <div class="col-sm-12">Material List</div>
         </div>
     </div>
 
     <div class='panel-body'>
-        <div class='row' *ngIf='materialFilter || locationFilter'>
+        <!--<div class='row' *ngIf='materialFilter || locationFilter'>
             <div class='col-md-6'>
                 <h3>Materials filtered by: {{materialFilter}} Ingredients filtered: by {{locationFilter}} </h3>
             </div>
-        </div>
+        </div>-->
 
         <div class='table-responsive'>
             <table class='table' *ngIf='matsList && matsList.length'>
                 <thead>
                     <tr>
-                        <th>Name</th>
+                        <th (click)="sortOn($event, 'name')">Name<span [class]="getClass('name')"></span></th>
                         <th>Location</th>
                     </tr>
                 </thead>
                 <tbody>
-                    <tr *ngFor='let material of matsList | materialFilter:materialFilter | locationFilter:locationFilter'>
+                    <tr>
+                        <td><input type='text' name="materialFilter" [(ngModel)]='materialFilter' placeholder="Filter materials..." /></td>
+                        <td><input type='text' name="locationFilter" [(ngModel)]='locationFilter' placeholder="Filter locations..." /></td>
+                    </tr>
+                    <tr *ngFor='let material of matsList | materialFilter:materialFilter | locationFilter:locationFilter | orderBy : [sort]'>
                         <td>{{material.name}}</td>
                         <td>
                             <div *ngFor="let drop of material.locations">
-                                {{drop}}
+                                <div *ngIf="!getLink(drop)">{{ drop }}</div>
+                                <a *ngIf="getLink(drop)" [routerLink]="getLink(drop)" [queryParams]="getLink(drop,true)">{{ drop }}</a>
                             </div>
                         </td>
                     </tr>
