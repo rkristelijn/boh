@@ -23,6 +23,9 @@ import { OrderBy } from '../assets/order.pipe';
 //router
 import { routing } from './app.routing';
 
+//data
+import { DataService } from './data.service';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -49,7 +52,7 @@ import { routing } from './app.routing';
     HttpModule,
     routing
   ],
-  providers: [],
+  providers: [DataService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
