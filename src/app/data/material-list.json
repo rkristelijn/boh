@@ -14,7 +14,7 @@
     {
         "name": "Tier 3 Blue Shard",
         "drops": [
-            "Dungeon: Edas' Keep"
+            "Dungeon: Eddas' Keep"
         ]
     },
     {
@@ -95,125 +95,194 @@
     {
         "name": "Pure Essence",
         "drops": [
+            "Portals: Incursion Portals",
+            "Dungeon: Vile Gate",
+            "Raid: Karnak's Final Stand",
+            "Raid: The Vile Gate",
+            "Raid: Primal Mysteries",
             "Raid: Rise of the Spider Queen",
             "Raid: The Shadow Returns",
-            "Craft: Pure Essence"
+            "Raid: Hunted in the Mist",
+            "Raid: Crystallized Vengeance",
+            "Zones: All on The Undrian Plateau",
+            "Zones: All in Vile Realm",
+            "Recipe: Pure Essence"
         ]
     },
     {
         "name": "Refined Essence",
         "drops": [
             "Recipe: Refined Essence",
-            "Zone: Incursion Portals",
+            "Portals: Incursion Portals",
             "Dungeon: Vile Gate",
             "Raid: Karnak's Final Stand",
-            "Raid: Rise of the Spider Queen"
+            "Raid: The Vile Gate",
+            "Raid: Primal Mysteries",
+            "Raid: Rise of the Spider Queen",
+            "Raid: The Shadow Returns",
+            "Raid: Hunted in the Mist",
+            "Raid: Crystallized Vengeance",
+            "Zones: All on The Undrian Plateau",
+            "Zones: All in Vile Realm"
         ]
     },
     {
         "name": "Essence",
         "drops": [
-            "Zone: Incursion Portals",
+            "Portals: Incursion Portals",
             "Dungeon: Vile Gate",
             "Raid: Karnak's Final Stand",
-            "Raid: All on The Undrian Plateau",
-            "Zones: All on The Undrian Plateau"
+            "Raid: The Vile Gate",
+            "Raid: Primal Mysteries",
+            "Raid: Rise of the Spider Queen",
+            "Raid: The Shadow Returns",
+            "Raid: Hunted in the Mist",
+            "Raid: Crystallized Vengeance",
+            "Zones: All on The Undrian Plateau",
+            "Zones: All in Vile Realm"
         ]
     },
     {
         "name": "Amber Flux",
         "drops": [
-            "Zone: Incursion Portals",
+            "Quest: Incursion Portals",
             "Dungeon: Vile Gate",
             "Raid: Karnak's Final Stand",
-            "Raid: All on The Undrian Plateau",
+            "Raid: The Vile Gate",
+            "Raid: Primal Mysteries",
+            "Raid: Rise of the Spider Queen",
+            "Raid: The Shadow Returns",
+            "Raid: Hunted in the Mist",
+            "Raid: Crystallized Vengeance",
             "Zones: All on The Undrian Plateau",
+            "Zones: All in Vile Realm",
             "Recipe: Amber Flux"
         ]
     },
     {
         "name": "Emerald Flux",
         "drops": [
-            "Zone: Incursion Portals",
+            "Quest: Incursion Portals",
             "Dungeon: Vile Gate",
             "Raid: Karnak's Final Stand",
-            "Raid: All on The Undrian Plateau",
+            "Raid: The Vile Gate",
+            "Raid: Primal Mysteries",
+            "Raid: Rise of the Spider Queen",
+            "Raid: The Shadow Returns",
+            "Raid: Hunted in the Mist",
+            "Raid: Crystallized Vengeance",
             "Zones: All on The Undrian Plateau",
+            "Zones: All in Vile Realm",
             "Recipe: Emerald Flux"
         ]
     },
     {
         "name": "Indigo Flux",
         "drops": [
-            "Zone: Incursion Portals",
+            "Quest: Incursion Portals",
             "Dungeon: Vile Gate",
             "Raid: Karnak's Final Stand",
-            "Raid: All on The Undrian Plateau",
+            "Raid: The Vile Gate",
+            "Raid: Primal Mysteries",
+            "Raid: Rise of the Spider Queen",
+            "Raid: The Shadow Returns",
+            "Raid: Hunted in the Mist",
+            "Raid: Crystallized Vengeance",
             "Zones: All on The Undrian Plateau",
+            "Zones: All in Vile Realm",
             "Recipe: Indigo Flux"
         ]
     },
     {
         "name": "Purifying Salts",
         "drops": [
-            "Shop: Majerio's Shop / Special / 250 silver"
-        ]
+            "Shop: Majerio's Shop"
+        ],
+        "note": "/ Special / 250 silver"
     },
     {
         "name": "Refining Salts",
         "drops": [
-            "Shop: Majerio's Shop / Special / 500 silver"
-        ]
+            "Shop: Majerio's Shop"
+        ],
+        "note": "/ Special / 500 silver"
     },
     {
         "name": "Alpha Wolf Paw",
         "drops": [
-            "Raid: ?",
-            "Zone: Dunia's meadow, Glenfort Planes"
+            "Raid: The Shadow Returns",
+            "Quest: Dunia's meadow"
         ]
     },
     {
         "name": "Anger Spirits",
         "drops": [
-            "Event: ?"
-        ]
+            "Quest: Estate Grounds"
+        ],
+        "notes": "Quest: Soal Siphon; Thieving Hearts at Overlord's View, Spirit Feeders at Void Corridor"
+    },
+    {
+        "name": "Thieving Hearts",
+        "drops": [
+            "Quest: Overlord's View"
+        ],
+        "notes": "Quest: Soal Siphon; Thieving Hearts at Overlord's View, Spirit Feeders at Void Corridor"
+    },
+    {
+        "name": "Spirit Feeders",
+        "drops": [
+            "Quest: Void Corridor"
+        ],
+        "notes": "Quest: Soal Siphon; Thieving Hearts at Overlord's View, Spirit Feeders at Void Corridor"
+    },
+    {
+        "name": "Void Collectors",
+        "drops": [
+            "Quest: Void Corridor"
+        ],
+        "notes": "Quest: Soal Siphon; Thieving Hearts at Overlord's View, Spirit Feeders at Void Corridor"
     },
     {
         "name": "Black Wyvern Scale",
         "drops": [
-            "Zone: Canyon of Shodows, Urgresh Mountains"
+            "Quest: Canyon of Shadow",
+            "Raid: The Shadow Returns",
+            "Raid: Rise of the Spider Queen"
         ]
     },
     {
         "name": "Blackened Ichor",
         "drops": [
-            "Recipe: Blackend Ichor",
-            "Zone: Underwell Passage, Serrated Scar"
+            "Recipe: Blackened Ichor",
+            "Quest: Underwell Passage",
+            "Raid: Rise of the Spider Queen"
         ]
     },
     {
         "name": "Blood Raven Tears",
         "drops": [
-            "Area: Dense Forrest / Accursed Steppe"
+            "Quest: Dense Forest"
         ]
     },
     {
         "name": "Cave Serpent Venom",
         "drops": [
-            "Area: Then Energy Mine, Cursed Quarry"
+            "Quest: Then Energy Mine",
+            "Raid: The Shadow Returns"
         ]
     },
     {
         "name": "Crystal Mantra Wurm Hide",
         "drops": [
-            "Area: Windswept Plains / Serrated Scar"
+            "Quest: Windswept Plains"
         ]
     },
     {
         "name": "Dark Ether",
         "drops": [
-            "Area: Helion's Pass / Lake Nithus",
-            "Area: Griving Glade / Lake Nithus"
+            "Quest: Helion's Pass",
+            "Quest: Grieving Glade",
+            "Raid: The Shadow Returns"
         ]
     },
     {
@@ -225,49 +294,55 @@
     {
         "name": "Drops of Putrid Ooze",
         "drops": [
-            "Area: Putrid Pools / Serrated Scar"
+            "Quest: Putrid Pools",
+            "Raid: Rise of the Spider Queen"
         ]
     },
     {
         "name": "Ember of Enduring Fire",
         "drops": [
-            "Area: River Crossing / Mistwaler Woodlands"
+            "Quest: River Crossing",
+            "Raid: Rise of the Spider Queen"
         ]
     },
     {
         "name": "Exquisite Spider Silk",
         "drops": [
-            "Area: The Warrens / Serrated Scar"
+            "Quest: The Warrens",
+            "Raid: Rise of the Spider Queen"
         ]
     },
     {
         "name": "Fell Leaf",
         "drops": [
-            "Area: Graycoast Bog / Fellmarsh"
+            "Quest: Graycoast Bog",
+            "Raid: The Shadow Returns"
         ]
     },
     {
         "name": "Fire Crystal",
         "drops": [
-            "Area: Flame Cavern, Dragonmoor"
+            "Quest: Flame Cavern",
+            "Raid: Rise of the Spider Queen"
         ]
     },
     {
-        "name": "Fladhead Stone",
+        "name": "Flathead Stone",
         "drops": [
-            "Area: Floating Stones / The Sanctuary"
+            "Quest: Floating Stones"
         ]
     },
     {
-        "name": "Gnarly Sticks?",
+        "name": "Gnarly Sticks",
         "drops": [
-            "Area: River's Edge, Ethereal Expanse"
+            "Quest: River's Edge"
         ]
     },
     {
-        "name": "Crizzly Tooth",
+        "name": "Grizzly Tooth",
         "drops": [
-            "Area: Heart of the Ebian, Ebian Forest"
+            "Quest: Heart of the Ebian",
+            "Raid: The Shadow Returns"
         ]
     },
     {
@@ -279,19 +354,22 @@
     {
         "name": "Iron Basilisk Eye",
         "drops": [
-            "Area: Flame Cavern / Dragonmoor"
+            "Quest: Flame Cavern",
+            "Raid: The Shadow Returns"
         ]
     },
     {
         "name": "Iron Ore",
         "drops": [
-            "Area: Waterfall Cavern, Cursed Quarry"
+            "Quest: Waterfall Cavern",
+            "Raid: The Shadow Returns"
         ]
     },
     {
         "name": "Mountain Lichen",
         "drops": [
-            "Area: Urgresh Peaks, Urgresh Mountains"
+            "Quest: Urgresh Peak",
+            "Raid: Rise of the Spider Queen"
         ]
     },
     {
@@ -303,70 +381,78 @@
     {
         "name": "Polar Melt",
         "drops": [
-            "Area: Icy Wastes, Frozen Vale"
+            "Quest: Icy Wastes",
+            "Raid: Rise of the Spider Queen"
         ]
     },
     {
         "name": "Pristine Crystal Shard",
         "drops": [
-            "Area: Underwell Passage / Serrated Scar"
+            "Quest: Underwell Passage"
         ]
     },
     {
-        "name": "Rock Wyvern Hides?",
+        "name": "Rock Wyvern Hides",
         "drops": [
-            "Area: River's Edge / Ethereal Expanse"
+            "Quest: River's Edge"
         ]
     },
     {
-        "name": "Shadow Crystal?",
+        "name": "Shadow Crystal",
         "drops": [
-            "Area: Spirit Forest / Ethereal Expanse"
+            "Quest: Spirit Forest"
         ]
     },
     {
         "name": "Quill of the Fierce",
-        "drops": []
+        "drops": [
+            "Quest: Vile Cliffs"
+        ]
     },
     {
         "name": "Scroll of Shattered Illusion",
-        "drops": []
+        "drops": [
+            "Recipe: Scroll of Shattered Illusion"
+        ]
     },
     {
         "name": "Spirit Orb",
         "drops": [
-            "Area: Spirit Forest / Ethereal Expanse"
+            "Quest: Spirit Forest",
+            "Raid: Rise of the Spider Queen"
         ]
     },
     {
         "name": "Undead Ichor",
         "drops": [
-            "Area: Helion's Pass, Lake Nithus",
-            "Area: All with undeads"
+            "Quest: Helion's Pass",
+            "Quest: All with undeads",
+            "Raid: Crypt of Corruption"
         ]
     },
     {
         "name": "Unstable Ether",
         "drops": [
-            "Area: Ancestral Ruins, Lake Nithus"
+            "Quest: Ancestral Nithus",
+            "Raid: Rise of the Spider Queen"
         ]
     },
     {
         "name": "Vile Extracts",
         "drops": [
-            "Area: Sacred Landing / Mistwalker Woodlands"
+            "Quest: Sacred Landing"
         ]
     },
     {
         "name": "Vile Haunch",
         "drops": [
-            "Area: Overlord's View / Accursed Steppe"
+            "Quest: Overlord's View"
         ]
     },
     {
         "name": "Vile Lichen",
         "drops": [
-            "Area: Dense Forest / Accursed Steppe"
+            "Quest: Dense Forest"
         ]
     },
     {

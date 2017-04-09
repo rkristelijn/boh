@@ -36,6 +36,8 @@ export class LocationsComponent implements OnInit {
 
     this.activatedRoute.queryParams.subscribe((params: Params) => {
       this.locationStringFilter = params['search'];
+      this.areaStringFilter = params['area'];
+      this.typeStringFilter = params['type'];
     });
   }
 

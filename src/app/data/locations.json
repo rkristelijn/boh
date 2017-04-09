@@ -128,7 +128,7 @@
                     "type": "Dungeon"
                 },
                 {
-                    "name": "Heart of Ebian",
+                    "name": "Heart of the Ebian",
                     "type": "Elite"
                 },
                 {
@@ -234,7 +234,7 @@
             "type": "Area",
             "zones": [
                 {
-                    "name": "Crypt of Curruption",
+                    "name": "Crypt of Corruption",
                     "type": "Raid"
                 },
                 {
@@ -262,7 +262,7 @@
                     "type": "Dungeon"
                 },
                 {
-                    "name": "Dark Loard Helion",
+                    "name": "Dark Lord Helion",
                     "type": "Raid"
                 },
                 {
@@ -271,6 +271,10 @@
                 },
                 {
                     "name": "The Ghost Ship",
+                    "type": "Quest"
+                },
+                {
+                    "name": "Helion's Pass",
                     "type": "Quest"
                 },
                 {

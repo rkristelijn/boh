@@ -1135,6 +1135,15 @@ export class RecipesListComponent implements OnInit {
             }
           ]
         },
+        { name: "Craft: Scroll of Shattered Illusions",
+          time: 0, // minutes
+          description: "todo: Needs 3 previously crafted items + 5 quill of the fierce - Vile Cliffs",
+          ingredients: [{
+              name: 'Quill of the Fierce',
+              amount: 5
+            }
+          ]
+        }
       ]
   
 

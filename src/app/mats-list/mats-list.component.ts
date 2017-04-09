@@ -80,7 +80,20 @@ export class MatsListComponent implements OnInit {
       case "Dungeon":
         if (params) return { search: search.trim() };
         else return '/locations';
-      default: 
+      case "Raids":
+        if (params) return { type:'raid', area: search.substr(8, search.length).trim() };
+        else return '/locations';
+      case "Zones":
+        if (params) return { type:'quest', area: search.substr(8, search.length).trim() };
+        else return '/locations';
+      case "Portals":
+        if (params) return { search: 'portal' };
+        else return '/locations';
+      case "Recipe":
+        if (params) return { search: search.trim() };
+        else return '/recipes';
+         
+      default:
         if (params) return { search: search.trim() };
         else return '/locations';
     }
