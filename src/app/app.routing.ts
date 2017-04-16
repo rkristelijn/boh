@@ -5,23 +5,28 @@ import { RecipesListComponent } from './recipes-list/recipes-list.component';
 import { MatsListComponent } from './mats-list/mats-list.component';
 import { LocationsComponent } from './map/location.component';
 import { RaidListComponent } from './raids/raid-list.component';
+import { GearListComponent } from './gear/gear.component';
 
 const appRoutes: Routes = [
   {
     path: 'recipes',
-    component : RecipesListComponent
+    component: RecipesListComponent
   },
   {
     path: 'materials',
-    component : MatsListComponent
+    component: MatsListComponent
   },
   {
     path: 'locations',
-    component : LocationsComponent
+    component: LocationsComponent
   },
   {
     path: 'raids',
-    component : RaidListComponent
+    component: RaidListComponent
+  },
+  {
+    path: 'gear',
+    component: GearListComponent
   },
   {
     path: '',

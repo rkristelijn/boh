@@ -1,0 +1,1065 @@
+[
+    {
+        "name": "Glenfort Cap",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 1,
+        "defence": 24,
+        "description": "Legacy Gear",
+        "cost": {
+            "type": "Silver",
+            "amount": 112
+        }
+    },
+    {
+        "name": "Acolyte Hat",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 2,
+        "defence": 31,
+        "magic": 93,
+        "crit": 93,
+        "critPower": 93,
+        "resistFire": 168,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 933
+        }
+    },
+    {
+        "name": "Felstalker Cap",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 3,
+        "defence": 39,
+        "magic": 139,
+        "crit": 139,
+        "critPower": 139,
+        "resistFire": 252,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 1866
+        }
+    },
+    {
+        "name": "Berserker Helm",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 4,
+        "defence": 49,
+        "magic": 185,
+        "crit": 185,
+        "critPower": 185,
+        "resistFire": 336,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 3731
+        }
+    },
+    {
+        "name": "Dawnrock Hood",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 5,
+        "defence": 61,
+        "magic": 231,
+        "crit": 231,
+        "critPower": 231,
+        "resistFire": 420,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 7463
+        }
+    },
+    {
+        "name": "Vengeance Hood",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 6,
+        "defence": 77,
+        "magic": 278,
+        "crit": 278,
+        "critPower": 278,
+        "resistFire": 504,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 14925
+        }
+    },
+    {
+        "name": "Darkbane Crown",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 6,
+        "defence": 77,
+        "magic": 278,
+        "crit": 278,
+        "critPower": 278,
+        "resistFire": 504,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 15
+        }
+    },
+    {
+        "name": "Dragonscale Hood",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 6,
+        "defence": 77,
+        "magic": 278,
+        "crit": 278,
+        "critPower": 278,
+        "resistFire": 504,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 187
+        }
+    },
+    {
+        "name": "Conjured Cap",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 7,
+        "defence": 97,
+        "magic": 324,
+        "crit": 324,
+        "critPower": 324,
+        "resistFire": 588,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 26119
+        }
+    },
+    {
+        "name": "Deathblight Hat",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 8,
+        "defence": 113,
+        "magic": 370,
+        "crit": 370,
+        "critPower": 370,
+        "resistFire": 672,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 45709
+        }
+    },
+    {
+        "name": "Shattered Soal Cap",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 9,
+        "defence": 132,
+        "magic": 416,
+        "crit": 416,
+        "critPower": 416,
+        "resistFire": 756,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 79991
+        }
+    },
+    {
+        "name": "Valorstrike Helm",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 10,
+        "defence": 154,
+        "magic": 462,
+        "crit": 462,
+        "critPower": 462,
+        "resistFire": 840,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 486
+        }
+    },
+    {
+        "name": "Soulstrike Cap",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 11,
+        "defence": 180,
+        "magic": 509,
+        "crit": 509,
+        "critPower": 509,
+        "resistFire": 924,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 48
+        }
+    },
+    {
+        "name": "Champion Crown",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 12,
+        "defence": 209,
+        "magic": 555,
+        "crit": 555,
+        "critPower": 555,
+        "resistFire": 1008,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 1120
+        }
+    },
+    {
+        "name": "Demonsbane Hood",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 14,
+        "defence": 258,
+        "magic": 647,
+        "crit": 647,
+        "critPower": 647,
+        "resistFire": 1176,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 1493
+        }
+    },
+    {
+        "name": "Dauntless Hat",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 16,
+        "defence": 388,
+        "magic": 740,
+        "crit": 740,
+        "critPower": 740,
+        "resistFire": 1344,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 1642
+        }
+    },
+    {
+        "name": "Blood Oath Hood",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Cloth",
+        "tier": 18,
+        "defence": 527,
+        "magic": 832,
+        "crit": 832,
+        "critPower": 832,
+        "resistFire": 1512,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 2655
+        }
+    },
+    {
+        "name": "Glenfort Shirt",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 1,
+        "defence": 49,
+        "description": "Legacy Gear",
+        "cost": {
+            "type": "Silver",
+            "amount": 224
+        }
+    },
+    {
+        "name": "Acolyte Shirt",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 2,
+        "defence": 61,
+        "magic": 124,
+        "crit": 124,
+        "critPower": 124,
+        "resistSpirit": 224,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 1866
+        }
+    },
+    {
+        "name": "Felstalker Doublet",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 3,
+        "defence": 77,
+        "magic": 185,
+        "crit": 185,
+        "critPower": 185,
+        "resistSpirit": 336,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 3731
+        }
+    },
+    {
+        "name": "Berserker Vestment",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 4,
+        "defence": 97,
+        "magic": 247,
+        "crit": 247,
+        "critPower": 247,
+        "resistSpirit": 448,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 7463
+        }
+    },
+    {
+        "name": "Dawnrock Tabard",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 5,
+        "defence": 122,
+        "magic": 308,
+        "crit": 308,
+        "critPower": 308,
+        "resistSpirit": 560,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 30
+        }
+    },
+    {
+        "name": "Dragonscale Robe",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 6,
+        "defence": 154,
+        "magic": 370,
+        "crit": 370,
+        "critPower": 370,
+        "resistSpirit": 672,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 374
+        }
+    },
+    {
+        "name": "Conjured Robe",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 7,
+        "defence": 192,
+        "magic": 432,
+        "crit": 432,
+        "critPower": 432,
+        "resistSpirit": 784,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 52239
+        }
+    },
+    {
+        "name": "Deathblight Robe",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 8,
+        "defence": 226,
+        "magic": 493,
+        "crit": 493,
+        "critPower": 493,
+        "resistSpirit": 896,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 91418
+        }
+    },
+    {
+        "name": "Shattered Soul Tunic",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 9,
+        "defence": 264,
+        "magic": 555,
+        "crit": 555,
+        "critPower": 555,
+        "resistSpirit": 1008,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 159981
+        }
+    },
+    {
+        "name": "Valorstrike Robe",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 10,
+        "defence": 308,
+        "magic": 616,
+        "crit": 616,
+        "critPower": 616,
+        "resistSpirit": 1120,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 971
+        }
+    },
+    {
+        "name": "Soulstrike Tunic",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 11,
+        "defence": 359,
+        "magic": 678,
+        "crit": 678,
+        "critPower": 678,
+        "resistSpirit": 1232,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 96
+        }
+    },
+    {
+        "name": "Champion Vestment",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 12,
+        "defence": 419,
+        "magic": 740,
+        "crit": 740,
+        "critPower": 740,
+        "resistSpirit": 1344,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 2240
+        }
+    },
+    {
+        "name": "Demonsbane Raiment",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 14,
+        "defence": 570,
+        "magic": 863,
+        "crit": 863,
+        "critPower": 863,
+        "resistSpirit": 1568,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 2986
+        }
+    },
+    {
+        "name": "Dauntless Vestment",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 16,
+        "defence": 775,
+        "magic": 986,
+        "crit": 986,
+        "critPower": 986,
+        "resistSpirit": 1792,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 3284
+        }
+    },
+    {
+        "name": "Blood Oath Raiment",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 18,
+        "defence": 1055,
+        "magic": 1109,
+        "crit": 1109,
+        "critPower": 1109,
+        "resistSpirit": 2016,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 5310
+        }
+    },
+    {
+        "name": "Glenfort Handwraps",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 1,
+        "defence": 19,
+        "description": "Legacy Gear",
+        "cost": {
+            "type": "Silver",
+            "amount": 90
+        }
+    },
+    {
+        "name": "Acolyte Handwraps",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 2,
+        "defence": 24,
+        "magic": 62,
+        "critPower": 62,
+        "resistNature": 112,
+        "haste": 62,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 746
+        }
+    },
+    {
+        "name": "Felstalker Handwraps",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 3,
+        "defence": 31,
+        "magic": 93,
+        "critPower": 93,
+        "resistNature": 168,
+        "haste": 93,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 1493
+        }
+    },
+    {
+        "name": "Berserker Bracers",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 4,
+        "defence": 39,
+        "magic": 124,
+        "critPower": 124,
+        "resistNature": 224,
+        "haste": 124,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 2958
+        }
+    },
+    {
+        "name": "Dawnrock Handguards",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 5,
+        "defence": 49,
+        "magic": 154,
+        "critPower": 154,
+        "resistNature": 280,
+        "haste": 154,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 5970
+        }
+    },
+    {
+        "name": "Vengeance Gloves",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 6,
+        "defence": 62,
+        "magic": 185,
+        "critPower": 185,
+        "resistNature": 336,
+        "haste": 185,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 11940
+        }
+    },
+    {
+        "name": "Darkbane Bracers",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 6,
+        "defence": 62,
+        "magic": 185,
+        "critPower": 185,
+        "resistNature": 336,
+        "haste": 185,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 12
+        }
+    },
+    {
+        "name": "Dragonscale Gloves",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 6,
+        "defence": 62,
+        "magic": 185,
+        "critPower": 185,
+        "resistNature": 336,
+        "haste": 185,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 150
+        }
+    },
+    {
+        "name": "Conjured Gloves",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 7,
+        "defence": 78,
+        "magic": 216,
+        "critPower": 216,
+        "resistNature": 392,
+        "haste": 216,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 20896
+        }
+    },
+    {
+        "name": "Deathblight Gloves",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 8,
+        "defence": 91,
+        "magic": 247,
+        "critPower": 247,
+        "resistNature": 448,
+        "haste": 247,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 36567
+        }
+    },
+    {
+        "name": "Shattered Soul Handguards",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 9,
+        "defence": 106,
+        "magic": 278,
+        "critPower": 278,
+        "resistNature": 504,
+        "haste": 278,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 63993
+        }
+    },
+    {
+        "name": "Valorstrike Handguards",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 10,
+        "defence": 123,
+        "magic": 308,
+        "critPower": 308,
+        "resistNature": 560,
+        "haste": 308,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 389
+        }
+    },
+    {
+        "name": "Soulstrike Handguards",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 11,
+        "defence": 144,
+        "magic": 339,
+        "critPower": 339,
+        "resistNature": 616,
+        "haste": 339,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 39
+        }
+    },
+    {
+        "name": "Champion Bracers",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 12,
+        "defence": 168,
+        "magic": 370,
+        "critPower": 370,
+        "resistNature": 672,
+        "haste": 370,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 896
+        }
+    },
+    {
+        "name": "Demonsbane Gloves",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 14,
+        "defence": 228,
+        "magic": 432,
+        "critPower": 432,
+        "resistNature": 784,
+        "haste": 432,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 1195
+        }
+    },
+    {
+        "name": "Dauntless Handguards",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 16,
+        "defence": 310,
+        "magic": 493,
+        "critPower": 493,
+        "resistNature": 896,
+        "haste": 493,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 1314
+        }
+    },
+    {
+        "name": "Blood Oath Handguards",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 18,
+        "defence": 422,
+        "magic": 555,
+        "critPower": 555,
+        "resistNature": 1008,
+        "haste": 555,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 2130
+        }
+    },
+    {
+        "name": "Glenfort Pants",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 1,
+        "defence": 34,
+        "description": "Legacy Gear",
+        "cost": {
+            "type": "Silver",
+            "amount": 157
+        }
+    },
+    {
+        "name": "Acolyte Leggings",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 2,
+        "defence": 43,
+        "magic": 93,
+        "crit": 93,
+        "critPower": 93,
+        "resistFire": 168,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 1306
+        }
+    },
+    {
+        "name": "Felstalker Leggings",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 3,
+        "defence": 54,
+        "magic": 139,
+        "crit": 139,
+        "critPower": 139,
+        "resistFire": 252,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 2612
+        }
+    },
+    {
+        "name": "Berserker Leggings",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 4,
+        "defence": 68,
+        "magic": 185,
+        "crit": 185,
+        "critPower": 185,
+        "resistFire": 336,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 5224
+        }
+    },
+    {
+        "name": "Dawnrock Pants",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 5,
+        "defence": 86,
+        "healthReating":330,
+        "crit": 150,
+        "physicalResist":198,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 10448
+        }
+    }
+]

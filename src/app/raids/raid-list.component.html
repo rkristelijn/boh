@@ -5,7 +5,8 @@
         </div>
     </div>
 
-    <div class='panel-body'>
+    <!-- large screens -->
+    <div class='panel-body hidden-md hidden-sm hidden-xs'>
         <div class='table-responsive'>
             <table class='table' *ngIf='raids && raids.length'>
                 <thead>
@@ -13,9 +14,8 @@
                         <th (click)="sortOn($event, 'name')">Name<span [class]="getClass('name')"></span></th>
                         <th (click)="sortOn($event, 'valor')">Valor<span [class]="getClass('valor')"></span></th>
                         <th (click)="sortOn($event, 'might')">Might<span [class]="getClass('might')"></span></th>
-                        <th>Gold, Silver, Bronze Time</th>
-                        <th (click)="sortOn($event, 'waves')">Waves<span [class]="getClass('waves')"></span></th>
-                        <th>Phases</th>
+                        <th (click)="sortOn($event, 'waves')">Gold, Silver, Bronze Time, Waves<span [class]="getClass('waves')"></span></th>
+                        <th>Phases and Description</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -33,7 +33,6 @@
                         </td>
                         <td>&nbsp;</td>
                     </tr>
-                    <!--<tr *ngFor="let raid of raids | stringFilter:locationStringFilter:'name' | stringFilter:typeStringFilter:'type' | stringFilter:areaStringFilter:'parent' | orderBy : [sort] ">-->
                     <tr *ngFor="let raid of raids | stringFilter:nameFilter:'name' | stringFilter:valorFilter:'valor' | orderBy : [sort] ">
                         <td><a [routerLink]="['/locations']" [queryParams]="{search: raid.name}">{{ raid.name }}</a></td>
                         <td>{{ raid.valor }}</td>
@@ -42,14 +41,48 @@
                             <div>G:{{ raid.gold | time }}</div>
                             <div>S:{{ raid.silver | time }}</div>
                             <div>B:{{ raid.bronze | time }}</div>
+                            <div>Waves: {{ raid.waves }}</div>
                         </td>
-                        <td>{{ raid.waves }}</td>
                         <td>
                             <div *ngFor="let phase of raid.phases; let i = index;">Phase {{ i+1 }}: {{ phase }}</div>
+                            <div>Description: {{ raid.description }}</div>
                         </td>
                     </tr>
                 </tbody>
             </table>
         </div>
+    </div>
+
+    <!-- mobile view -->
+    <div class='panel-body hidden-lg'>
+        <input type='text' name="nameFilter" [(ngModel)]='nameFilter' placeholder="Filter name..." />
+        <select name="valorFilter" [(ngModel)]='valorFilter' placeholder="Filter valor...">
+                                <option name="" value=""></option>
+                                <option name="Squire's Valor" value="Squire's Valor">Squire's Valor</option>
+                                <option name="Soldier's Valor" value="Soldier's Valor">Soldier's Valor</option>
+                                <option name="Knight's Valor" value="Knight's Valor">Knight's Valor</option>
+                                <option name="Captain's Valor" value="Captain's Valor">Captain's Valor</option>
+                                <option name="Guardian's Valor" value="Guardian's Valor">Guardian's Valor</option>
+                        </select>
+        <ul class='table' *ngIf='raids && raids.length'>
+            <li *ngFor="let raid of raids | stringFilter:nameFilter:'name' | stringFilter:valorFilter:'valor' | orderBy : [sort]">
+                <div (click)="toggle(raid.index)" class="hand">{{ raid.name }} / Might: {{ raid.might }} / Valor: {{ raid.valor }}</div>
+                <ul [ngClass]="raid.collapsed" [id]="raid.index">
+                    <a [routerLink]="['/locations']" [queryParams]="{search: raid.name}">see location</a>
+                    <li>Valor: {{ raid.valor }}</li>
+                    <li>Might: {{ raid.might }}</li>
+                    <ul>
+                        <li>Gold:{{ raid.gold | time }}</li>
+                        <li>Silver:{{ raid.silver | time }}</li>
+                        <li>Bronze:{{ raid.bronze | time }}</li>
+                    </ul>
+                    <li>Waves: {{ raid.waves }}</li>
+                    <ul>
+                        <li *ngFor="let phase of raid.phases; let i = index;">Phase {{ i+1 }}: {{ phase }}</li>
+                    </ul>
+                    <li>Description: {{ raid.description }}</li>
+                </ul>
+            </li>
+        </ul>
     </div>
 </div>

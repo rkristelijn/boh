@@ -14,3 +14,7 @@
 .panel-heading a.collapsed:after {
     content:"\e080";
 }
+
+p {
+    margin: 20px;
+}

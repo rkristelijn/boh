@@ -8,13 +8,13 @@ import { DataService } from '../data.service';
 import { TimePipe } from '../../assets/time.pipe';
 
 @Component({
-  templateUrl: './raid-list.component.html',
-  styleUrls: ['./raid-list.component.css']
+  templateUrl: './gear.component.html',
+  styleUrls: ['./gear.component.css']
 })
-export class RaidListComponent extends SortComponent implements OnInit {
+export class GearListComponent extends SortComponent implements OnInit {
 
   //local variables for data
-  raids: any[] = [];
+  gear: any[] = [];
 
   //local variables for behavior (filter/sorting)
   nameFilter: string;
@@ -26,34 +26,35 @@ export class RaidListComponent extends SortComponent implements OnInit {
    */
   constructor(private dataService: DataService, private activatedRoute: ActivatedRoute) {
     super();
-    this.sort = 'might';
+    this.sort = 'tier';
   }
 
-  toggle(index) {
-    this.raids[index]['collapsed'] = this.raids[index]['collapsed'] == "collapsed" ? "" : "collapsed";
+  toggle(name) {
+    for (let item of this.gear) {
+      if( item.name === name ) {
+        item['collapsed']  = item['collapsed'] == "collapsed" ? "" : "collapsed";
+      }
+    }
   }
 
   /** load the data and handle the route for ?search
    *   dataService takes care of caching
    */
   ngOnInit() {
-    this.dataService.getRaids().subscribe(res => {
-      this.raids = res;
-      this.setAllCollapsed(this.raids);
+    this.dataService.getGear().subscribe(res => {
+      this.gear = res;
+      this.setAllCollapsed(this.gear);
     });
 
     this.activatedRoute.queryParams.subscribe((params: Params) => {
-    //   this.locationStringFilter = params['search'];
-    //   this.areaStringFilter = params['area'];
-    //   this.typeStringFilter = params['type'];
     });
   }
 
-  setAllCollapsed(raids) {
+  setAllCollapsed(gear) {
     let i = 0;
-    for (let raid of raids) {
-      raid["collapsed"] = "collapsed";
-      raid["index"] = i++;
+    for (let item of gear) {
+      item["collapsed"] = "collapsed";
+      item["index"] = i++;
     }
   }
 }

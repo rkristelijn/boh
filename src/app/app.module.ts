@@ -11,6 +11,7 @@ import { RecipesListComponent } from './recipes-list/recipes-list.component';
 import { IngredientComponent } from './ingredient/ingredient.component';
 import { LocationsComponent } from './map/location.component';
 import { RaidListComponent } from './raids/raid-list.component';
+import { GearListComponent } from './gear/gear.component';
 //pipes
 import { RecipeFilterPipe } from './recipes-list/recipes-list.pipe';
 import { RecipeIngredientFilterPipe } from './recipes-list/recipes-list.ingredients.pipe';
@@ -37,6 +38,7 @@ import { DataService } from './data.service';
     IngredientComponent,
     LocationsComponent,
     RaidListComponent,
+    GearListComponent,
     /*Pipes*/
     RecipeFilterPipe,
     RecipeIngredientFilterPipe,

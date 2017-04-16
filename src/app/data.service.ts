@@ -9,11 +9,13 @@ export class DataService {
     urlLocations: string = './app/data/locations.json';
     urlRecipes:   string = './app/data/recipe-list.json';
     urlRaids:     string = './app/data/raid-list.json';
+    urlGear:      string = './app/data/gear-list.json';
 
     materials: any[];
-    recipes:   any[];
-    raids:     any[];
+    recipes: any[];
+    raids: any[];
     locations: any;
+    gear: any[];
 
     /** empty constructure with dependancy injection for HTTP calls
      * @param http 
@@ -24,7 +26,7 @@ export class DataService {
      * from a REST call
      * @returns Observable <any>
      */
-    getMaterials(): Observable <any> {
+    getMaterials(): Observable<any> {
         if (this.materials) {
             return Observable.of(this.materials);
         } else {
@@ -40,7 +42,7 @@ export class DataService {
      * from a REST call
      * @returns Observable <any>
      */
-    getLocations(): Observable <any> {
+    getLocations(): Observable<any> {
         if (this.locations) {
             return Observable.of(this.locations);
         } else {
@@ -56,7 +58,7 @@ export class DataService {
      * from a REST call
      * @returns Observable <any>
      */
-    getRecipes(): Observable <any> {
+    getRecipes(): Observable<any> {
         if (this.recipes) {
             return Observable.of(this.recipes);
         } else {
@@ -72,7 +74,7 @@ export class DataService {
      * from a REST call
      * @returns Observable <any>
      */
-    getRaids(): Observable <any> {
+    getRaids(): Observable<any> {
         if (this.raids) {
             return Observable.of(this.raids);
         } else {
@@ -80,6 +82,22 @@ export class DataService {
                 .map(res => res.json())
                 .do((data) => {
                     this.raids = data;
+                });
+        }
+    }
+
+    /** Returns the list or Raids either from memory or
+ * from a REST call
+ * @returns Observable <any>
+ */
+    getGear(): Observable<any> {
+        if (this.gear) {
+            return Observable.of(this.gear);
+        } else {
+            return this.http.get(this.urlGear)
+                .map(res => res.json())
+                .do((data) => {
+                    this.gear = data;
                 });
         }
     }

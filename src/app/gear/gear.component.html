@@ -1,0 +1,81 @@
+<div class='panel panel-primary'>
+
+    <div class='panel-heading'>
+        <div class="row">
+            <div class="col-sm-12">Gear List</div>
+        </div>
+    </div>
+
+    <div class="row">
+        <p>I came to realize that when you have gems equiped or enchantments it has effect on the modifiers on the items in
+            Majerio's Shop. For now I just leave it like this untill I understand it better.</p>
+    </div>
+
+    <!-- large screens -->
+    <div class='panel-body hidden-md hidden-sm hidden-xs'>
+        <div class='table-responsive'>
+            <table class='table' *ngIf='gear'>
+                <thead>
+                    <tr>
+                        <th (click)="sortOn($event, 'name')">Name<span [class]="getClass('name')"></span></th>
+                        <th (click)="sortOn($event, 'class')">Class<span [class]="getClass('class')"></span></th>
+                        <th>Drops</th>
+                        <th (click)="sortOn($event, 'type')">Type<span [class]="getClass('type')"></span></th>
+                        <th (click)="sortOn($event, 'tier')">Tier<span [class]="getClass('tier')"></span></th>
+                        <th>Cost</th>
+                        <th (click)="sortOn($event, 'description')">Description<span [class]="getClass('description')"></span></th>
+                        <th (click)="sortOn($event, 'defence')">Defense<span [class]="getClass('defence')"></span></th>
+                        <th (click)="sortOn($event, 'magic')">Magic<span [class]="getClass('magic')"></span></th>
+                        <th (click)="sortOn($event, 'crit')">Crit<span [class]="getClass('crit')"></span></th>
+                        <th (click)="sortOn($event, 'critPower')">Crit Power<span [class]="getClass('critPower')"></span></th>
+                        <th (click)="sortOn($event, 'resistFire')">Resist Fire<span [class]="getClass('resistFire')"></span></th>
+                        <th (click)="sortOn($event, 'resistSpirit')">Resist Spirit<span [class]="getClass('resistSpirit')"></span></th>
+                        <th (click)="sortOn($event, 'resistNature')">Resist Nature<span [class]="getClass('resistNature')"></span></th>
+                        <th (click)="sortOn($event, 'haste')">Haste<span [class]="getClass('haste')"></span></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!--<tr *ngFor="let item of gear | stringFilter:nameFilter:'name' | stringFilter:valorFilter:'valor' | orderBy : [sort] ">-->
+                    <tr *ngFor="let item of gear | orderBy : [sort] ">
+                        <td>{{ item.name }}</td>
+                        <td>{{ item.class }}</td>
+                        <td>
+                            <div *ngFor="let drop of item.drop">
+                                {{ drop }}
+                            </div>
+                        </td>
+                        <td>{{ item.type }}</td>
+                        <td>{{ item.tier }}</td>
+                        <td>{{ item.cost.amount }} {{ item.cost.type }}</td>
+                        <td>{{ item.description }}</td>
+                        <td>{{ item.defence }}</td>
+                        <td>{{ item.magic }}</td>
+                        <td>{{ item.crit }}</td>
+                        <td>{{ item.critPower }}</td>
+                        <td>{{ item.resistFire }}</td>
+                        <td>{{ item.resistSpirit }}</td>
+                        <td>{{ item.resistNature }}</td>
+                        <td>{{ item.haste }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- mobile view -->
+    <div class='panel-body hidden-lg'>
+        <ul class='table' *ngIf='gear'>
+            <li *ngFor="let item of gear | orderBy : [sort]">
+                <div (click)="toggle(item.name)" class="hand">{{ item.name }}</div>
+                <ul [ngClass]="item.collapsed" [id]="item.name">
+                    <li>Class: {{ item.class }} </li>
+                    <li>Drops:
+                        <ul *ngFor="let drop of item.drop">
+                            <li>{{ drop }}</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
