@@ -329,6 +329,25 @@
                     "Powerful Healing Potion ~(1/50e)",
                     "1 Polar Melt ~(1/50e)"
                 ]
+            },{
+                "P2": [
+                    "16-24 Hero score",
+                    "2-3 T8 White Gems",
+                    "1-3 T14 White Gems",
+                    "5-7 Essence",
+                    "1060-1361 Silver",
+                    "1-2 Unstable Ether III",
+                    "1 Mountain Lichen II",
+                    "1 Blackenend Ichor II",
+                    "1 Powerful Healing Potion II",
+                    "1 Spirit Orb II",
+                    "1 Exquisite Spider Silk? (green icon, no text) III",
+                    "2-3 Refined Essence III",
+                    "1 Minor Frost Rune",
+                    "1 Drops of Pudrid Ooze III",
+                    "1 Indigo Flux",
+                    "1 Amber Flux II"
+                ]
             }
         ],
         "phases": [

@@ -3299,316 +3299,12 @@
         ],
         "type": "Helmet",
         "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
+        "tier": 1,
+        "defense": 34,
+        "description": "It's a classic yet stylish piece of headgear!",
         "cost": {
             "type": "",
             "amount": 0
-        }
-    },
-    {
-        "name": "Mitre of Glenfort",
-        "class": "War Mage",
-        "drop": [
-            "Event: Holigoblin (Christmas)"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": 21,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Red Ornament",
-            "amount": 100
-        }
-    },
-    {
-        "name": "Jack-o-Lantarn",
-        "class": "War Mage",
-        "drop": [
-            "Event: Halloween"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Candy Corn",
-            "amount": 5000
-        }
-    },
-    {
-        "name": "Chef's Toque",
-        "class": "War Mage",
-        "drop": [
-            "Event: Werechef"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Cutlery",
-            "amount": 10
-        }
-    },
-    {
-        "name": "Dark Accursed Helm",
-        "class": "War Mage",
-        "drop": [
-            "Event: Werechef"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": 19,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Cutlery",
-            "amount": 90
-        }
-    },
-    {
-        "name": "Lycanthrope Helm",
-        "class": "War Mage",
-        "drop": [
-            "Event: Werechef"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": 19,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Cutlery",
-            "amount": 70
-        }
-    },
-    {
-        "name": "Faerie Disguise",
-        "class": "War Mage",
-        "drop": [
-            "Event: Lucky"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Clover",
-            "amount": 24
-        }
-    },
-    {
-        "name": "Grinning Skull Patch",
-        "class": "War Mage",
-        "drop": [
-            "Event: Pirates"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Doubloon",
-            "amount": 1500
-        }
-    },
-    {
-        "name": "Halo of the Heavens",
-        "class": "War Mage",
-        "drop": [
-            "Event: Holigoblin (Christmas)"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Red Ornament",
-            "amount": 15
-        }
-    },
-    {
-        "name": "Maelstrom Ruby Patch",
-        "class": "War Mage",
-        "drop": [
-            "Event: Pirates"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Doubloon",
-            "amount": 2000
-        }
-    },
-    {
-        "name": "Midnight Patch",
-        "class": "War Mage",
-        "drop": [
-            "Event: Pirates"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Doubloon",
-            "amount": 1000
-        }
-    },
-    {
-        "name": "Green Holiday Hat",
-        "class": "War Mage",
-        "drop": [
-            "Event: Holigoblin (Christmas)"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Green Ornament",
-            "amount": 8
-        }
-    },
-    {
-        "name": "Pirate Hat",
-        "class": "War Mage",
-        "drop": [
-            "Event: Pirates"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Doubloon",
-            "amount": 1000
-        }
-    },
-    {
-        "name": "Bandana",
-        "class": "War Mage",
-        "drop": [
-            "Event: Pirates"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Doubloon",
-            "amount": 500
-        }
-    },
-    {
-        "name": "Pirate Hat",
-        "class": "War Mage",
-        "drop": [
-            "Event: Pirates"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Doubloon",
-            "amount": 1000
-        }
-    },
-    {
-        "name": "Red Holiday Hat",
-        "class": "War Mage",
-        "drop": [
-            "Event: Pirates"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Red Ornament",
-            "amount": 10
-        }
-    },
-    {
-        "name": "Traitor's Mask",
-        "class": "War Mage",
-        "drop": [
-            "Event: Halloween"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Candy Corn",
-            "amount": 1000
-        }
-    },
-    {
-        "name": "Bandit's Mask",
-        "class": "War Mage",
-        "drop": [
-            "Event: Halloween"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Candy Corn",
-            "amount": 1000
-        }
-    },
-    {
-        "name": "Infernal Horns",
-        "class": "War Mage",
-        "drop": [
-            "Event: Halloween"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Candy Corn",
-            "amount": 3000
-        }
-    },
-    {
-        "name": "Apocryphal Horns",
-        "class": "War Mage",
-        "drop": [
-            "Event: Halloween"
-        ],
-        "type": "Helmet",
-        "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "",
-        "cost": {
-            "type": "Candy Corn",
-            "amount": 3000
         }
     },
     {
@@ -4562,6 +4258,11 @@
         }
     },
 
+
+
+
+
+
     {
         "name": "Tragick's Despair",
         "class": "War Mage",
@@ -4570,11 +4271,11 @@
         ],
         "type": "Helmet",
         "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "Red eyes",
+        "tier": 1,
+        "defense": 34,
+        "description": "A coal-black ember of hatred to replace your hero's eyes with a dark void.",
         "cost": {
-            "type": "Despair",
+            "type": "Hearts",
             "amount": 300
         }
     },
@@ -4586,11 +4287,11 @@
         ],
         "type": "Helmet",
         "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "Green eyes",
+        "tier": 1,
+        "defense": 34,
+        "description": "An ember of jealousy to cast your hero's eyes in a twisted green light. - Legacy Gear",
         "cost": {
-            "type": "Despair",
+            "type": "Hearts",
             "amount": 300
         }
     },
@@ -4602,11 +4303,11 @@
         ],
         "type": "Helmet",
         "subType": "",
-        "tier": -1,
-        "defense": -1,
+        "tier": 1,
+        "defense": 34,
         "description": "Purple eyes",
         "cost": {
-            "type": "Despair",
+            "type": "Hearts",
             "amount": 300
         }
     },
@@ -4618,11 +4319,11 @@
         ],
         "type": "Helmet",
         "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "Pink eyes",
+        "tier": 1,
+        "defense": 34,
+        "description": "An ember of companionship to cast your hero's eyes in a pink light. - Legacy Gear",
         "cost": {
-            "type": "Despair",
+            "type": "Hearts",
             "amount": 300
         }
     },
@@ -4634,11 +4335,11 @@
         ],
         "type": "Helmet",
         "subType": "",
-        "tier": -1,
-        "defense": -1,
+        "tier": 1,
+        "defense": 34,
         "description": "Blue eyes",
         "cost": {
-            "type": "Despair",
+            "type": "Hearts",
             "amount": 300
         }
     },
@@ -4650,11 +4351,11 @@
         ],
         "type": "Helmet",
         "subType": "",
-        "tier": -1,
-        "defense": -1,
+        "tier": 1,
+        "defense": 34,
         "description": "Red eyes",
         "cost": {
-            "type": "Despair",
+            "type": "Hearts",
             "amount": 300
         }
     },
@@ -4666,12 +4367,1185 @@
         ],
         "type": "Helmet",
         "subType": "",
-        "tier": -1,
-        "defense": -1,
-        "description": "White eyes",
+        "tier": 1,
+        "defense": 34,
+        "description": "An ember of pure knowledge to cast your hero's eyes in a white light. - Legacy Gear",
         "cost": {
-            "type": "Despair",
+            "type": "Hearts",
             "amount": 300
         }
+    },
+    {
+        "name": "Cursed Heart",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 9,
+        "damageMin": 2822,
+        "damageMax": 3448,
+        "speed": 1.3,
+        "damagePerSecond": 2411.53,
+        "description": "A staff of Tragick's own design, its crystal heart is fashioned from purified, physical forms of malice and despair.",
+        "cost": {
+            "type": "Hearts",
+            "amount": 5000
+        }
+    },
+    {
+        "name": "True Zeal Reaver",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": -1,
+        "damageMin": -1,
+        "damageMax": -1,
+        "speed": 1.0,
+        "damagePerSecond": -1,
+        "description": "?",
+        "cost": {
+            "type": "Hearts",
+            "amount": 80
+        }
+    },
+    {
+        "name": "Zeal Reaver",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": -1,
+        "damageMin": -1,
+        "damageMax": -1,
+        "speed": 1.0,
+        "damagePerSecond": -1,
+        "description": "?",
+        "cost": {
+            "type": "Hearts",
+            "amount": 5000
+        }
+    },
+    {
+        "name": "Truly Cursed Heart",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Staff",
+        "subType": "",
+        "tier": 20,
+        "damageMin":3291,
+        "damageMax":4021,
+        "speed":1.3,
+        "damagePerSecond":2812.3,
+        "description": "The fully empowered staff of Tragick",
+        "cost": {
+            "type": "Hearts",
+            "amount": -1
+        }
+    },
+    {
+        "name": "Valentine's Golden Bracers",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Gauntlets",
+        "subType": "Closts",
+        "tier": 17,
+        "defense": 362,
+        "description": "A more powerful version of Valentine's bracers, trimmed in gold.",
+        "cost": {
+            "type": "Despair",
+            "amount": 400
+        }
+    },
+    {
+        "name": "Valentine's Bracers",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Gauntlets",
+        "subType": "Closts",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Hearts",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Pendant of Despair",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Amulet",
+        "tier": 15,
+        "description": "This pendant of hopelessness can be used to locate Despair among Glenfort's most powerful enemies. (Raid: Primal Mysteries)",
+        "cost": {
+            "type": "Hearts",
+            "amount": 2000
+        }
+    },
+    {
+        "name": "Eternal Romance Talisman",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Amulet",
+        "tier": 6,
+        "description": "A sign of true love and romance! (Limited Time!)",
+        "cost": {
+            "type": "Hearts",
+            "amount": 500
+        }
+    },
+    {
+        "name": "The Heart Stopper",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "defense": 463,
+        "tier": 13,
+        "description": "Protect Glenfort's romantecs with this gleaming shield! (Limited Time!)",
+        "cost": {
+            "type": "Hearts",
+            "amount": 1000
+        }
+    },
+
+
+
+
+
+    {
+        "name": "Grinning Skull Patch",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 13,
+        "defense": 292,
+        "description": "An eye patch emblazoned with a skull pattern, meant to instill fear in all who meet your gaze.",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 1500
+        }
+    },
+    {
+        "name": "Maelstrom Ruby Patch",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 2000
+        }
+    },
+    {
+        "name": "Midnight Patch",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Pirate Bandana",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 6,
+        "defense": 77,
+        "description": "One o' me official crewman bandanas! (Limited Time!)",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 500
+        }
+    },
+    {
+        "name": "Pirate Hat",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 11,
+        "defense": 180,
+        "description": "Yer own official captain's hat! The high seas are callin' ye! (Limited Time!)",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Pirate Hat",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Shark Leather Coat",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 19,
+        "defense": 1231,
+        "description": "An overcoat crafter from the hide of a great white shark. Worn by only the most fearsome of pirates.",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 9000
+        }
+    },
+    {
+        "name": "Shark Leather Gloves",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 19,
+        "defense": 492,
+        "description": "A pair of heavy gloves crafted from the hide of a great white shark. Impervious to shivered timbers.",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 7000
+        }
+    },
+    {
+        "name": "Ring of Hornswoggle",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Ring",
+        "tier": 21,
+        "description": "Yo Ho Ho, wouldn't be a scurvy pirate if thar wasn't some type 'o cheatin'",
+        "cost": {
+            "type": "Doubloon",
+            "amount": -1
+        }
+    },
+    {
+        "name": "Pimm the Pirate Monkey",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Cloak",
+        "tier": 13,
+        "description": "Thanks to an ancient pirate curse, Pimm the Pirate Monkey will pipe into chat when ya least expect it! (Limited Time!)",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 2500
+        }
+    },
+    {
+        "name": "Dread Cutlass",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 17,
+        "damageMin": 1254,
+        "damageMax": 1532,
+        "speed": 1.0,
+        "damagePerSecond": 1393.0,
+        "description": "Despite its decorative appearence, this cutlass has seen its fair share of death and mayhem. (Limited Time!)",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 3000
+        }
+    },
+    {
+        "name": "Raja the Chat Parrot",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Chest Armor",
+        "subType": "?",
+        "tier": -1,
+        "defense": -1,
+        "description": "?",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 2500
+        }
+    },
+    {
+        "name": "Swash Buckler",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "defense": -1,
+        "tier": -1,
+        "description": "?",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 3000
+        }
+    },
+
+
+
+
+
+
+    {
+        "name": "Mitre of Glenfort",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 21,
+        "defense": 837,
+        "description": "The power of Glenfort's holiday spirit infuses this penultimate piece of holiday headwear.",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 100
+        }
+    },
+    {
+        "name": "Halo of the Heavens",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 13,
+        "defense": 244,
+        "description": "You shile just a little bit brighter this holiday season! (Limited Time!)",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 15
+        }
+    },
+    {
+        "name": "Goblin's Bag of Goodies",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 17,
+        "defense": 543,
+        "description": "The Holiday Goblin's magical bag of goodies will randomly sprout gifts of all shapes and sizes for fellow adventures! (Limited Time!)",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 30
+        }
+    },
+    {
+        "name": "Green Holiday Hat",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 1,
+        "defense": 34,
+        "description": "Spread the holiday cheer! (Winter Holiday 2013/16)",
+        "cost": {
+            "type": "Green Ornament",
+            "amount": 8
+        }
+    },
+    {
+        "name": "Elfin' Longhelm",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 1,
+        "defense": 34,
+        "description": "A ceremonial longhelm with a pair of pointy Elfin' ears. Embody the spirit of the holidays -- literally, because the elf's spirit is probably still trapped in that hat.",
+        "cost": {
+            "type": "Green Ornament",
+            "amount": 8
+        }
+    },
+    {
+        "name": "Red Holiday Hat",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 13,
+        "defense": 244,
+        "description": "Spread the holiday cheer! (Limited Time!)",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 10
+        }
+    },
+    {
+        "name": "Holiday Cheer Helm",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 1,
+        "defense": 34,
+        "description": "Forged at the top of the world, this ancient helmet is said to contain near-mythic levels of holiday cheer. (Winter Holiday 2014)",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 10
+        }
+    },
+    {
+        "name": "Yuletide's Frost",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 19,
+        "damageMin": 2822,
+        "damageMax": 3448,
+        "speed": 1.3,
+        "damagePerSecond": 2411.53,
+        "description": "A staff fashioned from a single piece of enchanted ice, it reaches out with razor-sharp shards to engulf its foes in death's cold grip. Requires Level 35",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 40
+        }
+    },
+    {
+        "name": "Yuletide Battleaxe",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 19,
+        "damageMin": 1747,
+        "damageMax": 2364,
+        "speed": 1.1,
+        "damagePerSecond": 1868.63,
+        "description": "Specially consructed by the Hoiday Goblin (of Doom) to spread holiday cheer, in addition to chaos and mass desctruction.",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 35
+        }
+    },
+    {
+        "name": "Sweater of Festivity",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 17,
+        "defense": 905,
+        "description": "Nobody knows the origins of this unique garment, as it has been passed down and re-gifted for countless millennia. (Limited Time!) Requires Level 30",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 10
+        }
+    },
+    {
+        "name": "Red Holiday Coat",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 15,
+        "defense": 665,
+        "description": "Your belly now shakes when you laugh, like a bowl full of jelly! (Limited Time!) Requires Level 30",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 20
+        }
+    },
+    {
+        "name": "Angletic Wings",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Cloak",
+        "tier": 15,
+        "defense": 399,
+        "description": "Bring peace to Glenfort's strife with the wings of an angel! (Limited Time!) Requires Level 30",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 20
+        }
+    },
+    {
+        "name": "Yuletide Greataxe",
+        "class": "Justicar",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Two Hand",
+        "subType": "Axe",
+        "damageMin":2850,
+        "damageMax":3857,
+        "speed":1.4,
+        "damagePerSecond":2395.35,
+        "tier": 19,
+        "description": "A massive greataxe imbued with powerful Elfin' cheers, Distilled from their very life essence by powerful Yuletide magic.",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": -1
+        }
+    },
+    {
+        "name": "Huge Peppermint Stick",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Two Hand",
+        "subType": "Sword",
+        "damageMin":1129,
+        "damageMax":1380,
+        "speed":1.3,
+        "damagePerSecond":965.0,
+        "tier": 13,
+        "description": "Justice just got a little bit sweeter! (Limited Time!)",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 15
+        }
+    },
+    {
+        "name": "Pointy Peppermint Stick",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Main Hand",
+        "damageMin":677,
+        "damageMax":828,
+        "speed":1.0,
+        "damagePerSecond":752.5,
+        "tier": 13,
+        "description": "Exact sweet, sweet justice upon your foes! (Limited Time!)",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 15
+        }
+    },
+
+
+
+
+
+
+    {
+        "name": "Jack-o-Lantarn",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 5000
+        }
+    },
+    {
+        "name": "Traitor's Mask",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Bandit's Mask",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Infernal Horns",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 3000
+        }
+    },
+    {
+        "name": "Apocryphal Horns",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 3000
+        }
+    },
+    {
+        "name": "Dracula's Mantle",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 21,
+        "defense": 1010,
+        "description": "This darkened coat envelopes you in darkness.",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 7000
+        }
+    },
+    {
+        "name": "Wings of the Vanguard",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Cloak",
+        "tier": -1,
+        "defense": -1,
+        "description": "?",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 6000
+        }
+    },
+    {
+        "name": "Vampire's Emrace",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Cloak",
+        "tier": -1,
+        "defense": -1,
+        "description": "?",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 2500
+        }
+    },
+    {
+        "name": "Underworld Trident",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Main Hand",
+        "tier": -1,
+        "defense": -1,
+        "description": "?",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 4500
+        }
+    },
+    {
+        "name": "The Devil's Trident",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Main Hand",
+        "tier": -1,
+        "defense": -1,
+        "description": "?",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 3000
+        }
+    },
+    {
+        "name": "Furry Hooves",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Boots",
+        "tier": -1,
+        "defense": -1,
+        "description": "?",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Hero's Tombstone",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": -1,
+        "defense": -1,
+        "description": "?",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 4500
+        }
+    },
+
+
+
+
+
+
+
+    {
+        "name": "Chef's Toque",
+        "class": "War Mage",
+        "drop": [
+            "Event: Werechef"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Silverware",
+            "amount": 10
+        }
+    },
+    {
+        "name": "Dark Accursed Helm",
+        "class": "War Mage",
+        "drop": [
+            "Event: Werechef"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 19,
+        "defense": 615,
+        "description": "A helmet of dark power, said to chanel the maddening pale essence of the moon itself (Limited Time!)",
+        "cost": {
+            "type": "Silverware",
+            "amount": 90
+        }
+    },
+    {
+        "name": "Lycanthrope Helm",
+        "class": "War Mage",
+        "drop": [
+            "Event: Werechef"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 19,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Silverware",
+            "amount": 70
+        }
+    },
+    {
+        "name": "Old Frying Pan",
+        "class": "War Mage",
+        "drop": [
+            "Event: Werechef"
+        ],
+        "type": "Main Hand",
+        "subType": "",
+        "tier": 13,
+        "damageMin":677,
+        "damageMax":828,
+        "speed": 1.0,
+        "damagePerSecond": 752.5,
+        "description": "Deal some wrought-iron justice with this powerful culinary artifact. (Limited Time!)",
+        "cost": {
+            "type": "Silverware",
+            "amount": 70
+        }
+    },
+    {
+        "name": "Werewere Necklace",
+        "class": "War Mage",
+        "drop": [
+            "Event: Werechef"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 21,
+        "description": "This mishmash of cutlery and teeth contains powerful magic!",
+        "cost": {
+            "type": "Silverware",
+            "amount": -1
+        }
+    },
+    {
+        "name": "Lycanthrope Tail",
+        "class": "War Mage",
+        "drop": [
+            "Event: Werechef"
+        ],
+        "type": "Cloak",
+        "tier": 13,
+        "defense": 293,
+        "description": "A stylish tail of mysterious origin, inspired by the deadly werewolves of Glenfort. (Limited Time!)",
+        "cost": {
+            "type": "Silverware",
+            "amount": 30
+        }
+    },
+    {
+        "name": "Haute Cleaver",
+        "class": "War Mage",
+        "drop": [
+            "Event: Werechef"
+        ],
+        "type": "Main Hand",
+        "tier": -1,
+        "description": "?",
+        "cost": {
+            "type": "Silverware",
+            "amount": 40
+        }
+    },
+    {
+        "name": "Lycanthrope Claws",
+        "class": "War Mage",
+        "drop": [
+            "Event: Lucky"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": -1,
+        "defense": -1,
+        "description": "?",
+        "cost": {
+            "type": "Silverware",
+            "amount": 60
+        }
+    },
+    {
+        "name": "Lycanthrope Leggings",
+        "class": "War Mage",
+        "drop": [
+            "Event: Lucky"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": -1,
+        "defense": -1,
+        "description": "?",
+        "cost": {
+            "type": "Silverware",
+            "amount": 40
+        }
+    },
+
+
+
+    {
+        "name": "Faerie Disguise",
+        "class": "War Mage",
+        "drop": [
+            "Event: Lucky"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 15,
+        "defense": 332,
+        "description": "With this disguise you look like Lucky's significantly less evil twin! (Limited Time!)",
+        "cost": {
+            "type": "Clover",
+            "amount": 24
+        }
+    },
+    {
+        "name": "Lucky's Shillelagh",
+        "class": "War Mage",
+        "drop": [
+            "Event: Lucky"
+        ],
+        "type": "Main Hand",
+        "subType": "",
+        "tier": 15,
+        "damageMin":922,
+        "damageMax":1126,
+        "speed":1.0,
+        "damagePerSecond":1024.0,
+        "description": "The festive walking stick packs a wallop! (Limited Time!)",
+        "cost": {
+            "type": "Clover",
+            "amount": 20
+        }
+    },
+    {
+        "name": "Raider's Kilt",
+        "class": "War Mage",
+        "drop": [
+            "Event: Lucky"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 19,
+        "defense":849,
+        "description": "A ceremonial kilt inlaid with an ancient symbol of power and prestige.",
+        "cost": {
+            "type": "Clover",
+            "amount": 60
+        }
+    },
+    {
+        "name": "Leprechaun Boots",
+        "class": "War Mage",
+        "drop": [
+            "Event: Lucky"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 19,
+        "defense": 492,
+        "description": "These hardy boots are sure to provide a little luck to any who wears them!",
+        "cost": {
+            "type": "Clover",
+            "amount": 60
+        }
+    },
+    {
+        "name": "Wanderer's Kilt",
+        "class": "War Mage",
+        "drop": [
+            "Event: Lucky"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 13,
+        "defense": 337,
+        "description": "A tartan kilt popular with the wandering warriors in the lands around Stonehelm.",
+        "cost": {
+            "type": "Clover",
+            "amount": 20
+        }
+    },
+    {
+        "name": "Thornweave Shield",
+        "class": "War Mage",
+        "drop": [
+            "Event: Lucky"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": -1,
+        "defense": -1,
+        "description": "?",
+        "cost": {
+            "type": "Clover",
+            "amount": 40
+        }
+    },
+    
+
+
+
+
+
+    {
+        "name": "Prestine Sword of the Vile",
+        "class": "War Mage",
+        "drop": [
+            "Quest"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 9,
+        "damageMin":366,
+        "damageMax":447,
+        "speed":1.0,
+        "damagePerSecond":406.5,
+        "description": "The empowered Sword of the Vile. Legacy Gear",
+        "cost": { }
+    },
+    {
+        "name": "Time Lost Sword",
+        "class": "War Mage",
+        "drop": [
+            "Quest"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 1,
+        "damageMin":23,
+        "damageMax":28,
+        "speed":1.0,
+        "damagePerSecond":25.5,
+        "description": "Despite the fact that this weapon seems a bit old fashioned, you cn see how it might have once beenthe weapon of a true champion!",
+        "cost": { }
+    },
+    {
+        "name": "Ancient Golden Emblazonment",
+        "class": "War Mage",
+        "drop": [
+            "Event"
+        ],
+        "type": "Chest Armor",
+        "subType": "",
+        "tier": 1,
+        "description": "In ages past, gladiators dared to enter the Coliseum without the burden of armor, proving their unmatched skill in one-on-one combat (Gold League, PVP, Season 1) - Legacy Gear",
+        "cost": { }
+    },
+    {
+        "name": "Amulet of Creation",
+        "class": "War Mage",
+        "drop": [
+            "Craft"
+        ],
+        "type": "Amulet",
+        "tier": 19,
+        "description": "Long protected by the mysterious Keepers, this strange and terrible artifact whispers cryptic warnings of something long-forgotten beneath the surface of Glenfort.",
+        "cost": { }
+    },
+    {
+        "name": "Amulet of Ironhaven",
+        "class": "War Mage",
+        "drop": [
+            "Quest"
+        ],
+        "type": "Amulet",
+        "tier": 7,
+        "description": "",
+        "cost": { }
+    },
+    {
+        "name": "Karnak's Ring",
+        "class": "War Mage",
+        "drop": [
+            "Craft"
+        ],
+        "type": "Ring",
+        "tier": 15,
+        "description": "You now understand why Karnak sought to enter our world; the power of the Void, combined with Glenfort's finest gems, has resulted in an artifact with power almost unfathomable.",
+        "cost": { }
+    },
+    {
+        "name": "Ring of Eternity",
+        "class": "War Mage",
+        "drop": [
+            "Craft"
+        ],
+        "type": "Ring",
+        "tier": 19,
+        "description": "The potent arcane energies that result form combining the power of the Void, Glenfort's vast resources, and the ancient knowledge of the Keepers are likely more than mere mortals were meant to wield.",
+        "cost": { }
+    },
+    {
+        "name": "Chef's Uniform",
+        "class": "War Mage",
+        "drop": [
+            "Quest"
+        ],
+        "type": "Chest Armor",
+        "tier": 1,
+        "description": "Legacy Gear",
+        "cost": { }
     }
 ]

@@ -7,14 +7,10 @@
     </div>
 
     <div class="row">
-        <p>Gear has no 'default' modifiers except for 'defense', it reflects the gems you have equiped in the shop.</p>
-        <p>Shops:</p>
-        <ul>
-            <li>Majerio's Shop</li>
-            <li>Black Market (Mysterio)</li>
-            <li>Glenfort Coliseum Store</li>
-            <li>Event: Cupid</li>
-        </ul>
+        <p>Gear has no 'default' modifiers except for 'defense', it reflects the gems you have equiped in the shop. -1 one means,
+            I don't know, so if you know, because you have the item, please post it on the forums. I will add Justicar and
+            Shadow Walkers, don't have the classes Frost Knight, Flame Warden and Inquisitor.</p>
+            <p>Mind that the sorting and filtering doesn't work (yet) on mobile, but it does work in the desktop version.</p>
     </div>
 
     <!-- large screens -->
@@ -71,6 +67,15 @@
     <!-- mobile view -->
     <div class='panel-body hidden-lg'>
         <ul class='table' *ngIf='gear'>
+            <label for="sort">Sort on:</label>
+            <select id="sort">
+                <option>name</option>
+            </select>
+            <label for="filter">Filter on:</label>
+            <select id="filter">
+                <option>name</option>
+            </select>
+            <input type="text" placeholder="Doesn't work yet... work in progress..."/>
             <li *ngFor="let item of gear | orderBy : [sort]">
                 <div (click)="toggle(item.name)" class="hand">{{ item.name }}</div>
                 <ul [ngClass]="item.collapsed" [id]="item.name">
@@ -80,6 +85,16 @@
                             <li>{{ drop }}</li>
                         </ul>
                     </li>
+                    <li>Type: {{ item.type }}</li>
+                    <li *ngIf="item.subType">SubType: {{ item.subType }}</li>
+                    <li>Tier: {{ item.tier }}</li>
+                    <li *ngIf="item.cost.type">Cost: {{ item.cost.amount }} {{ item.cost.type }}</li>
+                    <li *ngIf="item.description">Description: {{ item.description }}</li>
+                    <li *ngIf="item.defense">Defense: {{ item.defense }}</li>
+                    <li *ngIf="item.damageMin">Damage: {{ item.damageMin }}-{{ item.damageMax }} ({{ item.damagePerSecond }} damage per second)</li>
+                    <li *ngIf="item.speed">Speed: {{ item.speed }}</li>
+                    <li *ngIf="item.blockChance">Block Chance: {{ item.blockChance }}</li>
+                    <li *ngIf="item.blockMitigation">Block Mitigation: {{ item.blockMitigation }}</li>
                 </ul>
             </li>
         </ul>
