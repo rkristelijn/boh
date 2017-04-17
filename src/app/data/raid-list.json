@@ -301,7 +301,8 @@
             "652 waves, enemies, Vile beasts amongst Vile Bores",
             "489 waves, enemies, kind of keepers Servant of the Ancient, Eternal, Righteous and Pure, two at the same time",
             "489 waves, boss, The Originator"
-        ]
+        ],
+        "cooldown": 240
     },
     {
         "name": "Rise of the Spider Queen",
@@ -354,7 +355,8 @@
             "465 waves, Lvl 38 Vile Goblins",
             "465 waves, enemies",
             "306, boss, Sha'lyn; The Spider Queen, Onslaught 10e each"
-        ]
+        ],
+        "cooldown": 150
     },
     {
         "name": "The Shadow Returns",
@@ -369,6 +371,7 @@
             "486 waves, enemies",
             "245 waves, boss, The Hunter, Onslaught 10e each",
             "326 waves, boss, The Eldritch Hunter, Onslaughter 10e each"
-        ]
+        ],
+        "cooldown": 150
     }
 ]
