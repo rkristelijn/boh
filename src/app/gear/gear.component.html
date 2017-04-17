@@ -10,7 +10,7 @@
         <p>Gear has no 'default' modifiers except for 'defense', it reflects the gems you have equiped in the shop. -1 one means,
             I don't know, so if you know, because you have the item, please post it on the forums. I will add Justicar and
             Shadow Walkers, don't have the classes Frost Knight, Flame Warden and Inquisitor.</p>
-            <p>Mind that the sorting and filtering doesn't work (yet) on mobile, but it does work in the desktop version.</p>
+        <p>Mind that the sorting and filtering doesn't work (yet) on mobile, but it does work in the desktop version.</p>
     </div>
 
     <!-- large screens -->
@@ -38,7 +38,59 @@
                 </thead>
                 <tbody>
                     <!--<tr *ngFor="let item of gear | stringFilter:nameFilter:'name' | stringFilter:valorFilter:'valor' | orderBy : [sort] ">-->
-                    <tr *ngFor="let item of gear | orderBy : [sort] ">
+                    <tr>
+                        <td>
+                            <input type='text' name="nameFilter" [(ngModel)]='nameFilter' placeholder="Filter name..." />
+                        </td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td>
+                            <select name="typeFilter" [(ngModel)]='typeFilter'>
+                                <!--<option *ngFor="let option of getDistinct('type')">{{ option }}</option> throws error-->
+                                <option></option>
+                                <option>Amulet</option>
+                                <option>Boots</option>
+                                <option>Chest Armor</option>
+                                <option>Cloak</option>
+                                <option>Gauntlets</option>
+                                <option>Helmet</option>
+                                <option>Leg Armor</option>
+                                <option>Main Hand</option>
+                                <option>Ring</option>
+                                <option>Shield</option>
+                                <option>Staff</option>
+                                <option>Two Hand</option>
+                            </select>
+                        </td>
+                        <td>&nbsp;</td>
+                        <td>
+                            <select name="valorFilter" [(ngModel)]='valorFilter'>
+                                <option>Silver</option>
+                            </select>
+                        </td>
+                        <td>
+                            <input type="text" name="descFilter" [(ngModel)]="descFilter" placeholder="Filter description" />
+                        </td>
+                        <td>&nbsp;</td>
+                        <td>
+                            <select name="subTypeFilter" [(ngModel)]='subTypeFilter'>
+                                <!--<option *ngFor="let option of getDistinct('subType')">{{ option }}</option>-->
+                                <option></option>
+                                <option>Axe</option>
+                                <option>Cloth</option>
+                                <option>Light</option>
+                                <option>Sword</option>
+                                <option>Staff</option>
+                                <option>?</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr *ngFor="let item of gear 
+                            | stringFilter:nameFilter:'name' 
+                            | stringFilter:typeFilter:'type' 
+                            | stringFilter:descFilter:'description' 
+                            | stringFilter:subTypeFilter:'subType' 
+                            | orderBy : [sort] ">
                         <td>{{ item.name }}</td>
                         <td>{{ item.class }}</td>
                         <td>
@@ -75,7 +127,7 @@
             <select id="filter">
                 <option>name</option>
             </select>
-            <input type="text" placeholder="Doesn't work yet... work in progress..."/>
+            <input type="text" placeholder="Doesn't work yet... work in progress..." />
             <li *ngFor="let item of gear | orderBy : [sort]">
                 <div (click)="toggle(item.name)" class="hand">{{ item.name }}</div>
                 <ul [ngClass]="item.collapsed" [id]="item.name">

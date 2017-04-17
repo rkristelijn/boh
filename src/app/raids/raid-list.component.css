@@ -4,6 +4,9 @@
 .hand {
     cursor:pointer;
 }
+.gray {
+    background-color:#f8f8f8;
+}
 
 .panel-heading a:after {
     font-family:'Glyphicons Halflings';
@@ -17,4 +20,14 @@
 
 p {
     margin: 20px;
+}
+
+table {
+    margin:0;
+    width:100%;
+}
+.text {
+    display: inline-block;
+    text-overflow:unset;
+    overflow: unset;
 }

@@ -4458,7 +4458,7 @@
             "Event: Valentine"
         ],
         "type": "Gauntlets",
-        "subType": "Closts",
+        "subType": "Cloth",
         "tier": 17,
         "defense": 362,
         "description": "A more powerful version of Valentine's bracers, trimmed in gold.",
@@ -4474,7 +4474,7 @@
             "Event: Valentine"
         ],
         "type": "Gauntlets",
-        "subType": "Closts",
+        "subType": "Cloth",
         "tier": -1,
         "defense": -1,
         "description": "",

@@ -6,13 +6,18 @@
     </div>
 
     <div class="row">
-        <p>I have found some bugs with collapsing and sorting in the mobile version, work in progress, but for the desktop version it should work ok. I'm collecting drop rates and cooldown timers. Let me know if you have data which I can add via a forum past (see footer)</p>
+        <p>I have found some bugs with collapsing and sorting in the mobile version, work in progress, but for the desktop version
+            it should work ok. I'm collecting drop rates and cooldown timers. Let me know if you have data which I can add
+            via a forum past (see footer)</p>
     </div>
 
     <!-- large screens -->
     <div class='panel-body hidden-md hidden-sm hidden-xs'>
         <div class='table-responsive'>
-            <table class='table' *ngIf='raids && raids.length'>
+
+            <div *ngIf="!raids">Loading data...</div>
+
+            <table class='table' *ngIf='raids'>
                 <thead>
                     <tr>
                         <th (click)="sortOn($event, 'name')">Name<span [class]="getClass('name')"></span></th>
@@ -20,6 +25,7 @@
                         <th (click)="sortOn($event, 'might')">Might<span [class]="getClass('might')"></span></th>
                         <th (click)="sortOn($event, 'waves')">Gold, Silver, Bronze Time, Waves<span [class]="getClass('waves')"></span></th>
                         <th>Phases and Description</th>
+                        <th (click)="sortOn($event, 'cooldown')">Cooldown<span [class]="getClass('cooldown')"></span></th>
                     </tr>
                 </thead>
                 <tbody>
@@ -36,6 +42,7 @@
                         </select>
                         </td>
                         <td>&nbsp;</td>
+                        <td>&nbsp;</td>
                     </tr>
                     <tr *ngFor="let raid of raids | stringFilter:nameFilter:'name' | stringFilter:valorFilter:'valor' | orderBy : [sort] ">
                         <td><a [routerLink]="['/locations']" [queryParams]="{search: raid.name}">{{ raid.name }}</a></td>
@@ -51,6 +58,7 @@
                             <div *ngFor="let phase of raid.phases; let i = index;">Phase {{ i+1 }}: {{ phase }}</div>
                             <div>Description: {{ raid.description }}</div>
                         </td>
+                        <td>{{ raid.cooldown | time }}</td>
                     </tr>
                 </tbody>
             </table>
@@ -58,7 +66,7 @@
     </div>
 
     <!-- mobile view -->
-    <div class='panel-body hidden-lg'>
+    <!--<div class='panel-body hidden-lg'>
         <input type='text' name="nameFilter" [(ngModel)]='nameFilter' placeholder="Filter name..." />
         <select name="valorFilter" [(ngModel)]='valorFilter' placeholder="Filter valor...">
                                 <option name="" value=""></option>
@@ -68,9 +76,21 @@
                                 <option name="Captain's Valor" value="Captain's Valor">Captain's Valor</option>
                                 <option name="Guardian's Valor" value="Guardian's Valor">Guardian's Valor</option>
                         </select>
-        <ul class='table' *ngIf='raids && raids.length'>
-            <li *ngFor="let raid of raids | stringFilter:nameFilter:'name' | stringFilter:valorFilter:'valor' | orderBy : [sort]">
-                <div (click)="toggle(raid.index)" class="hand">{{ raid.name }} / Might: {{ raid.might }} / Valor: {{ raid.valor }}</div>
+        <div class="row">
+            <strong>
+            <div class="col-xs-3 hand" (click)="sortOn($event, 'name')">Name<span [class]="getClass('name')"></span></div>
+            <div class="col-xs-3 hand" (click)="sortOn($event, 'might')">Might<span [class]="getClass('might')"></span></div>
+            <div class="col-xs-3 hand" (click)="sortOn($event, 'valor')">Valor<span [class]="getClass('valor')"></span></div>
+            <div class="col-xs-3 hand" (click)="sortOn($event, 'waves')">Energy<span [class]="getClass('waves')"></span></div>
+            </strong>
+        </div>
+        <hr>
+        <div class='row' *ngIf='raids && raids.length'>
+            <div *ngFor="let raid of raids | stringFilter:nameFilter:'name' | stringFilter:valorFilter:'valor' | orderBy : [sort]">
+                <div (click)="toggle(raid.index)" class="col-xs-3 hand">{{ raid.name }}</div>
+                <div (click)="toggle(raid.index)" class="col-xs-3 hand">{{ raid.might }} </div>
+                <div (click)="toggle(raid.index)" class="col-xs-3 hand">{{ raid.valor }}</div>
+                <div (click)="toggle(raid.index)" class="col-xs-3 hand">{{ raid.waves * 2 }} e / {{ (raid.waves * 2) / 50 }} toons</div>
                 <ul [ngClass]="raid.collapsed" [id]="raid.index">
                     <a [routerLink]="['/locations']" [queryParams]="{search: raid.name}">see location</a>
                     <li>Valor: {{ raid.valor }}</li>
@@ -81,12 +101,83 @@
                         <li>Bronze:{{ raid.bronze | time }}</li>
                     </ul>
                     <li>Waves: {{ raid.waves }}</li>
+                    <li>Energy needed: {{ raid.waves * 2 }} / {{ (raid.waves * 2) / 50 }} characters (not counting onslaught)</li>
                     <ul>
                         <li *ngFor="let phase of raid.phases; let i = index;">Phase {{ i+1 }}: {{ phase }}</li>
                     </ul>
                     <li>Description: {{ raid.description }}</li>
+                    <li>Cooldown: {{ raid.cooldown | time }}</li>
                 </ul>
-            </li>
-        </ul>
+            </div>
+        </div>
+    </div>-->
+
+    <!-- second try -->
+    <div class='panel-body hidden-lg'>
+        <div class='table-responsive'>
+
+            <div *ngIf="!raids">Loading data...</div>
+
+            <table class='table' *ngIf='raids'>
+                <thead>
+                    <tr>
+                        <th (click)="sortOn($event, 'name')">Name<span [class]="getClass('name')"></span></th>
+                        <th (click)="sortOn($event, 'valor')">Valor<span [class]="getClass('valor')"></span></th>
+                        <th (click)="sortOn($event, 'might')">Might<span [class]="getClass('might')"></span></th>
+                        <th (click)="sortOn($event, 'waves')">Energy<span [class]="getClass('waves')"></span></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><input type='text' name="nameFilter" [(ngModel)]='nameFilter' placeholder="Filter name..." /></td>
+                        <td>
+                            <select name="valorFilter" [(ngModel)]='valorFilter' placeholder="Filter valor...">
+                                <option name="" value=""></option>
+                                <option name="Squire's Valor" value="Squire's Valor">Squire's Valor</option>
+                                <option name="Soldier's Valor" value="Soldier's Valor">Soldier's Valor</option>
+                                <option name="Knight's Valor" value="Knight's Valor">Knight's Valor</option>
+                                <option name="Captain's Valor" value="Captain's Valor">Captain's Valor</option>
+                                <option name="Guardian's Valor" value="Guardian's Valor">Guardian's Valor</option>
+                        </select>
+                        </td>
+                        <td>&nbsp;</td>
+                        <td>&nbsp;</td>
+                    </tr>
+                    <tr *ngFor="let raid of raids | stringFilter:nameFilter:'name' | stringFilter:valorFilter:'valor' | orderBy : [sort] ">
+                        <td colspan="4">
+                            <table>
+                                <tr>
+                                    <td (click)="toggle(raid.index)" colspan="3"><strong>{{ raid.name }}</strong></td>
+                                </tr>
+                                <tr>
+                                    <td>{{ raid.valor }}</td>
+                                    <td>{{ raid.might }}</td>
+                                    <td>{{ raid.waves * 2 }}e/{{ (raid.waves * 2) / 50 }}toons</td>
+                                </tr>
+                                <tr [ngClass]="raid.collapsed" [id]="raid.index">
+                                    <td colspan="3" class="text">
+                                        <a [routerLink]="['/locations']" [queryParams]="{search: raid.name}">see location</a>
+                                        <ul>
+                                            <li>Gold:{{ raid.gold | time }}</li>
+                                            <li>Silver:{{ raid.silver | time }}</li>
+                                            <li>Bronze:{{ raid.bronze | time }}</li>
+                                        </ul>
+                                        <p>Waves: {{ raid.waves }}</p>
+                                        <p>Energy needed: {{ raid.waves * 2 }} / {{ (raid.waves * 2) / 50 }} characters (not
+                                            counting onslaught)</p>
+                                        <p>Description: {{ raid.description }}</p>
+                                        <p>Cooldown: {{ raid.cooldown | time }}</p>
+                                        <ul>
+                                            <li *ngFor="let phase of raid.phases; let i = index;">Phase {{ i+1 }}: {{ phase }}</li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </div>
 </div>

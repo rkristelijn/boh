@@ -13,7 +13,7 @@ export class StringFilterPipe implements PipeTransform {
     transform(value: any[], filterBy: string, index: string): any[] {
         filterBy = filterBy ? filterBy.toLocaleLowerCase() : null;
         if (filterBy) {
-            return value.filter((loc: any) => loc[index].toLocaleLowerCase().indexOf(filterBy) !== -1);
+            return value.filter((loc: any) => loc.hasOwnProperty(index) ? loc[index].toLocaleLowerCase().indexOf(filterBy) !== -1 : "" );
         } else {
             return value;
         }

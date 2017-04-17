@@ -18,6 +18,7 @@ export class GearListComponent extends SortComponent implements OnInit {
 
   //local variables for behavior (filter/sorting)
   nameFilter: string;
+  typeFilter: string;
   valorFilter: string;
 
   /** We need the dataservice to load data and to handle ?search= routes
@@ -26,13 +27,13 @@ export class GearListComponent extends SortComponent implements OnInit {
    */
   constructor(private dataService: DataService, private activatedRoute: ActivatedRoute) {
     super();
-    this.sort = 'tier';
+    this.sort = 'name';
   }
 
   toggle(name) {
     for (let item of this.gear) {
-      if( item.name === name ) {
-        item['collapsed']  = item['collapsed'] == "collapsed" ? "" : "collapsed";
+      if (item.name === name) {
+        item['collapsed'] = item['collapsed'] == "collapsed" ? "" : "collapsed";
       }
     }
   }
@@ -56,5 +57,19 @@ export class GearListComponent extends SortComponent implements OnInit {
       item["collapsed"] = "collapsed";
       item["index"] = i++;
     }
+  }
+  /**
+   * returns an array of unique items
+   * @param prop 
+   */
+  getDistinct(prop: any): any[] {
+    let distinct: any[] = [];
+    for (let item of this.gear) {
+      if (!item.hasOwnProperty(prop)) { continue; }
+      if (distinct.indexOf(item[prop]) === -1) {
+        distinct.push(item[prop]);
+      }
+    }
+    return distinct;
   }
 }
