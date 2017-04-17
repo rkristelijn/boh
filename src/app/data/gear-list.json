@@ -8,7 +8,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 1,
-        "defence": 24,
+        "defense": 24,
         "description": "Legacy Gear",
         "cost": {
             "type": "Silver",
@@ -19,16 +19,13 @@
         "name": "Acolyte Hat",
         "class": "War Mage",
         "drop": [
-            "Majerio's Shop"
+            "Majerio's Shop",
+            "Quest?"
         ],
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 2,
-        "defence": 31,
-        "magic": 93,
-        "crit": 93,
-        "critPower": 93,
-        "resistFire": 168,
+        "defense": 31,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -44,11 +41,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 3,
-        "defence": 39,
-        "magic": 139,
-        "crit": 139,
-        "critPower": 139,
-        "resistFire": 252,
+        "defense": 39,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -64,11 +57,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 4,
-        "defence": 49,
-        "magic": 185,
-        "crit": 185,
-        "critPower": 185,
-        "resistFire": 336,
+        "defense": 49,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -79,16 +68,13 @@
         "name": "Dawnrock Hood",
         "class": "War Mage",
         "drop": [
-            "Majerio's Shop"
+            "Majerio's Shop",
+            "Quest?"
         ],
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 5,
-        "defence": 61,
-        "magic": 231,
-        "crit": 231,
-        "critPower": 231,
-        "resistFire": 420,
+        "defense": 61,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -104,11 +90,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 6,
-        "defence": 77,
-        "magic": 278,
-        "crit": 278,
-        "critPower": 278,
-        "resistFire": 504,
+        "defense": 77,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -124,11 +106,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 6,
-        "defence": 77,
-        "magic": 278,
-        "crit": 278,
-        "critPower": 278,
-        "resistFire": 504,
+        "defense": 77,
         "description": "",
         "cost": {
             "type": "Gold Shields",
@@ -144,11 +122,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 6,
-        "defence": 77,
-        "magic": 278,
-        "crit": 278,
-        "critPower": 278,
-        "resistFire": 504,
+        "defense": 77,
         "description": "",
         "cost": {
             "type": "Squire's Valor",
@@ -159,16 +133,13 @@
         "name": "Conjured Cap",
         "class": "War Mage",
         "drop": [
-            "Majerio's Shop"
+            "Majerio's Shop",
+            "Quest?"
         ],
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 7,
-        "defence": 97,
-        "magic": 324,
-        "crit": 324,
-        "critPower": 324,
-        "resistFire": 588,
+        "defense": 97,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -184,11 +155,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 8,
-        "defence": 113,
-        "magic": 370,
-        "crit": 370,
-        "critPower": 370,
-        "resistFire": 672,
+        "defense": 113,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -204,11 +171,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 9,
-        "defence": 132,
-        "magic": 416,
-        "crit": 416,
-        "critPower": 416,
-        "resistFire": 756,
+        "defense": 132,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -224,11 +187,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 10,
-        "defence": 154,
-        "magic": 462,
-        "crit": 462,
-        "critPower": 462,
-        "resistFire": 840,
+        "defense": 154,
         "description": "",
         "cost": {
             "type": "Soldier's Valor",
@@ -244,11 +203,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 11,
-        "defence": 180,
-        "magic": 509,
-        "crit": 509,
-        "critPower": 509,
-        "resistFire": 924,
+        "defense": 180,
         "description": "",
         "cost": {
             "type": "Gold Shields",
@@ -264,11 +219,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 12,
-        "defence": 209,
-        "magic": 555,
-        "crit": 555,
-        "critPower": 555,
-        "resistFire": 1008,
+        "defense": 209,
         "description": "",
         "cost": {
             "type": "Knight's Valor",
@@ -284,11 +235,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 14,
-        "defence": 258,
-        "magic": 647,
-        "crit": 647,
-        "critPower": 647,
-        "resistFire": 1176,
+        "defense": 258,
         "description": "",
         "cost": {
             "type": "Captain's Valor",
@@ -304,11 +251,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 16,
-        "defence": 388,
-        "magic": 740,
-        "crit": 740,
-        "critPower": 740,
-        "resistFire": 1344,
+        "defense": 388,
         "description": "",
         "cost": {
             "type": "Champion's Valor",
@@ -324,11 +267,7 @@
         "type": "Helmet",
         "subType": "Cloth",
         "tier": 18,
-        "defence": 527,
-        "magic": 832,
-        "crit": 832,
-        "critPower": 832,
-        "resistFire": 1512,
+        "defense": 527,
         "description": "",
         "cost": {
             "type": "Guardian's Valor",
@@ -344,7 +283,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 1,
-        "defence": 49,
+        "defense": 49,
         "description": "Legacy Gear",
         "cost": {
             "type": "Silver",
@@ -360,11 +299,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 2,
-        "defence": 61,
-        "magic": 124,
-        "crit": 124,
-        "critPower": 124,
-        "resistSpirit": 224,
+        "defense": 61,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -380,11 +315,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 3,
-        "defence": 77,
-        "magic": 185,
-        "crit": 185,
-        "critPower": 185,
-        "resistSpirit": 336,
+        "defense": 77,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -400,11 +331,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 4,
-        "defence": 97,
-        "magic": 247,
-        "crit": 247,
-        "critPower": 247,
-        "resistSpirit": 448,
+        "defense": 97,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -420,11 +347,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 5,
-        "defence": 122,
-        "magic": 308,
-        "crit": 308,
-        "critPower": 308,
-        "resistSpirit": 560,
+        "defense": 122,
         "description": "",
         "cost": {
             "type": "Gold Shields",
@@ -440,11 +363,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 6,
-        "defence": 154,
-        "magic": 370,
-        "crit": 370,
-        "critPower": 370,
-        "resistSpirit": 672,
+        "defense": 154,
         "description": "",
         "cost": {
             "type": "Squire's Valor",
@@ -460,11 +379,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 7,
-        "defence": 192,
-        "magic": 432,
-        "crit": 432,
-        "critPower": 432,
-        "resistSpirit": 784,
+        "defense": 192,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -480,11 +395,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 8,
-        "defence": 226,
-        "magic": 493,
-        "crit": 493,
-        "critPower": 493,
-        "resistSpirit": 896,
+        "defense": 226,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -500,11 +411,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 9,
-        "defence": 264,
-        "magic": 555,
-        "crit": 555,
-        "critPower": 555,
-        "resistSpirit": 1008,
+        "defense": 264,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -520,11 +427,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 10,
-        "defence": 308,
-        "magic": 616,
-        "crit": 616,
-        "critPower": 616,
-        "resistSpirit": 1120,
+        "defense": 308,
         "description": "",
         "cost": {
             "type": "Soldier's Valor",
@@ -540,11 +443,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 11,
-        "defence": 359,
-        "magic": 678,
-        "crit": 678,
-        "critPower": 678,
-        "resistSpirit": 1232,
+        "defense": 359,
         "description": "",
         "cost": {
             "type": "Gold Shields",
@@ -560,11 +459,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 12,
-        "defence": 419,
-        "magic": 740,
-        "crit": 740,
-        "critPower": 740,
-        "resistSpirit": 1344,
+        "defense": 419,
         "description": "",
         "cost": {
             "type": "Knight's Valor",
@@ -580,11 +475,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 14,
-        "defence": 570,
-        "magic": 863,
-        "crit": 863,
-        "critPower": 863,
-        "resistSpirit": 1568,
+        "defense": 570,
         "description": "",
         "cost": {
             "type": "Captain's Valor",
@@ -600,11 +491,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 16,
-        "defence": 775,
-        "magic": 986,
-        "crit": 986,
-        "critPower": 986,
-        "resistSpirit": 1792,
+        "defense": 775,
         "description": "",
         "cost": {
             "type": "Champion's Valor",
@@ -620,11 +507,7 @@
         "type": "Chest Armor",
         "subType": "Cloth",
         "tier": 18,
-        "defence": 1055,
-        "magic": 1109,
-        "crit": 1109,
-        "critPower": 1109,
-        "resistSpirit": 2016,
+        "defense": 1055,
         "description": "",
         "cost": {
             "type": "Guardian's Valor",
@@ -640,7 +523,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 1,
-        "defence": 19,
+        "defense": 19,
         "description": "Legacy Gear",
         "cost": {
             "type": "Silver",
@@ -656,11 +539,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 2,
-        "defence": 24,
-        "magic": 62,
-        "critPower": 62,
-        "resistNature": 112,
-        "haste": 62,
+        "defense": 24,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -676,11 +555,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 3,
-        "defence": 31,
-        "magic": 93,
-        "critPower": 93,
-        "resistNature": 168,
-        "haste": 93,
+        "defense": 31,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -696,11 +571,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 4,
-        "defence": 39,
-        "magic": 124,
-        "critPower": 124,
-        "resistNature": 224,
-        "haste": 124,
+        "defense": 39,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -716,11 +587,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 5,
-        "defence": 49,
-        "magic": 154,
-        "critPower": 154,
-        "resistNature": 280,
-        "haste": 154,
+        "defense": 49,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -736,11 +603,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 6,
-        "defence": 62,
-        "magic": 185,
-        "critPower": 185,
-        "resistNature": 336,
-        "haste": 185,
+        "defense": 62,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -756,11 +619,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 6,
-        "defence": 62,
-        "magic": 185,
-        "critPower": 185,
-        "resistNature": 336,
-        "haste": 185,
+        "defense": 62,
         "description": "",
         "cost": {
             "type": "Gold Shields",
@@ -776,11 +635,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 6,
-        "defence": 62,
-        "magic": 185,
-        "critPower": 185,
-        "resistNature": 336,
-        "haste": 185,
+        "defense": 62,
         "description": "",
         "cost": {
             "type": "Squire's Valor",
@@ -796,11 +651,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 7,
-        "defence": 78,
-        "magic": 216,
-        "critPower": 216,
-        "resistNature": 392,
-        "haste": 216,
+        "defense": 78,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -816,11 +667,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 8,
-        "defence": 91,
-        "magic": 247,
-        "critPower": 247,
-        "resistNature": 448,
-        "haste": 247,
+        "defense": 91,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -836,11 +683,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 9,
-        "defence": 106,
-        "magic": 278,
-        "critPower": 278,
-        "resistNature": 504,
-        "haste": 278,
+        "defense": 106,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -856,11 +699,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 10,
-        "defence": 123,
-        "magic": 308,
-        "critPower": 308,
-        "resistNature": 560,
-        "haste": 308,
+        "defense": 123,
         "description": "",
         "cost": {
             "type": "Soldier's Valor",
@@ -876,11 +715,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 11,
-        "defence": 144,
-        "magic": 339,
-        "critPower": 339,
-        "resistNature": 616,
-        "haste": 339,
+        "defense": 144,
         "description": "",
         "cost": {
             "type": "Gold Shields",
@@ -896,11 +731,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 12,
-        "defence": 168,
-        "magic": 370,
-        "critPower": 370,
-        "resistNature": 672,
-        "haste": 370,
+        "defense": 168,
         "description": "",
         "cost": {
             "type": "Knight's Valor",
@@ -916,11 +747,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 14,
-        "defence": 228,
-        "magic": 432,
-        "critPower": 432,
-        "resistNature": 784,
-        "haste": 432,
+        "defense": 228,
         "description": "",
         "cost": {
             "type": "Captain's Valor",
@@ -936,11 +763,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 16,
-        "defence": 310,
-        "magic": 493,
-        "critPower": 493,
-        "resistNature": 896,
-        "haste": 493,
+        "defense": 310,
         "description": "",
         "cost": {
             "type": "Champion's Valor",
@@ -956,11 +779,7 @@
         "type": "Gauntlets",
         "subType": "Cloth",
         "tier": 18,
-        "defence": 422,
-        "magic": 555,
-        "critPower": 555,
-        "resistNature": 1008,
-        "haste": 555,
+        "defense": 422,
         "description": "",
         "cost": {
             "type": "Guardian's Valor",
@@ -976,7 +795,7 @@
         "type": "Leg Armor",
         "subType": "Cloth",
         "tier": 1,
-        "defence": 34,
+        "defense": 34,
         "description": "Legacy Gear",
         "cost": {
             "type": "Silver",
@@ -992,11 +811,7 @@
         "type": "Leg Armor",
         "subType": "Cloth",
         "tier": 2,
-        "defence": 43,
-        "magic": 93,
-        "crit": 93,
-        "critPower": 93,
-        "resistFire": 168,
+        "defense": 43,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -1012,11 +827,7 @@
         "type": "Leg Armor",
         "subType": "Cloth",
         "tier": 3,
-        "defence": 54,
-        "magic": 139,
-        "crit": 139,
-        "critPower": 139,
-        "resistFire": 252,
+        "defense": 54,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -1032,11 +843,7 @@
         "type": "Leg Armor",
         "subType": "Cloth",
         "tier": 4,
-        "defence": 68,
-        "magic": 185,
-        "crit": 185,
-        "critPower": 185,
-        "resistFire": 336,
+        "defense": 68,
         "description": "",
         "cost": {
             "type": "Silver",
@@ -1052,14 +859,3819 @@
         "type": "Leg Armor",
         "subType": "Cloth",
         "tier": 5,
-        "defence": 86,
-        "healthReating":330,
-        "crit": 150,
-        "physicalResist":198,
+        "defense": 86,
         "description": "",
         "cost": {
             "type": "Silver",
             "amount": 10448
+        }
+    },
+    {
+        "name": "Vengeance Leggings",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 6,
+        "defense": 108,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 20896
+        }
+    },
+    {
+        "name": "Darkbane Pants",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 6,
+        "defense": 108,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 21
+        }
+    },
+    {
+        "name": "Dragonscale Leggings",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 6,
+        "defense": 108,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 262
+        }
+    },
+    {
+        "name": "Conjured Leggings",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 7,
+        "defense": 136,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 36567
+        }
+    },
+    {
+        "name": "Deathblight Leggings",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 8,
+        "defense": 158,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 63993
+        }
+    },
+    {
+        "name": "Shattered Soul Pants",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 9,
+        "defense": 185,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 111987
+        }
+    },
+    {
+        "name": "Valorstrike Pants",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 10,
+        "defense": 216,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 680
+        }
+    },
+    {
+        "name": "Soulstrike Pants",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 11,
+        "defense": 251,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 67
+        }
+    },
+    {
+        "name": "Champion Leggings",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 12,
+        "defense": 293,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 1568
+        }
+    },
+    {
+        "name": "Demonsbane Pants",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 14,
+        "defense": 399,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 2090
+        }
+    },
+    {
+        "name": "Dauntless Pants",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 16,
+        "defense": 543,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 2299
+        }
+    },
+    {
+        "name": "Blood Oath Pants",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 18,
+        "defense": 738,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 3720
+        }
+    },
+    {
+        "name": "Glenfort Shoes",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 1,
+        "defense": 19,
+        "description": "Legacy Gear",
+        "cost": {
+            "type": "Silver",
+            "amount": 90
+        }
+    },
+    {
+        "name": "Acolyte Boots",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 2,
+        "defense": 24,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 746
+        }
+    },
+    {
+        "name": "Felstalker Boots",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 3,
+        "defense": 31,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 1493
+        }
+    },
+    {
+        "name": "Berseker Shoes",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 4,
+        "defense": 39,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 2985
+        }
+    },
+    {
+        "name": "Dawnrock Boots",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 5,
+        "defense": 49,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 5970
+        }
+    },
+    {
+        "name": "Vengeance Boots",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 6,
+        "defense": 62,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 11940
+        }
+    },
+    {
+        "name": "Darkbane Boots",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 6,
+        "defense": 62,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 12
+        }
+    },
+    {
+        "name": "Dragonscale Shoes",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 6,
+        "defense": 62,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 150
+        }
+    },
+    {
+        "name": "Conjured Boots",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 7,
+        "defense": 78,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 20896
+        }
+    },
+    {
+        "name": "Deathblight Slippers",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 8,
+        "defense": 91,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 36567
+        }
+    },
+    {
+        "name": "Shattered Soul Slippers",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 9,
+        "defense": 106,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 63993
+        }
+    },
+    {
+        "name": "Valorstrike Boots",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 10,
+        "defense": 123,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 389
+        }
+    },
+    {
+        "name": "Soulstrike Slippers",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 11,
+        "defense": 144,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 39
+        }
+    },
+    {
+        "name": "Champion Slippers",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 12,
+        "defense": 168,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 896
+        }
+    },
+    {
+        "name": "Demonsbane Shoes",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 14,
+        "defense": 228,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 1195
+        }
+    },
+    {
+        "name": "Dauntless Shoes",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 16,
+        "defense": 310,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 1314
+        }
+    },
+    {
+        "name": "Blood Oath Boots",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 18,
+        "defense": 422,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 2130
+        }
+    },
+    {
+        "name": "Glenfort Cloak",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 1,
+        "defense": 29,
+        "description": "Legacy Gear",
+        "cost": {
+            "type": "Silver",
+            "amount": 134
+        }
+    },
+    {
+        "name": "Acolyte Cape",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 2,
+        "defense": 37,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 1119
+        }
+    },
+    {
+        "name": "Felstalker Cloak",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 3,
+        "defense": 46,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 2239
+        }
+    },
+    {
+        "name": "Berserker Cloak",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 4,
+        "defense": 58,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 4478
+        }
+    },
+    {
+        "name": "Dawnrock Cape",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 5,
+        "defense": 73,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 8955
+        }
+    },
+    {
+        "name": "Vengeance Cape",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 6,
+        "defense": 92,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 17910
+        }
+    },
+    {
+        "name": "Darkbane Cape",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 6,
+        "defense": 92,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 18
+        }
+    },
+    {
+        "name": "Dragonscale Cape",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 6,
+        "defense": 92,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 224
+        }
+    },
+    {
+        "name": "Conjured Cloak",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 7,
+        "defense": 116,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 31343
+        }
+    },
+    {
+        "name": "Deathblight Cloak",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 8,
+        "defense": 136,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 95989
+        }
+    },
+    {
+        "name": "Valorstrike Cloak",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 9,
+        "defense": 185,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 583
+        }
+    },
+    {
+        "name": "Soulstrike Cloak",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 11,
+        "defense": 216,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 58
+        }
+    },
+    {
+        "name": "Champion Cape",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 12,
+        "defense": 251,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 1244
+        }
+    },
+    {
+        "name": "Demonsbane Mantle",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 14,
+        "defense": 342,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 1792
+        }
+    },
+    {
+        "name": "Dauntless Cape",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 16,
+        "defense": 465,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 1971
+        }
+    },
+    {
+        "name": "Blood Oath Cloak",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Cloak",
+        "subType": "",
+        "tier": 18,
+        "defense": 633,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 3180
+        }
+    },
+    {
+        "name": "Berserker Pendant",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 4,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 5224
+        }
+    },
+    {
+        "name": "Dawnrock Talisman",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 5,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 10448
+        }
+    },
+    {
+        "name": "Vengeance Pendant",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 6,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 20896
+        }
+    },
+    {
+        "name": "Darkbane Talisman",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 6,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 21
+        }
+    },
+    {
+        "name": "Dragonscale Pendant",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 6,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 262
+        }
+    },
+    {
+        "name": "Conjured Talisman",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 7,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 36567
+        }
+    },
+    {
+        "name": "Deathblight Amulet",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 8,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 63993
+        }
+    },
+    {
+        "name": "Shattered Soul Pendant",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 9,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 111987
+        }
+    },
+    {
+        "name": "Valorstrike Pendant",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 10,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 680
+        }
+    },
+    {
+        "name": "Soulstrike Pendant",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 11,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 67
+        }
+    },
+    {
+        "name": "Champion Talisman",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 12,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 1568
+        }
+    },
+    {
+        "name": "Demonsbane Necklace",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 14,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 2090
+        }
+    },
+    {
+        "name": "Dauntless Pendant",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 16,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 2299
+        }
+    },
+    {
+        "name": "Blood Oath Talisman",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Amulet",
+        "subType": "",
+        "tier": 18,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 3720
+        }
+    },
+    {
+        "name": "Dawnrock Ring",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 5,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 10448
+        }
+    },
+    {
+        "name": "Vengeance Band",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 6,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 20896
+        }
+    },
+    {
+        "name": "Darkbane Ring",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 6,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 21
+        }
+    },
+    {
+        "name": "Dragonscale Band",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 6,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 262
+        }
+    },
+    {
+        "name": "Conjured Ring",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 7,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 36567
+        }
+    },
+    {
+        "name": "Deathblight Ring",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 8,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 63993
+        }
+    },
+    {
+        "name": "Shattered Soul Band",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 9,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 111987
+        }
+    },
+    {
+        "name": "Valorstrike Ring",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 10,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 680
+        }
+    },
+    {
+        "name": "Soulstrike Band",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 11,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 67
+        }
+    },
+    {
+        "name": "Champion Band",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 12,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 1568
+        }
+    },
+    {
+        "name": "Demonsbane Ring",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 14,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 2090
+        }
+    },
+    {
+        "name": "Dauntless Band",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 16,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 2299
+        }
+    },
+    {
+        "name": "Blood Oath Band",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Ring",
+        "subType": "",
+        "tier": 18,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 3720
+        }
+    },
+    {
+        "name": "Dull Hatchet",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 1,
+        "damageMin": 23,
+        "damageMax": 32,
+        "speed": 1.1,
+        "damagePerSecond": 25.0,
+        "description": "Legacy Gear",
+        "cost": {
+            "type": "Silver",
+            "amount": 224
+        }
+    },
+    {
+        "name": "Rusty Steel Sword",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 1,
+        "damageMin": 23,
+        "damageMax": 28,
+        "speed": 1.0,
+        "damagePerSecond": 25.5,
+        "description": "Legacy Gear",
+        "cost": {
+            "type": "Silver",
+            "amount": 224
+        }
+    },
+    {
+        "name": "Francisca",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 2,
+        "damageMin": 37,
+        "damageMax": 49,
+        "speed": 1.1,
+        "damagePerSecond": 39.09,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 1866
+        }
+    },
+    {
+        "name": "Basic Falchion",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 2,
+        "damageMin": 35,
+        "damageMax": 43,
+        "speed": 1.0,
+        "damagePerSecond": 39.0,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 1866
+        }
+    },
+    {
+        "name": "Axe of Igorot",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 3,
+        "damageMin": 56,
+        "damageMax": 75,
+        "speed": 1.1,
+        "damagePerSecond": 59.54,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 3731
+        }
+    },
+    {
+        "name": "Chopper",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 3,
+        "damageMin": 54,
+        "damageMax": 65,
+        "speed": 1.0,
+        "damagePerSecond": 59.5,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 3731
+        }
+    },
+    {
+        "name": "Tungi Axe",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 4,
+        "damageMin": 85,
+        "damageMax": 114,
+        "speed": 1.1,
+        "damagePerSecond": 90.45,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 7463
+        }
+    },
+    {
+        "name": "Korra",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 4,
+        "damageMin": 81,
+        "damageMax": 100,
+        "speed": 1.0,
+        "damagePerSecond": 90.5,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 7463
+        }
+    },
+    {
+        "name": "Great Axe of Igorot",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 5,
+        "damageMin": 129,
+        "damageMax": 174,
+        "speed": 1.1,
+        "damagePerSecond": 137.72,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 14925
+        }
+    },
+    {
+        "name": "Fork-blade Cutter",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 5,
+        "damageMin": 124,
+        "damageMax": 151,
+        "speed": 1.0,
+        "damagePerSecond": 137.5,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 14925
+        }
+    },
+    {
+        "name": "Sharp Tarbizan",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 6,
+        "damageMin": 196,
+        "damageMax": 265,
+        "speed": 1.1,
+        "damagePerSecond": 209.54,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 29851
+        }
+    },
+    {
+        "name": "Obsidian Sword",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 6,
+        "damageMin": 188,
+        "damageMax": 230,
+        "speed": 1.0,
+        "damagePerSecond": 209.0,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 29851
+        }
+    },
+    {
+        "name": "Gilded Tarbizan",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 6,
+        "damageMin": 196,
+        "damageMax": 265,
+        "speed": 1.0,
+        "damagePerSecond": 209.54,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 30
+        }
+    },
+    {
+        "name": "Royal Spatha",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 6,
+        "damageMin": 188,
+        "damageMax": 230,
+        "speed": 1.0,
+        "damagePerSecond": 209.0,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 30
+        }
+    },
+    {
+        "name": "Death's Harbinger",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 6,
+        "damageMin": 196,
+        "damageMax": 265,
+        "speed": 1.1,
+        "damagePerSecond": 209.54,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 374
+        }
+    },
+    {
+        "name": "Holy Blade",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 6,
+        "damageMin": 188,
+        "damageMax": 230,
+        "speed": 1.1,
+        "damagePerSecond": 209.0,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 374
+        }
+    },
+    {
+        "name": "Double-Blade",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 7,
+        "damageMin": 279,
+        "damageMax": 378,
+        "speed": 1.1,
+        "damagePerSecond": 298.63,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 52239
+        }
+    },
+    {
+        "name": "Valdenian Edge",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 7,
+        "damageMin": 269,
+        "damageMax": 329,
+        "speed": 1.0,
+        "damagePerSecond": 299.0,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 52239
+        }
+    },
+    {
+        "name": "Dragon Axe",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 8,
+        "damageMin": 326,
+        "damageMax": 441,
+        "speed": 1.1,
+        "damagePerSecond": 348.63,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 91418
+        }
+    },
+    {
+        "name": "Crystal Blade",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 8,
+        "damageMin": 314,
+        "damageMax": 384,
+        "speed": 1.0,
+        "damagePerSecond": 349.0,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 91418
+        }
+    },
+    {
+        "name": "Golden Francisca",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 9,
+        "damageMin": 380,
+        "damageMax": 514,
+        "speed": 1.1,
+        "damagePerSecond": 406.36,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 159981
+        }
+    },
+    {
+        "name": "Chief's Cutlass",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 9,
+        "damageMin": 366,
+        "damageMax": 447,
+        "speed": 1.0,
+        "damagePerSecond": 406.5,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 159981
+        }
+    },
+    {
+        "name": "Righteous Axe",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 10,
+        "damageMin": 443,
+        "damageMax": 600,
+        "speed": 1.1,
+        "damagePerSecond": 474.09,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 971
+        }
+    },
+    {
+        "name": "Bishop's Sword",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 10,
+        "damageMin": 427,
+        "damageMax": 522,
+        "speed": 1.0,
+        "damagePerSecond": 474.5,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 971
+        }
+    },
+    {
+        "name": "Iron Francisca",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 11,
+        "damageMin": 517,
+        "damageMax": 700,
+        "speed": 1.1,
+        "damagePerSecond": 553.18,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 96
+        }
+    },
+    {
+        "name": "Commander's Cutlass",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 11,
+        "damageMin": 498,
+        "damageMax": 609,
+        "speed": 1.0,
+        "damagePerSecond": 553.5,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 96
+        }
+    },
+    {
+        "name": "Axe of the Ancients",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 12,
+        "damageMin": 603,
+        "damageMax": 816,
+        "speed": 1.1,
+        "damagePerSecond": 645.0,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 2240
+        }
+    },
+    {
+        "name": "Hero's Razor",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 12,
+        "damageMin": 581,
+        "damageMax": 710,
+        "speed": 1.0,
+        "damagePerSecond": 645.5,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 2240
+        }
+    },
+    {
+        "name": "Gilded Cleaver",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 14,
+        "damageMin": 821,
+        "damageMax": 1111,
+        "speed": 1.1,
+        "damagePerSecond": 878.18,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 2986
+        }
+    },
+    {
+        "name": "Demon's Tooth",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 14,
+        "damageMin": 790,
+        "damageMax": 966,
+        "speed": 1.0,
+        "damagePerSecond": 878.0,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 2986
+        }
+    },
+    {
+        "name": "Justice's Edge",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 16,
+        "damageMin": 1117,
+        "damageMax": 1511,
+        "speed": 1.1,
+        "damagePerSecond": 1194.54,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 3284
+        }
+    },
+    {
+        "name": "Khopesh of the Righteous",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 16,
+        "damageMin": 1075,
+        "damageMax": 1314,
+        "speed": 1.0,
+        "damagePerSecond": 1194.5,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 3284
+        }
+    },
+    {
+        "name": "Lich Carver",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 18,
+        "damageMin": 1519,
+        "damageMax": 2056,
+        "speed": 1.1,
+        "damagePerSecond": 1625.0,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 5310
+        }
+    },
+    {
+        "name": "Bloodweeper",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 18,
+        "damageMin": 1462,
+        "damageMax": 1787,
+        "speed": 1.0,
+        "damagePerSecond": 1624.5,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 5310
+        }
+    },
+    {
+        "name": "Enchanted Stick",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 1,
+        "damageMin": 38,
+        "damageMax": 46,
+        "speed": 1.3,
+        "damagePerSecond": 32.3,
+        "description": "Legacy Gear",
+        "cost": {
+            "type": "Silver",
+            "amount": 336
+        }
+    },
+    {
+        "name": "Moonsplit Staff",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 2,
+        "damageMin": 59,
+        "damageMax": 72,
+        "speed": 1.3,
+        "damagePerSecond": 50.38,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 2799
+        }
+    },
+    {
+        "name": "Sorcery Rod",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 3,
+        "damageMin": 89,
+        "damageMax": 109,
+        "speed": 1.3,
+        "damagePerSecond": 76.15,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 5597
+        }
+    },
+    {
+        "name": "Staff of Darkness",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 4,
+        "damageMin": 136,
+        "damageMax": 166,
+        "speed": 1.3,
+        "damagePerSecond": 116.15,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 11194
+        }
+    },
+    {
+        "name": "Warrior's Stave",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 5,
+        "damageMin": 206,
+        "damageMax": 252,
+        "speed": 1.3,
+        "damagePerSecond": 176.15,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 22388
+        }
+    },
+    {
+        "name": "Marblewood Rod",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 6,
+        "damageMin": 314,
+        "damageMax": 384,
+        "speed": 1.3,
+        "damagePerSecond": 268.46,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 44776
+        }
+    },
+    {
+        "name": "Nithusian Wand",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 6,
+        "damageMin": 314,
+        "damageMax": 384,
+        "speed": 1.3,
+        "damagePerSecond": 268.46,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 45
+        }
+    },
+    {
+        "name": "Bogmaster's Staff",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 6,
+        "damageMin": 314,
+        "damageMax": 384,
+        "speed": 1.3,
+        "damagePerSecond": 268.46,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 560
+        }
+    },
+    {
+        "name": "Dragonswort Stave",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 7,
+        "damageMin": 448,
+        "damageMax": 548,
+        "speed": 1.3,
+        "damagePerSecond": 383.07,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 78358
+        }
+    },
+    {
+        "name": "Staff of the Undead",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 8,
+        "damageMin": 523,
+        "damageMax": 639,
+        "speed": 1.3,
+        "damagePerSecond": 446.92,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 137127
+        }
+    },
+    {
+        "name": "Ballast of the Heavens",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 9,
+        "damageMin": 610,
+        "damageMax": 746,
+        "speed": 1.3,
+        "damagePerSecond": 521.53,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 239972
+        }
+    },
+    {
+        "name": "Aurous Stave",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 10,
+        "damageMin": 711,
+        "damageMax": 870,
+        "speed": 1.3,
+        "damagePerSecond": 608.07,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 1456
+        }
+    },
+    {
+        "name": "Celestial Crescent",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 11,
+        "damageMin": 830,
+        "damageMax": 1014,
+        "speed": 1.3,
+        "damagePerSecond": 709.23,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 144
+        }
+    },
+    {
+        "name": "Staff of the Cobra King",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 12,
+        "damageMin": 968,
+        "damageMax": 1183,
+        "speed": 1.3,
+        "damagePerSecond": 827.3,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 3359
+        }
+    },
+    {
+        "name": "Solaris",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 14,
+        "damageMin": 1317,
+        "damageMax": 1610,
+        "speed": 1.3,
+        "damagePerSecond": 1125.76,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 4478
+        }
+    },
+    {
+        "name": "Sceptre of Victory",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 16,
+        "damageMin": 1792,
+        "damageMax": 2190,
+        "speed": 1.3,
+        "damagePerSecond": 1531.53,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 4926
+        }
+    },
+    {
+        "name": "Dragonsbane",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 18,
+        "damageMin": 2437,
+        "damageMax": 2979,
+        "speed": 1.3,
+        "damagePerSecond": 2083.07,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 7951
+        }
+    },
+    {
+        "name": "Splintered Buckler",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 1,
+        "defense": 46,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "Legacy Gear",
+        "cost": {
+            "type": "Silver",
+            "amount": 112
+        }
+    },
+    {
+        "name": "Kite Shield",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 2,
+        "defense": 58,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 933
+        }
+    },
+    {
+        "name": "Officer's Kite Shield",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 3,
+        "defense": 73,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 1866
+        }
+    },
+    {
+        "name": "Vintain's Buckler",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 4,
+        "defense": 92,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 3731
+        }
+    },
+    {
+        "name": "Captain's Buckler",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 5,
+        "defense": 116,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 7463
+        }
+    },
+    {
+        "name": "Royal Buckler",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 6,
+        "defense": 146,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 14925
+        }
+    },
+    {
+        "name": "Royal Buckler",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 6,
+        "defense": 146,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 15
+        }
+    },
+    {
+        "name": "Shield of the Occult",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 6,
+        "defense": 146,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 187
+        }
+    },
+    {
+        "name": "Burnished Shield of Blight",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 7,
+        "defense": 184,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 26119
+        }
+    },
+    {
+        "name": "Shield of Nil",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 8,
+        "defense": 214,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 45709
+        }
+    },
+    {
+        "name": "Elite Heater Shield",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 9,
+        "defense": 250,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 79991
+        }
+    },
+    {
+        "name": "Hunter's Trophy Shield",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 10,
+        "defense": 292,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 486
+        }
+    },
+    {
+        "name": "Onyx Heater Shield",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 11,
+        "defense": 340,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Gold Shields",
+            "amount": 48
+        }
+    },
+    {
+        "name": "Shield of the Temple",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 12,
+        "defense": 397,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 1120
+        }
+    },
+    {
+        "name": "Shield of the Void",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 14,
+        "defense": 540,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 1493
+        }
+    },
+    {
+        "name": "Buckler of Defiance",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 16,
+        "defense": 734,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 1642
+        }
+    },
+    {
+        "name": "Essence Infused Barricade",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 18,
+        "defense": 999,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 2655
+        }
+    },
+    
+
+
+
+
+
+
+
+
+    {
+        "name": "Circled of Perpetual Flame",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 1,
+        "defense": 24,
+        "description": "Forged in the underworld, the flame contained by this circlet is a tribute to your raw power and aggression!",
+        "cost": {
+            "type": "Medals",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Stylish Top Hat",
+        "class": "War Mage",
+        "drop": [
+            "Quest?"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "",
+            "amount": 0
+        }
+    },
+    {
+        "name": "Mitre of Glenfort",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 21,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 100
+        }
+    },
+    {
+        "name": "Jack-o-Lantarn",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 5000
+        }
+    },
+    {
+        "name": "Chef's Toque",
+        "class": "War Mage",
+        "drop": [
+            "Event: Werechef"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Cutlery",
+            "amount": 10
+        }
+    },
+    {
+        "name": "Dark Accursed Helm",
+        "class": "War Mage",
+        "drop": [
+            "Event: Werechef"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 19,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Cutlery",
+            "amount": 90
+        }
+    },
+    {
+        "name": "Lycanthrope Helm",
+        "class": "War Mage",
+        "drop": [
+            "Event: Werechef"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 19,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Cutlery",
+            "amount": 70
+        }
+    },
+    {
+        "name": "Faerie Disguise",
+        "class": "War Mage",
+        "drop": [
+            "Event: Lucky"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Clover",
+            "amount": 24
+        }
+    },
+    {
+        "name": "Grinning Skull Patch",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 1500
+        }
+    },
+    {
+        "name": "Halo of the Heavens",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 15
+        }
+    },
+    {
+        "name": "Maelstrom Ruby Patch",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 2000
+        }
+    },
+    {
+        "name": "Midnight Patch",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Green Holiday Hat",
+        "class": "War Mage",
+        "drop": [
+            "Event: Holigoblin (Christmas)"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Green Ornament",
+            "amount": 8
+        }
+    },
+    {
+        "name": "Pirate Hat",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Bandana",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 500
+        }
+    },
+    {
+        "name": "Pirate Hat",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Doubloon",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Red Holiday Hat",
+        "class": "War Mage",
+        "drop": [
+            "Event: Pirates"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Red Ornament",
+            "amount": 10
+        }
+    },
+    {
+        "name": "Traitor's Mask",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Bandit's Mask",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 1000
+        }
+    },
+    {
+        "name": "Infernal Horns",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 3000
+        }
+    },
+    {
+        "name": "Apocryphal Horns",
+        "class": "War Mage",
+        "drop": [
+            "Event: Halloween"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "",
+        "cost": {
+            "type": "Candy Corn",
+            "amount": 3000
+        }
+    },
+    {
+        "name": "Arcanist's Axe",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 1,
+        "damageMin": 23,
+        "damageMax": 32,
+        "damagePerSecond": 25.0,
+        "speed": 1.1,
+        "description": "Imbued with arcane runes, this eternally sharpened axe whispers dark portents.",
+        "cost": {
+            "type": "Medals",
+            "amount": 250
+        }
+    },
+    {
+        "name": "Ravager's Scimitar",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 1,
+        "damageMin": 23,
+        "damageMax": 28,
+        "damagePerSecond": 25.5,
+        "speed": 1.0,
+        "description": "The barbaric Ravagers of Ravenspire use these swords to inspire fear in their enemies",
+        "cost": {
+            "type": "Medals",
+            "amount": 250
+        }
+    },
+    {
+        "name": "Doomshard Staff",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Staff",
+        "subType": "",
+        "tier": 1,
+        "damageMin": 38,
+        "damageMax": 46,
+        "damagePerSecond": 32.3,
+        "speed": 1.3,
+        "description": "The powerful but unstable doomshards in this staf give off a strange luminescent glow.",
+        "cost": {
+            "type": "Medals",
+            "amount": 500
+        }
+    },
+    {
+        "name": "Executor's Shield",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 1,
+        "defense": 46,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "Imported from Stonehelm, this shield once belonged to the fearless Order of the Executor.",
+        "cost": {
+            "type": "Medals",
+            "amount": 250
+        }
+    },
+    {
+        "name": "Dragonmaw Axe",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 1,
+        "damageMin": 23,
+        "damageMax": 32,
+        "speed": 1.1,
+        "damagePerSecond": 25.0,
+        "description": "This deadly axe is imbued with dragonstone, charging it with great power.",
+        "cost": {
+            "type": "Medals",
+            "amount": 50
+        }
+    },
+    {
+        "name": "Ravenspire Sword",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 1,
+        "damageMin": 23,
+        "damageMax": 28,
+        "damagePerSecond": 25.5,
+        "speed": 1.3,
+        "description": "An immaculately-crafted blade used by the king's guard in the Eastern lands of Ravenspire.",
+        "cost": {
+            "type": "Medals",
+            "amount": 50
+        }
+    },
+    {
+        "name": "Lunar Crescent",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Staff",
+        "subType": "",
+        "tier": 1,
+        "damageMin": 38,
+        "damageMax": 46,
+        "damagePerSecond": 32.3,
+        "speed": 1.3,
+        "description": "Crafted by the Order of Luna, this staff channels the power of the moon.",
+        "cost": {
+            "type": "Medals",
+            "amount": 100
+        }
+    },
+    {
+        "name": "Carapace Shield",
+        "class": "War Mage",
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 1,
+        "defense": 46,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "Made from the carapace of a deadly sea creature, this shield is charged with powerful ward.",
+        "cost": {
+            "type": "Medals",
+            "amount": 50
+        }
+    },
+    {
+        "name": "Twilight Order Hat",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 8,
+        "defense": 113,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 525
+        }
+    },
+    {
+        "name": "Twilight Order Robe",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 8,
+        "defense": 226,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 1051
+        }
+    },
+    {
+        "name": "Twilight Order Gloves",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 8,
+        "defense": 91,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 420
+        }
+    },
+    {
+        "name": "Twilight Order Leggings",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 8,
+        "defense": 158,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 736
+        }
+    },
+    {
+        "name": "Twilight Order Slippers",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 8,
+        "defense": 91,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 420
+        }
+    },
+    {
+        "name": "Arcane Amulet",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Amulet",
+        "tier": 8,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 736
+        }
+    },
+    {
+        "name": "Arcane Cloak",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Cloak",
+        "tier": 8,
+        "defense": 136,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 630
+        }
+    },
+    {
+        "name": "Arcane Ring",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Ring",
+        "tier": 8,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 736
+        }
+    },
+    {
+        "name": "Dragonstooth Scythe",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 8,
+        "damageMin": 326,
+        "damageMax": 441,
+        "damagePerSecond": 348.63,
+        "speed": 1.1,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 1051
+        }
+    },
+    {
+        "name": "Bloodgem Sword",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 8,
+        "damageMin": 314,
+        "damageMax": 384,
+        "damagePerSecond": 349.0,
+        "speed": 1.0,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 1051
+        }
+    },
+    {
+        "name": "Doomwight Staff",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 8,
+        "damageMin": 423,
+        "damageMax": 639,
+        "damagePerSecond": 446.92,
+        "speed": 1.3,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 1576
+        }
+    },
+    {
+        "name": "Skirmisher's Shield",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 8,
+        "defense": 214,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters",
+        "cost": {
+            "type": "Marks",
+            "amount": 525
+        }
+    },
+
+
+
+    {
+        "name": "Arcane Tower Hat",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 12,
+        "defense": 209,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 1576
+        }
+    },
+    {
+        "name": "Arcane Tower Vestment",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 12,
+        "defense": 419,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 3153
+        }
+    },
+    {
+        "name": "Arcane Tower Bracers",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 12,
+        "defense": 168,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 1262
+        }
+    },
+    {
+        "name": "Arcane Tower Leggings",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 12,
+        "defense": 293,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 2208
+        }
+    },
+    {
+        "name": "Arcane Tower Slippers",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 12,
+        "defense": 168,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 1262
+        }
+    },
+    {
+        "name": "Griffonwing Talisman",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Amulet",
+        "tier": 12,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 2208
+        }
+    },
+    {
+        "name": "Griffonwing Cloak",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Cloak",
+        "tier": 12,
+        "defense": 251,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 1891
+        }
+    },
+    {
+        "name": "Griffonwing Band",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Ring",
+        "tier": 12,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 2208
+        }
+    },
+    {
+        "name": "Runic Axe",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 12,
+        "damageMin": 603,
+        "damageMax": 816,
+        "damagePerSecond": 645.0,
+        "speed": 1.1,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 3153
+        }
+    },
+    {
+        "name": "Bloodchannel Blade",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 12,
+        "damageMin": 581,
+        "damageMax": 710,
+        "damagePerSecond": 645.5,
+        "speed": 1.0,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 3153
+        }
+    },
+    {
+        "name": "Viper Staff",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 12,
+        "damageMin": 968,
+        "damageMax": 1183,
+        "damagePerSecond": 827.3,
+        "speed": 1.3,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players",
+        "cost": {
+            "type": "Marks",
+            "amount": 4728
+        }
+    },
+    {
+        "name": "Hero's Shield",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 12,
+        "defense": 397,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters",
+        "cost": {
+            "type": "Marks",
+            "amount": 1576
+        }
+    },
+
+
+
+    {
+        "name": "Dark Magus Hat",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 16,
+        "defense": 388,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 15350 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 4730
+        }
+    },
+    {
+        "name": "Dark Magus Vestment",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 16,
+        "defense": 775,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 15350 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 9460
+        }
+    },
+    {
+        "name": "Dark Magus Handguards",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 16,
+        "defense": 310,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 15350 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 3787
+        }
+    },
+    {
+        "name": "Dark Magus Pants",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 16,
+        "defense": 543,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 15350 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 6624
+        }
+    },
+    {
+        "name": "Dark Magus Shoes",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 16,
+        "defense": 310,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 15350 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 3787
+        }
+    },
+    {
+        "name": "Grand Augur's Pendant",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Amulet",
+        "tier": 16,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 15350 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 6624
+        }
+    },
+    {
+        "name": "Grand Augur's Cloak",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Cloak",
+        "tier": 16,
+        "defense": 465,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 15350 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 5624
+        }
+    },
+    {
+        "name": "Grand Augur's Band",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Ring",
+        "tier": 16,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 15350 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 6624
+        }
+    },
+    {
+        "name": "Demonshard Axe",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 16,
+        "damageMin": 117,
+        "damageMax": 1511,
+        "damagePerSecond": 1195.54,
+        "speed": 1.1,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 15350 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 9460
+        }
+    },
+    {
+        "name": "Bonesplint Sword",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 16,
+        "damageMin": 1075,
+        "damageMax": 1314,
+        "damagePerSecond": 1195.5,
+        "speed": 1.0,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 15350 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 9460
+        }
+    },
+    {
+        "name": "Wyrmgem Staff",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 16,
+        "damageMin": 1792,
+        "damageMax": 2190,
+        "damagePerSecond": 1531.53,
+        "speed": 1.3,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 15350 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 14184
+        }
+    },
+    {
+        "name": "Goldreaver Shield",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 16,
+        "defense": 857,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\nRequires 15350 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 4730
+        }
+    },
+
+
+    {
+        "name": "Cryptic Hollow Mask",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": 18,
+        "defense": 527,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 19400 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 5913
+        }
+    },
+    {
+        "name": "Cryptic Hollow Raiment",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Chest Armor",
+        "subType": "Cloth",
+        "tier": 18,
+        "defense": 1055,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 19400 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 11826
+        }
+    },
+    {
+        "name": "Cryptic Hollow Bracers",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Gauntlets",
+        "subType": "Cloth",
+        "tier": 18,
+        "defense": 422,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 19400 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 4734
+        }
+    },
+    {
+        "name": "Cryptic Hollow Pants",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Leg Armor",
+        "subType": "Cloth",
+        "tier": 18,
+        "defense": 738,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 19400 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 8280
+        }
+    },
+    {
+        "name": "Cryptic Hollow Boots",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Boots",
+        "subType": "Cloth",
+        "tier": 18,
+        "defense": 422,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 19400 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 4734
+        }
+    },
+    {
+        "name": "Archmagus Talisman",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Amulet",
+        "tier": 18,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 19400 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 8280
+        }
+    },
+    {
+        "name": "Archmagus Mantle",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Cloak",
+        "tier": 18,
+        "defense": 633,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 19400 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 7092
+        }
+    },
+    {
+        "name": "Archmagus Band",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Ring",
+        "tier": 18,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 19400 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 8280
+        }
+    },
+    {
+        "name": "Requiem",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Main Hand",
+        "subType": "Axe",
+        "tier": 18,
+        "damageMin": 1519,
+        "damageMax": 2056,
+        "damagePerSecond": 1625.0,
+        "speed": 1.1,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 19400 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 11826
+        }
+    },
+    {
+        "name": "Harvester",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Main Hand",
+        "subType": "Sword",
+        "tier": 18,
+        "damageMin": 1462,
+        "damageMax": 1787,
+        "damagePerSecond": 1624.5,
+        "speed": 1.0,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 19400 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 11826
+        }
+    },
+    {
+        "name": "Hail Storm",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Two Hand",
+        "subType": "Staff",
+        "tier": 18,
+        "damageMin": 2437,
+        "damageMax": 2979,
+        "damagePerSecond": 2083.07,
+        "speed": 1.3,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\n+1 Coliseum Gear Set\n (0/9) +10.00% VS Players\nRequires 19400 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 17730
+        }
+    },
+    {
+        "name": "Loyalist's Shield",
+        "class": "War Mage",
+        "drop": [
+            "PvP"
+        ],
+        "type": "Shield",
+        "subType": "Light",
+        "tier": 18,
+        "defense": 999,
+        "blockChance": 12,
+        "blockMitigation": 50,
+        "description": "+1.00% VS Players\n-2.00% VS Monsters\nRequires 19400 Might",
+        "cost": {
+            "type": "Marks",
+            "amount": 5913
+        }
+    },
+
+    {
+        "name": "Tragick's Despair",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "Red eyes",
+        "cost": {
+            "type": "Despair",
+            "amount": 300
+        }
+    },
+    {
+        "name": "Tragick's Envy",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "Green eyes",
+        "cost": {
+            "type": "Despair",
+            "amount": 300
+        }
+    },
+    {
+        "name": "Tragick's Guilt",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "Purple eyes",
+        "cost": {
+            "type": "Despair",
+            "amount": 300
+        }
+    },
+    {
+        "name": "Tragick's Love",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "Pink eyes",
+        "cost": {
+            "type": "Despair",
+            "amount": 300
+        }
+    },
+    {
+        "name": "Tragick's Loyalty",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "Blue eyes",
+        "cost": {
+            "type": "Despair",
+            "amount": 300
+        }
+    },
+    {
+        "name": "Tragick's Rage",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "Red eyes",
+        "cost": {
+            "type": "Despair",
+            "amount": 300
+        }
+    },
+    {
+        "name": "Tragick's Wisdom",
+        "class": "War Mage",
+        "drop": [
+            "Event: Valentine"
+        ],
+        "type": "Helmet",
+        "subType": "",
+        "tier": -1,
+        "defense": -1,
+        "description": "White eyes",
+        "cost": {
+            "type": "Despair",
+            "amount": 300
         }
     }
 ]

@@ -312,8 +312,27 @@
         "bronze": 180,
         "waves": 1236,
         "description": "Deep within the Vile Realm, the hard-won peace has been shattered by the return of Sha'lyn. Gather your guild and end her reign of terror!",
+        "drops": [
+            {
+                "P1": [
+                    "16-40 Hero score",
+                    "1-6 T8 White Gems",
+                    "1-5 T14 White Gems",
+                    "1-2 Blackenend Ichor",
+                    "814-1449 Silver",
+                    "Minor Break Rune ~(1/50e)",
+                    "5-7 Essence",
+                    "2-4 Refined Essence",
+                    "1-3 Fire Crystal",
+                    "1 Mountain Lichen ~(2/50e)",
+                    "1 Amber Flux ~(1/50e)",
+                    "Powerful Healing Potion ~(1/50e)",
+                    "1 Polar Melt ~(1/50e)"
+                ]
+            }
+        ],
         "phases": [
-            "465 waves, enemies",
+            "465 waves, Lvl 38 Vile Goblins",
             "465 waves, enemies",
             "306, boss, Sha'lyn; The Spider Queen, Onslaught 10e each"
         ]
