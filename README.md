@@ -42,6 +42,14 @@ Run `ng github-pages:deploy` to deploy to GitHub Pages.
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
+## Next release (2.2.0+)
+- Expose cooldown timers for raids
+- Improve mobile gui; add sorting and filters
+- Add recipe drops
+- Add a new page containing gems
+- Add Justi and SW Gear
+- Add a list of enemies, and remarkable attacks, weaknesses, ...
+
 ## Notes
 Below stuff still needs to be in.
 todo: look at the forums, specifically the post of Pip_ for the ingredients for T8/T14 white gems
