@@ -6,11 +6,31 @@
         "gold": 30,
         "silver": 90,
         "bronze": 135,
-        "description": "Colette's fare has taken a turn for the worse since you've left, but the smells have managed to attract a horde of goblins who find the smell irrestible!",
+        "description": "Colette's fare has taken a turn for the worse since you've left, but the smells have managed to attract a horde of goblins who find the smell irrestible! This raid is used mainly to build loyalty. Since this raids has only one phase, you cannot cancel it. Some guilds use a 3-hit GG to tie all on 1st place to receive Raid feats Ahead of the Pack, Leading the Charge, Invaluable Asset, etc",
         "waves": 93,
         "phases": [
-            "93 waves, enemies, Goblins"
-        ]
+            {
+                "description": "93 waves, enemies, Goblins",
+                "drops": [
+                    {
+                        "amount": 3,
+                        "per": 93,
+                        "item": "Medium Healing Potion"
+                    },
+                    {
+                        "amount": 2,
+                        "per": 93,
+                        "item": "Small Healing Potion"
+                    },
+                    {
+                        "amount": 3,
+                        "per": 8740,
+                        "item": "Silver"
+                    }
+                ]
+            }
+        ],
+        "cooldown": 150
     },
     {
         "name": "The Plaguerider",
@@ -20,11 +40,55 @@
         "silver": 120,
         "bronze": 180,
         "waves": 232,
-        "description": "Plaguerider Skar has invaded Glenfort, bringing with him an army of filth and pestilience. Gather your Guild and slay him!",
+        "description": "Plaguerider Skar has invaded Glenfort, bringing with him an army of filth and pestilience. Gather your Guild and slay him! 1825RPP = (84SqV,22HT + 15% = 73SqV + 19HT)",
         "phases": [
-            "116 waves, enemies, Rath'een",
-            "116 waves, boss: Plaguerider Skar"
-        ]
+            {
+                "description": "116 waves, enemies, Rath'een",
+                "drops": [
+                    {
+                        "amount": 1,
+                        "per": 54,
+                        "item": "Cleanse Potion"
+                    },
+                    {
+                        "amount": 3,
+                        "per": 54,
+                        "item": "Medium Healing Potion"
+                    },
+                    {
+                        "amount": 2,
+                        "per": 54,
+                        "item": "Small Healing Potion"
+                    },
+                    {
+                        "amount": 10158,
+                        "per": 54,
+                        "item": "Silver"
+                    }
+                ]
+            },
+            {
+                "description": "116 waves, boss: Plaguerider Skar",
+                "drops": [
+                    {
+                        "amount": 2,
+                        "per": 46,
+                        "item": "Cleanse Potion"
+                    },
+                    {
+                        "amount": 46,
+                        "per": 100,
+                        "item": "Small Healing Potion"
+                    },
+                    {
+                        "amount": 12186,
+                        "per": 46,
+                        "item": "Silver"
+                    }
+                ]
+            }
+        ],
+        "cooldown": 180
     },
     {
         "name": "Lockbolt's Reign",
@@ -36,9 +100,18 @@
         "waves": 297,
         "description": "The rogue andit leader has a bounty on his head. Gather your guild and venture into the Ebian Forest, where goblins, beasts and bandits await!",
         "phases": [
-            "104 waves, enemies, beasts, goblins?",
-            "104 waves, enemies, bandits?",
-            "89 waves, boss: Lockbolt"
+            {
+                "description": "104 waves, enemies, beasts, goblins?",
+                "drops": []
+            },
+            {
+                "description": "104 waves, enemies, bandits?",
+                "drops": []
+            },
+            {
+                "description": "89 waves, boss: Lockbolt",
+                "drops": []
+            }
         ]
     },
     {
@@ -51,9 +124,15 @@
         "waves": 386,
         "description": "The long-dead overseer of the Cursed Quary has risen from his grave, resurrecting an army of slaves to do his bidding. Slay this fiend's army before it can threaten Glenfort!",
         "phases": [
-            "116 waves, enemies, Rath'eens, Undeads?",
-            "154 waves, enemies, Rath'eens, Undeads?",
-            "116 wavesw, boss: Undead Overseer"
+            {
+                "description": "116 waves, enemies, Undeads"
+            },
+            {
+                "description": "154 waves, enemies, Undeads"
+            },
+            {
+                "description": "116 waves, boss: Undead Overseer"
+            }
         ]
     },
     {
@@ -66,10 +145,17 @@
         "waves": 774,
         "description": "Exiled Necromancers have joined with the Rath'een to bring the accursed Dark Kraken back to Glenfort. Slay these factions before their evil works are complete!",
         "phases": [
-            "232 waves, enemies, Rath'eens, Undeads?",
-            "232 waves, enemies, Rath'eens, Undeads?",
-            "310 waves, boss: Dark? Kraken"
-        ]
+            {
+                "description": "232 waves, enemies, Undeads"
+            },
+            {
+                "description": "232 waves, enemies, Rath'eens"
+            },
+            {
+                "description": "310 waves, boss: Dark Kraken"
+            }
+        ],
+        "cooldown": 300
     },
     {
         "name": "Attack at Dawn",
@@ -81,10 +167,17 @@
         "waves": 625,
         "description": "General Zuur of the Urgresh goblin tribes is raising an army to attack Glenfort. Gather your guild together and attack his garrosin at dawn!",
         "phases": [
-            "125 waves, enemies, Rath'eens, Undeads?",
-            "250 waves, enemies: Rath'eens, Undeads?",
-            "250 waves, boss: General Zuur"
-        ]
+            {
+                "description": "125 waves, enemies, Rath'eens, Undeads?"
+            },
+            {
+                "description": "250 waves, enemies: Rath'eens, Undeads?"
+            },
+            {
+                "description": "250 waves, boss: General Zuur"
+            }
+        ],
+        "cooldown": 180
     },
     {
         "name": "Crypt of Corruption",
@@ -96,10 +189,17 @@
         "waves": 927,
         "description": "The spirit of Dark Lord Helion has corrupted the spirit of a long forgotten Eldritch Guardian and attracted a horde of undead! Clear out this threat!",
         "phases": [
-            "309 waves, enemies, undeads, Onslaught 4e",
-            "309 waves, enemies, undeads, Onslaught 4e",
-            "309 waves, boss: Eldritch Guardian 4e"
-        ]
+            {
+                "description": "309 waves, enemies, undeads, Onslaught 4e"
+            },
+            {
+                "description": "309 waves, enemies, undeads, Onslaught 4e"
+            },
+            {
+                "description": "309 waves, boss: Eldritch Guardian 4e"
+            }
+        ],
+        "cooldown": 210
     },
     {
         "name": "Dark Lord Helion",
@@ -111,10 +211,20 @@
         "waves": 859,
         "description": "Lord Helion has risen from the darkest void, aiming to enslave all of Glenfort. Gather your guild and send the undead mage lord back into the void!",
         "phases": [
-            "? waves, enemies",
-            "? waves, enemies",
-            "? waves, boss, Lord Helion? exact name?"
-        ]
+            {
+                "description": "215 waves, enemies undeads"
+            },
+            {
+                "description": "172 waves, boss, Rotting Golem"
+            },
+            {
+                "description": "215 waves, enemies, Keepers of Keys, undeads"
+            },
+            {
+                "description": "257 waves, boss, Lord Helion"
+            }
+        ],
+        "cooldown": 210
     },
     {
         "name": "Cursed Keep",
@@ -126,10 +236,18 @@
         "waves": 995,
         "description": "A magical experiment has gone horribly wrong in Dragonmoor, summoning all manner of evil creatures! Assemble your guild and clear the cursed keep!",
         "phases": [
-            "119 waves, enemies",
-            "249 waves, boss, Cerberus",
-            "119 waves, enemies",
-            "348 waves, boss Guardian Dragon"
+            {
+                "description": "119 waves, enemies"
+            },
+            {
+                "description": "249 waves, boss, Cerberus"
+            },
+            {
+                "description": "119 waves, enemies"
+            },
+            {
+                "description": "348 waves, boss Guardian Dragon"
+            }
         ]
     },
     {
@@ -142,9 +260,15 @@
         "waves": 1440,
         "description": "The Frozen Vale has brought a storm of hail and snow to Glenfort. Investigate this strange new land and stem the darkness emanating from within.",
         "phases": [
-            "432 waves, enemies",
-            "576 waves, enemies",
-            "348 waves, boss, Vallus"
+            {
+                "description": "432 waves, enemies"
+            },
+            {
+                "description": "576 waves, enemies"
+            },
+            {
+                "description": "348 waves, boss, Vallus"
+            }
         ]
     },
     {
@@ -157,10 +281,18 @@
         "waves": 0,
         "description": "This raid has been retired for a few years now. It sure was fun, but the Queen Bogworm you can still slay in War of Fellmarsh, because she moved.",
         "phases": [
-            "enemies",
-            "boss: Queen Bogworm",
-            "enemies",
-            "boss: purple boss guy from that tower in Fellmarsh?"
+            {
+                "description": "enemies"
+            },
+            {
+                "description": "boss: Queen Bogworm"
+            },
+            {
+                "description": "enemies"
+            },
+            {
+                "description": "boss: purple boss guy from that tower in Fellmarsh?"
+            }
         ]
     },
     {
@@ -173,11 +305,21 @@
         "waves": 1600,
         "description": "The Rath'een leader, Trask, is being controlled by evil forces from beyond our world. The time has come for your guild to dethrone the cursed emperor!",
         "phases": [
-            "440 waves, enemies",
-            "216 waves, boss, General Mal'zann",
-            "216 waves, boss Queen Bogworm",
-            "488 waves, enemies? trolls, 4 or 6e onslaught?",
-            "488 waves, boss: Emperor Trask"
+            {
+                "description": "440 waves, enemies"
+            },
+            {
+                "description": "216 waves, boss, General Mal'zann"
+            },
+            {
+                "description": "216 waves, boss Queen Bogworm"
+            },
+            {
+                "description": "488 waves, enemies? trolls, 4 or 6e onslaught?"
+            },
+            {
+                "description": "488 waves, boss: Emperor Trask"
+            }
         ]
     },
     {
@@ -190,10 +332,18 @@
         "waves": 1604,
         "description": "The Goblin King's hordes must be dispersed if we are ever to reach the Vile Gate! Destroy his army and clear the path!",
         "phases": [
-            "561 waves, goblins?",
-            "321 waves, boss, Direhorn",
-            "321 waves, goblins?",
-            "401 waves, boss, Goblin King"
+            {
+                "description": "561 waves, goblins?"
+            },
+            {
+                "description": "321 waves, boss, Direhorn"
+            },
+            {
+                "description": "321 waves, goblins?"
+            },
+            {
+                "description": "401 waves, boss, Goblin King"
+            }
         ]
     },
     {
@@ -206,9 +356,15 @@
         "waves": 1604,
         "description": "The Lord of Blades and his minions must be defeated. PRepare for war and march upon the Vile Gate!",
         "phases": [
-            "642 waves, Vile Invaders",
-            "481 waves, tougher Vile Invaders",
-            "401 waves, boss, Lord of Blades"
+            {
+                "description": "642 waves, Vile Invaders"
+            },
+            {
+                "description": "481 waves, tougher Vile Invaders"
+            },
+            {
+                "description": "401 waves, boss, Lord of Blades"
+            }
         ]
     },
     {
@@ -221,9 +377,15 @@
         "waves": 1495,
         "description": "Karnak has somehow returned and is rallying his Sarkisian minions in an attempt to reverse Majerio's sealing hex on the Shattered Plane. March into the plane and drive him back to into the abyss, before he enters our world!",
         "phases": [
-            "507 waves, enemies, Sarkisian",
-            "494 waves, boss Dues construct Onslaught 10e",
-            "494 waves, boss Karnak Onslaught 10e"
+            {
+                "description": "507 waves, enemies, Sarkisian"
+            },
+            {
+                "description": "494 waves, boss Dues construct Onslaught 10e"
+            },
+            {
+                "description": "494 waves, boss Karnak Onslaught 10e"
+            }
         ]
     },
     {
@@ -236,9 +398,15 @@
         "waves": 1337,
         "description": "After years of being the alpha predators of the Vile Realm, your recent incursion into these lands has enraged the beasts of the Mistwalker Woodlands!",
         "phases": [
-            "535 waves, enemies?",
-            "401 waves, enemies?",
-            "401 waves, boss stupid bear, whatshisnameagain?"
+            {
+                "description": "535 waves, enemies?"
+            },
+            {
+                "description": "401 waves, enemies?"
+            },
+            {
+                "description": "401 waves, boss stupid bear, whatshisnameagain?"
+            }
         ]
     },
     {
@@ -251,10 +419,18 @@
         "waves": 1808,
         "description": "You've freed the spirits of many fallen warriors, but the two most potent spirits remain. End the legacy of the forgotten Blademasters and put their tormented souls to rest!",
         "phases": [
-            "669 waves, enemies?",
-            "402 waves, boss, Prince of Blades",
-            "402 waves, boss, Sedalb fo Drol",
-            "335 waves, boss, Prince of Blades + Sedalb fo Drol"
+            {
+                "description": "669 waves, enemies?"
+            },
+            {
+                "description": "402 waves, boss, Prince of Blades"
+            },
+            {
+                "description": "402 waves, boss, Sedalb fo Drol"
+            },
+            {
+                "description": "335 waves, boss, Prince of Blades + Sedalb fo Drol"
+            }
         ]
     },
     {
@@ -267,9 +443,15 @@
         "waves": 1672,
         "description": "Your long campaign across the Vile Realm has led to this singular moment. The time has come for you to venture forth and destroy Caliban once and for all.",
         "phases": [
-            "668 waves, enemies Vile creatures",
-            "502 waves, enemies, Onslaught 10e?",
-            "335 waves boss: Caliban Onslaught 10e?"
+            {
+                "description": "668 waves, enemies Vile creatures"
+            },
+            {
+                "description": "502 waves, enemies, Onslaught 10e?"
+            },
+            {
+                "description": "335 waves boss: Caliban Onslaught 10e?"
+            }
         ]
     },
     {
@@ -298,9 +480,15 @@
             }
         ],
         "phases": [
-            "652 waves, enemies, Vile beasts amongst Vile Bores",
-            "489 waves, enemies, kind of keepers Servant of the Ancient, Eternal, Righteous and Pure, two at the same time",
-            "489 waves, boss, The Originator"
+            {
+                "description": "652 waves, enemies, Vile beasts amongst Vile Bores"
+            },
+            {
+                "description": "489 waves, enemies, kind of keepers Servant of the Ancient, Eternal, Righteous and Pure, two at the same time"
+            },
+            {
+                "description": "489 waves, boss, The Originator"
+            }
         ],
         "cooldown": 240
     },
@@ -330,7 +518,8 @@
                     "Powerful Healing Potion ~(1/50e)",
                     "1 Polar Melt ~(1/50e)"
                 ]
-            },{
+            },
+            {
                 "P2": [
                     "16-24 Hero score",
                     "2-3 T8 White Gems",
@@ -352,9 +541,15 @@
             }
         ],
         "phases": [
-            "465 waves, Lvl 38 Vile Goblins",
-            "465 waves, enemies",
-            "306, boss, Sha'lyn; The Spider Queen, Onslaught 10e each"
+            {
+                "description": "465 waves, Lvl 38 Vile Goblins"
+            },
+            {
+                "description": "465 waves, enemies"
+            },
+            {
+                "description": "306, boss, Sha'lyn; The Spider Queen, Onslaught 10e each"
+            }
         ],
         "cooldown": 150
     },
@@ -368,9 +563,15 @@
         "waves": 1057,
         "description": "The Hunter has returned. an army of VIle Realm soldiers before him and possessing a talismanthat bestows terrifying eldritch powers. Gather your guild and destroy them!",
         "phases": [
-            "486 waves, enemies",
-            "245 waves, boss, The Hunter, Onslaught 10e each",
-            "326 waves, boss, The Eldritch Hunter, Onslaughter 10e each"
+            {
+                "description": "486 waves, enemies"
+            },
+            {
+                "description": "245 waves, boss, The Hunter, Onslaught 10e each"
+            },
+            {
+                "description": "326 waves, boss, The Eldritch Hunter, Onslaughter 10e each"
+            }
         ],
         "cooldown": 150
     }

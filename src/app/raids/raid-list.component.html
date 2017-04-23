@@ -55,7 +55,7 @@
                             <div>Waves: {{ raid.waves }}</div>
                         </td>
                         <td>
-                            <div *ngFor="let phase of raid.phases; let i = index;">Phase {{ i+1 }}: {{ phase }}</div>
+                            <div *ngFor="let phase of raid.phases; let i = index;">Phase {{ i+1 }}: {{ phase.description }}</div>
                             <div>Description: {{ raid.description }}</div>
                         </td>
                         <td>{{ raid.cooldown | time }}</td>
@@ -168,7 +168,7 @@
                                         <p>Description: {{ raid.description }}</p>
                                         <p>Cooldown: {{ raid.cooldown | time }}</p>
                                         <ul>
-                                            <li *ngFor="let phase of raid.phases; let i = index;">Phase {{ i+1 }}: {{ phase }}</li>
+                                            <li *ngFor="let phase of raid.phases; let i = index;">Phase {{ i+1 }}: {{ phase.description }}</li>
                                         </ul>
                                     </td>
                                 </tr>

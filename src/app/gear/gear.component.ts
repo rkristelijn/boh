@@ -7,6 +7,8 @@ import { DataService } from '../data.service';
 
 import { TimePipe } from '../../assets/time.pipe';
 
+import { CollapsiblePanelComponent } from '../shared/collapsible-panel';
+
 @Component({
   templateUrl: './gear.component.html',
   styleUrls: ['./gear.component.css']
@@ -20,6 +22,9 @@ export class GearListComponent extends SortComponent implements OnInit {
   nameFilter: string;
   typeFilter: string;
   valorFilter: string;
+  descFilter: string;
+  subTypeFilter:string;
+  tierFilter:number;
 
   /** We need the dataservice to load data and to handle ?search= routes
    * @param dataService 

@@ -62,7 +62,31 @@
                                 <option>Two Hand</option>
                             </select>
                         </td>
-                        <td>&nbsp;</td>
+                        <td>
+                            <select name="tierFilter" [(ngModel)]="tierFilter">
+                                    <option>1</option>
+                                    <option>2</option>
+                                    <option>3</option>
+                                    <option>4</option>
+                                    <option>5</option>
+                                    <option>6</option>
+                                    <option>7</option>
+                                    <option>8</option>
+                                    <option>9</option>
+                                    <option>10</option>
+                                    <option>11</option>
+                                    <option>12</option>
+                                    <option>13</option>
+                                    <option>14</option>
+                                    <option>15</option>
+                                    <option>16</option>
+                                    <option>17</option>
+                                    <option>18</option>
+                                    <option>19</option>
+                                    <option>20</option>
+                                    <option>21</option>
+                                </select>
+                        </td>
                         <td>
                             <select name="valorFilter" [(ngModel)]='valorFilter'>
                                 <option>Silver</option>
@@ -90,6 +114,7 @@
                             | stringFilter:typeFilter:'type' 
                             | stringFilter:descFilter:'description' 
                             | stringFilter:subTypeFilter:'subType' 
+                            | stringFilter:tierFilter:'tier':true 
                             | orderBy : [sort] ">
                         <td>{{ item.name }}</td>
                         <td>{{ item.class }}</td>
@@ -115,6 +140,12 @@
             </table>
         </div>
     </div>
+
+    <!--<div class='panel-body hidden-lg'>
+    <collapsible-panel>
+        <span class="title">Click me!</span> Hi there!
+    </collapsible-panel>
+    </div>-->
 
     <!-- mobile view -->
     <div class='panel-body hidden-lg'>

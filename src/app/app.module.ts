@@ -12,6 +12,8 @@ import { IngredientComponent } from './ingredient/ingredient.component';
 import { LocationsComponent } from './map/location.component';
 import { RaidListComponent } from './raids/raid-list.component';
 import { GearListComponent } from './gear/gear.component';
+//shared components
+import { CollapsiblePanelComponent } from './shared/collapsible-panel';
 //pipes
 import { RecipeFilterPipe } from './recipes-list/recipes-list.pipe';
 import { RecipeIngredientFilterPipe } from './recipes-list/recipes-list.ingredients.pipe';
@@ -39,6 +41,8 @@ import { DataService } from './data.service';
     LocationsComponent,
     RaidListComponent,
     GearListComponent,
+    /*shared components*/
+    CollapsiblePanelComponent,
     /*Pipes*/
     RecipeFilterPipe,
     RecipeIngredientFilterPipe,
