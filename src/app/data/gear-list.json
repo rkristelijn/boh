@@ -3351,8 +3351,8 @@
         "drop": [
             "PvP"
         ],
-        "type": "Staff",
-        "subType": "",
+        "type": "Two Hand",
+        "subType": "Staff",
         "tier": 1,
         "damageMin": 38,
         "damageMax": 46,
@@ -3426,8 +3426,8 @@
         "drop": [
             "PvP"
         ],
-        "type": "Staff",
-        "subType": "",
+        "type": "Two Hand",
+        "subType": "Staff",
         "tier": 1,
         "damageMin": 38,
         "damageMax": 46,
@@ -4438,8 +4438,8 @@
         "drop": [
             "Event: Valentine"
         ],
-        "type": "Staff",
-        "subType": "",
+        "type": "Two Hand",
+        "subType": "Staff",
         "tier": 20,
         "damageMin":3291,
         "damageMax":4021,

@@ -17,11 +17,12 @@ import { BrowserModule } from '@angular/platform-browser';
   </div>
   `,
   styles: [`
-  .panel {
+    .panel {
         border-color: #ddd;
         background-color: #fff;
         border: 1px solid #ddd;
         border-radius: 4px;
+        margin-bottom: 4px;
         box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
     }
     .panel-heading {

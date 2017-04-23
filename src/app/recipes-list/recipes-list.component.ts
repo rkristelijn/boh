@@ -17,7 +17,7 @@ import { DataService } from '../data.service';
 export class RecipesListComponent extends SortComponent implements OnInit {
   sort: string = 'name';
   private staticValues: any[];
-  recipes: RecipeComponent[];
+  recipes: RecipeComponent[] = [];
   listFilter: string;
   ingredientFilter: string;
 

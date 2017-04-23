@@ -18,7 +18,7 @@ import { DataService } from '../data.service';
 })
 export class MatsListComponent extends SortComponent implements OnInit {
   sort: string = 'name';
-  matsList: MatsComponent[];
+  matsList: MatsComponent[] = [];
   private values: any[];
 
   locationFilter: string;

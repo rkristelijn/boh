@@ -1,5 +1,4 @@
 <div class='panel panel-primary'>
-
     <div class='panel-heading'>
         <div class="row">
             <div class="col-sm-12">Gear List ({{gear.length}})</div>
@@ -10,7 +9,6 @@
         <p>Gear has no 'default' modifiers except for 'defense', it reflects the gems you have equiped in the shop. -1 one means,
             I don't know, so if you know, because you have the item, please post it on the forums. I will add Justicar and
             Shadow Walkers, don't have the classes Frost Knight, Flame Warden and Inquisitor.</p>
-        <p>Mind that the sorting and filtering doesn't work (yet) on mobile, but it does work in the desktop version.</p>
     </div>
 
     <!-- large screens -->
@@ -58,7 +56,6 @@
                                 <option>Main Hand</option>
                                 <option>Ring</option>
                                 <option>Shield</option>
-                                <option>Staff</option>
                                 <option>Two Hand</option>
                             </select>
                         </td>
@@ -141,45 +138,189 @@
         </div>
     </div>
 
-    <!--<div class='panel-body hidden-lg'>
-    <collapsible-panel>
-        <span class="title">Click me!</span> Hi there!
-    </collapsible-panel>
-    </div>-->
-
     <!-- mobile view -->
-    <div class='panel-body hidden-lg'>
-        <ul class='table' *ngIf='gear'>
-            <label for="sort">Sort on:</label>
-            <select id="sort">
-                <option>name</option>
-            </select>
-            <label for="filter">Filter on:</label>
-            <select id="filter">
-                <option>name</option>
-            </select>
-            <input type="text" placeholder="Doesn't work yet... work in progress..." />
-            <li *ngFor="let item of gear | orderBy : [sort]">
-                <div (click)="toggle(item.name)" class="hand">{{ item.name }}</div>
-                <ul [ngClass]="item.collapsed" [id]="item.name">
-                    <li>Class: {{ item.class }} </li>
-                    <li>Drops:
-                        <ul *ngFor="let drop of item.drop">
-                            <li>{{ drop }}</li>
-                        </ul>
-                    </li>
-                    <li>Type: {{ item.type }}</li>
-                    <li *ngIf="item.subType">SubType: {{ item.subType }}</li>
-                    <li>Tier: {{ item.tier }}</li>
-                    <li *ngIf="item.cost.type">Cost: {{ item.cost.amount }} {{ item.cost.type }}</li>
-                    <li *ngIf="item.description">Description: {{ item.description }}</li>
-                    <li *ngIf="item.defense">Defense: {{ item.defense }}</li>
-                    <li *ngIf="item.damageMin">Damage: {{ item.damageMin }}-{{ item.damageMax }} ({{ item.damagePerSecond }} damage per second)</li>
-                    <li *ngIf="item.speed">Speed: {{ item.speed }}</li>
-                    <li *ngIf="item.blockChance">Block Chance: {{ item.blockChance }}</li>
-                    <li *ngIf="item.blockMitigation">Block Mitigation: {{ item.blockMitigation }}</li>
-                </ul>
-            </li>
-        </ul>
+    <div class='panel hidden-lg'>
+        <div *ngIf='gear'>
+            <!-- header -->
+            <collapsible-panel>
+                <span class="title"><strong>Filter/Sort options</strong></span>
+                <p>Usage: click on the label for sorting, use the input for filtering.</p>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'name')">Name<span [class]="getClass('name')"></span></label>
+                    </div>
+                    <div class="col-xs-8">
+                        <input type='text' name="nameFilter" [(ngModel)]='nameFilter' placeholder="Filter name..." />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'class')">Class<span [class]="getClass('class')"></span></label>
+                    </div>
+                    <div class="col-xs-8">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'drops')">Drops<span [class]="getClass('drops')"></span></label>
+                    </div>
+                    <div class="col-xs-8">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'type')">Type<span [class]="getClass('type')"></span></label>
+                    </div>
+                    <div class="col-xs-8">
+                        <select name="typeFilter" [(ngModel)]='typeFilter'>
+                            <!--<option *ngFor="let option of getDistinct('type')">{{ option }}</option> throws error-->
+                            <option></option>
+                            <option>Amulet</option>
+                            <option>Boots</option>
+                            <option>Chest Armor</option>
+                            <option>Cloak</option>
+                            <option>Gauntlets</option>
+                            <option>Helmet</option>
+                            <option>Leg Armor</option>
+                            <option>Main Hand</option>
+                            <option>Ring</option>
+                            <option>Shield</option>
+                            <option>Staff</option>
+                            <option>Two Hand</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'tier')">Tier<span [class]="getClass('tier')"></span></label>
+                    </div>
+                    <div class="col-xs-8">
+                        <select name="tierFilter" [(ngModel)]="tierFilter">
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                                <option>6</option>
+                                <option>7</option>
+                                <option>8</option>
+                                <option>9</option>
+                                <option>10</option>
+                                <option>11</option>
+                                <option>12</option>
+                                <option>13</option>
+                                <option>14</option>
+                                <option>15</option>
+                                <option>16</option>
+                                <option>17</option>
+                                <option>18</option>
+                                <option>19</option>
+                                <option>20</option>
+                                <option>21</option>
+                            </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label>Cost<span [class]="getClass('cost')"></span></label>
+                    </div>
+                    <div class="col-xs-8">
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'description')">Description<span [class]="getClass('description')"></span></label>
+                    </div>
+                    <div class="col-xs-8">
+                        <input type="text" name="descFilter" [(ngModel)]="descFilter" placeholder="Filter description" />
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'subType')">Sub Type<span [class]="getClass('subType')"></span></label>
+                    </div>
+                    <div class="col-xs-8">
+                        <select name="subTypeFilter" [(ngModel)]='subTypeFilter'>
+                            <!--<option *ngFor="let option of getDistinct('subType')">{{ option }}</option>-->
+                            <option></option>
+                            <option>Axe</option>
+                            <option>Cloth</option>
+                            <option>Light</option>
+                            <option>Sword</option>
+                            <option>Staff</option>
+                            <option>?</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'damageMin')">Min Damage<span [class]="getClass('damageMin')"></span></label>
+                    </div>
+                    <div class="col-xs-8"></div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'damageMax')">Max Damage<span [class]="getClass('damageMax')"></span></label>
+                    </div>
+                    <div class="col-xs-8"></div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'speed')">Speed<span [class]="getClass('speed')"></span></label>
+                    </div>
+                    <div class="col-xs-8"></div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'damagePerSecond')">Damage/sec<span [class]="getClass('damagePerSecond')"></span></label>
+                    </div>
+                    <div class="col-xs-8"></div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'blockChance')">Block Chance<span [class]="getClass('blockChance')"></span></label>
+                    </div>
+                    <div class="col-xs-8"></div>
+                </div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <label (click)="sortOn($event, 'blockMitigation')">Block Mitigation<span [class]="getClass('blockMitigation')"></span></label>
+                    </div>
+                    <div class="col-xs-8"></div>
+                </div>
+            </collapsible-panel>
+
+            <!-- content -->
+            <div *ngFor="let item of gear 
+                    | stringFilter:nameFilter:'name' 
+                    | stringFilter:typeFilter:'type' 
+                    | stringFilter:descFilter:'description' 
+                    | stringFilter:subTypeFilter:'subType' 
+                    | stringFilter:tierFilter:'tier':true 
+                    | orderBy : [sort] ">
+                <collapsible-panel>
+                    <span class="title">{{ item.name }} <span *ngIf="item.tier !== -1">(Tier {{ item.tier }})</span></span>
+                    <ul>
+                        <li>Class: {{ item.class }} </li>
+                        <li>Drops:
+                            <ul *ngFor="let drop of item.drop">
+                                <li>{{ drop }}</li>
+                            </ul>
+                        </li>
+                        <li>Type: {{ item.type }}</li>
+                        <li *ngIf="item.subType">SubType: {{ item.subType }}</li>
+                        <li>Tier: {{ item.tier }}</li>
+                        <li *ngIf="item.cost.type">Cost: {{ item.cost.amount }} {{ item.cost.type }}</li>
+                        <li *ngIf="item.description">Description: {{ item.description }}</li>
+                        <li *ngIf="item.defense">Defense: {{ item.defense }}</li>
+                        <li *ngIf="item.damageMin">Damage: {{ item.damageMin }}-{{ item.damageMax }} ({{ item.damagePerSecond }} damage per second)</li>
+                        <li *ngIf="item.speed">Speed: {{ item.speed }}</li>
+                        <li *ngIf="item.blockChance">Block Chance: {{ item.blockChance }}</li>
+                        <li *ngIf="item.blockMitigation">Block Mitigation: {{ item.blockMitigation }}</li>
+                    </ul>
+                </collapsible-panel>
+            </div>
+        </div>
     </div>
 </div>
