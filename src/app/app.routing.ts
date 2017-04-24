@@ -6,6 +6,7 @@ import { MatsListComponent } from './mats-list/mats-list.component';
 import { LocationsComponent } from './map/location.component';
 import { RaidListComponent } from './raids/raid-list.component';
 import { GearListComponent } from './gear/gear.component';
+import { DropComponent } from "app/drop/drop.component";
 
 const appRoutes: Routes = [
   {
@@ -27,6 +28,10 @@ const appRoutes: Routes = [
   {
     path: 'gear',
     component: GearListComponent
+  },
+  {
+    path: 'drops',
+    component: DropComponent
   },
   {
     path: '',

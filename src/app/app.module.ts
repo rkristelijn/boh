@@ -12,6 +12,7 @@ import { IngredientComponent } from './ingredient/ingredient.component';
 import { LocationsComponent } from './map/location.component';
 import { RaidListComponent } from './raids/raid-list.component';
 import { GearListComponent } from './gear/gear.component';
+import { DropComponent } from './drop/drop.component';
 //shared components
 import { CollapsiblePanelComponent } from './shared/collapsible-panel';
 //pipes
@@ -41,6 +42,7 @@ import { DataService } from './data.service';
     LocationsComponent,
     RaidListComponent,
     GearListComponent,
+    DropComponent,
     /*shared components*/
     CollapsiblePanelComponent,
     /*Pipes*/

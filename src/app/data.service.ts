@@ -5,17 +5,19 @@ import { Observable } from 'rxjs/Observable';
 
 @Injectable()
 export class DataService {
+    urlDrops: string = './app/data/drops.json';
     urlMaterials: string = './app/data/material-list.json';
     urlLocations: string = './app/data/locations.json';
-    urlRecipes:   string = './app/data/recipe-list.json';
-    urlRaids:     string = './app/data/raid-list.json';
-    urlGear:      string = './app/data/gear-list.json';
+    urlRecipes: string = './app/data/recipe-list.json';
+    urlRaids: string = './app/data/raid-list.json';
+    urlGear: string = './app/data/gear-list.json';
 
     materials: any[];
     recipes: any[];
     raids: any[];
     locations: any;
     gear: any[];
+    drops: any[];
 
     /** empty constructure with dependancy injection for HTTP calls
      * @param http 
@@ -87,9 +89,9 @@ export class DataService {
     }
 
     /** Returns the list or Raids either from memory or
- * from a REST call
- * @returns Observable <any>
- */
+     * from a REST call
+     * @returns Observable <any>
+     */
     getGear(): Observable<any> {
         if (this.gear) {
             return Observable.of(this.gear);
@@ -98,6 +100,18 @@ export class DataService {
                 .map(res => res.json())
                 .do((data) => {
                     this.gear = data;
+                });
+        }
+    }
+
+    getDrops():Observable<any> {
+        if (this.drops) {
+            return Observable.of(this.drops);
+        } else {
+            return this.http.get(this.urlDrops)
+                .map(res => res.json())
+                .do((data) => {
+                    this.drops = data;
                 });
         }
     }
