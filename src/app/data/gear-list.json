@@ -4402,7 +4402,7 @@
         ],
         "type": "Main Hand",
         "subType": "Sword",
-        "tier": -1,
+        "tier": 20,
         "damageMin": -1,
         "damageMax": -1,
         "speed": 1.0,
@@ -4421,7 +4421,7 @@
         ],
         "type": "Main Hand",
         "subType": "Sword",
-        "tier": -1,
+        "tier": 19,
         "damageMin": -1,
         "damageMax": -1,
         "speed": 1.0,
@@ -5491,6 +5491,30 @@
         "subType": "",
         "tier": 1,
         "description": "In ages past, gladiators dared to enter the Coliseum without the burden of armor, proving their unmatched skill in one-on-one combat (Gold League, PVP, Season 1) - Legacy Gear",
+        "cost": { }
+    },
+    {
+        "name": "Ancient Platinum Emblazonment",
+        "class": "War Mage",
+        "drop": [
+            "Event"
+        ],
+        "type": "Chest Armor",
+        "subType": "",
+        "tier": 1,
+        "description": "(Platinum League, PVP, Season 1) - Legacy Gear",
+        "cost": { }
+    },
+    {
+        "name": "The Master's Emblazonment",
+        "class": "War Mage",
+        "drop": [
+            "Event"
+        ],
+        "type": "Chest Armor",
+        "subType": "",
+        "tier": 1,
+        "description": "(Masters League, PVP, Season 1) - Legacy Gear",
         "cost": { }
     },
     {
