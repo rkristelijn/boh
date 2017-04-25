@@ -24,6 +24,8 @@ import { LocationFilterPipe } from './mats-list/mats-list.location.pipe';
 import { HyperlinkPipe } from './mats-list/mats-list.hyperlink.pipe';
 import { StringFilterPipe } from '../assets/stringFilter.pipe';
 import { OrderBy } from '../assets/order.pipe';
+import { HasDropFilterPipe } from './drop/has-drop.pipe';
+import { DropFilterPipe } from './drop/drop.pipe';
 
 //router
 import { routing } from './app.routing';
@@ -52,6 +54,8 @@ import { DataService } from './data.service';
     MaterialFilterPipe,
     LocationFilterPipe,
     HyperlinkPipe,
+    HasDropFilterPipe,
+    DropFilterPipe,
     /*Generic pipes*/
     StringFilterPipe,
     OrderBy

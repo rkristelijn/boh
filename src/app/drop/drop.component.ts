@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Params } from '@angular/router';
 
 import { SortComponent } from '../shared/sort-component';
+import { DropFilterPipe } from './drop.pipe';
+import { HasDropFilterPipe } from './has-drop.pipe';
 
 import { DataService } from '../data.service';
 
@@ -13,6 +15,9 @@ import { DataService } from '../data.service';
 export class DropComponent extends SortComponent implements OnInit {
     rawDrops:any[];
     drops:any[] = [];
+    dropFilter:string;
+    typeFilter:string;
+    nameFilter:string;
     constructor(private dataService: DataService, private activatedRoute: ActivatedRoute) { super(); }
     ngOnInit() {
         this.dataService.getDrops().subscribe(data => {
@@ -20,19 +25,20 @@ export class DropComponent extends SortComponent implements OnInit {
             for (let drop of this.rawDrops) {
                 this.addItem(drop);
             }
-            console.log(this.drops);
+            this.addDropRate();
+            //console.log(this.drops);
         });
     }
 
     //data manipulators
     addItem(drop) {
-        console.log("processing", drop);
+        //console.log("processing", drop);
         let index = this.indexOfArea(drop.area, drop.phase);
-        console.log("index", index);
+        //console.log("index", index);
         if( index === -1 ) {
-            console.log("adding", drop);
+            //console.log("adding", drop);
             index = this.addArea(drop.area, drop.phase, drop.type, drop.e);
-            console.log("new index:", index);
+            //console.log("new index:", index);
             this.addDrop(index, drop.amount, drop.item);
         } else {
             this.addDrop(index, drop.amount, drop.item);
@@ -53,23 +59,38 @@ export class DropComponent extends SortComponent implements OnInit {
     }
 
     addDrop( index: number, amount: number, item:string ) {
-        console.log("adding drop", item, "count is", this.drops[index].count);
+        //console.log("adding drop", item, "count is", this.drops[index].count);
         //increase the counter
         if(item.toLocaleLowerCase() === "silver") this.drops[index].count++;
 
-        console.log("count is", this.drops[index].count);
+        //console.log("count is", this.drops[index].count);
 
         let dropIndex = this.indexOfDrop(this.drops[index].drops, item);
-        console.log("dropIndex", dropIndex);
+        //console.log("dropIndex", dropIndex);
         if(dropIndex === -1 ) {
-            console.log("adding drop", item);
+            //console.log("adding drop", item);
             this.drops[index].drops.push({
                 item:item,
                 amount:amount
             });
         } else {
-            console.log("increasing drop", item);
+            //console.log("increasing drop", item);
             this.drops[index].drops[dropIndex].amount += amount;
+        }
+    }
+
+    addDropRate() {
+        for(let area of this.drops) {
+            //console.log("calculating droprate for", area.area, area.phase);
+            let ePerWave = area.ePerWave;
+            let count = area.count;
+            area['dropRate'] = [];
+            for(let item of area.drops) {
+                area.dropRate.push({
+                    dropRate:(item.amount/count/ePerWave),
+                    item:item.item
+                })
+            }
         }
     }
 
@@ -81,7 +102,7 @@ export class DropComponent extends SortComponent implements OnInit {
         return -1; //not found
     }
 
-    indexOfDrop( drops:any, item: string) {
+    indexOfDrop( drops:any, item: string ) {
         for( let i = 0; i < drops.length; i++ ) {
             if ( drops[i].item === item ) return i;
         }
