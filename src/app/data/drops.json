@@ -18844,5 +18844,3038 @@
         "area": "Flame Cavern",
         "amount": 780,
         "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 0,
+        "item": "Recipe: Potion: Magic Resistance"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Heart of the Ebian",
+        "amount": 0,
+        "item": "Recipe: Potion: Power"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Dunia's Meadow",
+        "amount": 0,
+        "item": "Recipe: Potion: Dodge"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 0,
+        "item": "Recipe: Potion: Melee Resist"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Flame Cavern",
+        "amount": 0,
+        "item": "Recipe: Potion: Crit Power"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Energy Mine",
+        "amount": 0,
+        "item": "Recipe: Potion: Haste"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Goblin King",
+        "amount": 0,
+        "item": "Recipe: Power: Initiative (Direhorn)"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Goblin King",
+        "amount": 0,
+        "item": "Recipe: Power: Resilience (Direhorn)"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Goblin King",
+        "amount": 0,
+        "item": "Recipe: Power: Block"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Goblin King",
+        "amount": 0,
+        "item": "Recipe: Power: Power Block"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Goblin King",
+        "amount": 0,
+        "item": "Recipe: Power: Defence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lord of Blades",
+        "amount": 0,
+        "item": "Recipe: Skill: Two-handed Bonus"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lord of Blades",
+        "amount": 0,
+        "item": "Recipe: Skill: One-handed Bonus"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak",
+        "amount": 0,
+        "item": "Recipe: Magic: Damage Bonus Nature "
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak",
+        "amount": 0,
+        "item": "Recipe: Magic: Damage Bonus Physical "
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak",
+        "amount": 0,
+        "item": "Recipe: Magic: Damage Nature Spirit"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak",
+        "amount": 0,
+        "item": "Recipe: Magic: Damage Nature Ice"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak",
+        "amount": 0,
+        "item": "Recipe: Magic: Damage Nature Fire"
+    },
+    {
+        "type": "Shop",
+        "e": 0,
+        "waves": 0,
+        "phase": 0,
+        "area": "Majerio's Shop",
+        "amount": 0,
+        "item": "Recipe: Power: Knockback Resist (200000 Silver)"
+    },
+    {
+        "type": "Shop",
+        "e": 0,
+        "waves": 0,
+        "phase": 0,
+        "area": "Majerio's Shop",
+        "amount": 0,
+        "item": "Recipe: Skill: Accuracy (200000 Silver)"
+    },
+    {
+        "type": "Shop",
+        "e": 0,
+        "waves": 0,
+        "phase": 0,
+        "area": "Majerio's Shop",
+        "amount": 0,
+        "item": "Recipe: Magic: Healing Bonus (200000 Silver)"
+    },
+    {
+        "type": "Shop",
+        "e": 0,
+        "waves": 0,
+        "phase": 0,
+        "area": "Black Market",
+        "amount": 0,
+        "item": "Recipe: Magic: Energy Regeneration (375 Gold Shields)"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lockbolt's Grove",
+        "amount": 179,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lockbolt's Grove",
+        "amount": 115,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lockbolt's Grove",
+        "amount": 140,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lockbolt's Grove",
+        "amount": 161,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lockbolt's Grove",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lockbolt's Grove",
+        "amount": 205,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lockbolt's Grove",
+        "amount": 149,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lockbolt's Grove",
+        "amount": 132,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lockbolt's Grove",
+        "amount": 227,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lockbolt's Grove",
+        "amount": 239,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lockbolt's Grove",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Lockbolt's Grove",
+        "amount": 1109,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Page of Ember's Scouting Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 566,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Piece of Draconite Armor (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 480,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "PIece of Draconite Armor (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Page of Ember's Scouting Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Page of Ember's Scouting Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 296,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 399,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Page of Ember's Scouting Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Page of Ember's Scouting Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 454,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 521,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 496,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Large Healing Potion"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 347,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 559,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Scrap of the Adventuring Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 389,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Scrap of the Adventuring Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Scrap of the Adventuring Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Scrap of the Adventuring Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 542,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 357,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Scrap of the Adventuring Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Scrap of the Adventuring Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Scrap of the Adventuring Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 536,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 359,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 489,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Scrap of the Adventuring Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 543,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Scrap of the Adventuring Journal (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 612,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 469,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ironhaven Tower",
+        "amount": 1,
+        "item": "Scrap of the Adventuring Journal (Quest)"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 257,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 367,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 316,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 786,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 721,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 842,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 737,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 970,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 952,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 4,
+        "item": "Tier 5 Red Shard"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 1,
+        "item": "Vile Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 6679,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Callisto's Keep",
+        "amount": 1,
+        "item": "Indigo Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 567,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 986,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1064,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 618,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 960,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 686,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Exquisite Spider Silk"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 926,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1111,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 709,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 626,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1050,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1059,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1000,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 863,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 643,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 800,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1164,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Blood Raven Tears"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1152,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 2,
+        "item": "Blood Raven Tears"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 980,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 885,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 786,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Exquisite Spider Silk"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 900,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 875,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 869,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1082,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1049,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Exquisite Spider Silk"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 842,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1060,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 994,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 937,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 672,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 888,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Exquisite Spider Silk"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1076,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Indigo Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Amber Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1074,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 964,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 812,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 855,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 940,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Exquisite Spider Silk"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Cleansing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Cleansing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 963,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 626,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 628,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 461,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 538,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 716,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 12,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 541,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 600,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 2,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Pure Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 660,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 608,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 13,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 570,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 640,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 2,
+        "item": "Amber Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 12,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 619,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 13,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Amber Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 704,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 2,
+        "item": "Pure Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 636,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 653,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 545,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 2,
+        "item": "Pure Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 547,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 2,
+        "item": "Indigo Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 674,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 13,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Pure Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 528,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 597,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 644,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 529,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Primal Mysteries",
+        "amount": 8,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1058,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1003,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Amber Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 12,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1036,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1085,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1027,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 997,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1132,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1132,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1118,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 13,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 2,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Indigo Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 992,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1023,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Pure Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 2,
+        "item": "Amber Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1114,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 13,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 985,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 12,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Indigo Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 985,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 12,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1064,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1110,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1112,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1043,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 8,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1068,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1065,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1046,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1019,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Minor Break Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 12,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1041,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Minor Fire Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 8,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1034,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1129,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 996,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1095,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Minor Spirit Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 990,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 12,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Impure Shadow"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 989,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Primal Mysteries",
+        "amount": 8,
+        "item": "Essence"
     }
 ]

@@ -6,6 +6,11 @@
     </div>
 
     <div class='panel-body'>
+        <div class="row">
+            <div class="col-xs-12"><a routerLink="/recipes" [queryParams]="{search:'Enchant: Skill'}">Skill</a>: Helmet, Gauntlets, Two Hand, Main Hand (Amber Flux)</div>
+            <div class="col-xs-12"><a routerLink="/recipes" [queryParams]="{search:'Enchant: Power'}">Power</a>: Chest Armor, Leg Armor, Boots (Emerald Flux)</div>
+            <div class="col-xs-12"><a routerLink="/recipes" [queryParams]="{search:'Enchant: Magic'}">Magic</a>: Amulet, Cloak, Ring (Indigo Flux)</div>
+        </div>
         <div class='table-responsive'>
             <table class='table' *ngIf='recipes && recipes.length'>
                 <thead>
