@@ -37,7 +37,7 @@ export class DropComponent extends SortComponent implements OnInit {
         //console.log("index", index);
         if( index === -1 ) {
             //console.log("adding", drop);
-            index = this.addArea(drop.area, drop.phase, drop.type, drop.e);
+            index = this.addArea(drop.area, drop.phase, drop.type, drop.e, drop.waves);
             //console.log("new index:", index);
             this.addDrop(index, drop.amount, drop.item);
         } else {
@@ -45,13 +45,14 @@ export class DropComponent extends SortComponent implements OnInit {
         }
     }
 
-    addArea( name:string, phase:number, type:string, ePerWave:number ): number {
+    addArea( name: string, phase: number, type: string, ePerWave: number, waves: number ): number {
         let index = this.drops.push({
             area:name,
             phase:phase,
             type:type,
             ePerWave:ePerWave,
             count:0,
+            waves:waves,
             drops:[]
         });
 
@@ -84,10 +85,11 @@ export class DropComponent extends SortComponent implements OnInit {
             //console.log("calculating droprate for", area.area, area.phase);
             let ePerWave = area.ePerWave;
             let count = area.count;
+            let waves = area.waves;
             area['dropRate'] = [];
             for(let item of area.drops) {
                 area.dropRate.push({
-                    dropRate:(item.amount/count/ePerWave),
+                    dropRate:((item.amount/count)*(waves/ePerWave)),
                     item:item.item
                 })
             }

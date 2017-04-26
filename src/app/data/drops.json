@@ -18895,7 +18895,7 @@
         "e": 2,
         "waves": 1,
         "phase": 0,
-        "area": "Energy Mine",
+        "area": "The Energy Mine",
         "amount": 0,
         "item": "Recipe: Potion: Haste"
     },
@@ -18904,7 +18904,7 @@
         "e": 20,
         "waves": 10,
         "phase": 0,
-        "area": "Goblin King",
+        "area": "Hall of the Goblin King",
         "amount": 0,
         "item": "Recipe: Power: Initiative (Direhorn)"
     },
@@ -18913,7 +18913,7 @@
         "e": 20,
         "waves": 10,
         "phase": 0,
-        "area": "Goblin King",
+        "area": "Hall of the Goblin King",
         "amount": 0,
         "item": "Recipe: Power: Resilience (Direhorn)"
     },
@@ -18922,7 +18922,7 @@
         "e": 20,
         "waves": 10,
         "phase": 0,
-        "area": "Goblin King",
+        "area": "Hall of the Goblin King",
         "amount": 0,
         "item": "Recipe: Power: Block"
     },
@@ -18931,7 +18931,7 @@
         "e": 20,
         "waves": 10,
         "phase": 0,
-        "area": "Goblin King",
+        "area": "Hall of the Goblin King",
         "amount": 0,
         "item": "Recipe: Power: Power Block"
     },
@@ -18940,7 +18940,7 @@
         "e": 20,
         "waves": 10,
         "phase": 0,
-        "area": "Goblin King",
+        "area": "Hall of the Goblin King",
         "amount": 0,
         "item": "Recipe: Power: Defence"
     },
@@ -18967,7 +18967,7 @@
         "e": 20,
         "waves": 10,
         "phase": 0,
-        "area": "Karnak",
+        "area": "Karnak's Temple",
         "amount": 0,
         "item": "Recipe: Magic: Damage Bonus Nature "
     },
@@ -18976,7 +18976,7 @@
         "e": 20,
         "waves": 10,
         "phase": 0,
-        "area": "Karnak",
+        "area": "Karnak's Temple",
         "amount": 0,
         "item": "Recipe: Magic: Damage Bonus Physical "
     },
@@ -18985,7 +18985,7 @@
         "e": 20,
         "waves": 10,
         "phase": 0,
-        "area": "Karnak",
+        "area": "Karnak's Temple",
         "amount": 0,
         "item": "Recipe: Magic: Damage Nature Spirit"
     },
@@ -18994,7 +18994,7 @@
         "e": 20,
         "waves": 10,
         "phase": 0,
-        "area": "Karnak",
+        "area": "Karnak's Temple",
         "amount": 0,
         "item": "Recipe: Magic: Damage Nature Ice"
     },
@@ -19003,7 +19003,7 @@
         "e": 20,
         "waves": 10,
         "phase": 0,
-        "area": "Karnak",
+        "area": "Karnak's Temple",
         "amount": 0,
         "item": "Recipe: Magic: Damage Nature Fire"
     },
@@ -21877,5 +21877,3965 @@
         "area": "Primal Mysteries",
         "amount": 8,
         "item": "Essence"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 720,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 793,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Unstable Ether"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 271,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Unstable Ether"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 228,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 246,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 791,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 519,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Minor Frost Rune"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 726,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 209,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 745,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 502,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 526,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Unstable Ether"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Recipe: Potion: Magic Resistance"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 724,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 2,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 684,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 2,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 831,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 459,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 436,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 575,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 2,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 807,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 789,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Unstable Ether"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 307,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 1,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 870,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 502,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 754,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Ancestral Nithus",
+        "amount": 304,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 213,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 1,
+        "item": "Black Wyvern Scale"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 241,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 462,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 783,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 433,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 1,
+        "item": "Black Wyvern Scale"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 260,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 813,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 1,
+        "item": "Mountain Lichen"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 480,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 678,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 801,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 451,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 782,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 856,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 251,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 550,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 221,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 54,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 1,
+        "item": "Black Wyvern Scale"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 239,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 1,
+        "item": "Mountain Lichen"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 214,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 498,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 1,
+        "item": "Mountain Lichen"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 512,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 218,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 1,
+        "item": "Mountain Lichen"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 573,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 1,
+        "item": "Mountain Lichen"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 216,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 273,
+        "item": "Silver"
+    },
+    {
+        "type": "Elite",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Canyon of Shadow",
+        "amount": 597,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 362,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 291,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 298,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 365,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 293,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 340,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 258,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 396,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 330,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 276,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 256,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 408,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 239,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 373,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 267,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 270,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Large Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 259,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Break Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 370,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 236,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 380,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 207,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 291,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 292,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 290,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 258,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 238,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 344,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Break Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 346,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 297,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 293,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 291,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 274,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 295,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 414,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 406,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 312,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 299,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 256,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 431,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 396,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 393,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 400,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 368,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 414,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 279,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 407,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 398,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 272,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 362,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 212,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 302,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 271,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 265,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 309,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 231,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Spirit Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 326,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 283,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 296,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 355,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 301,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 234,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 388,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 251,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 322,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 250,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 346,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 310,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 294,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 229,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 255,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 271,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Cleansing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 265,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 280,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 404,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 312,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 424,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 235,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 279,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 261,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Spirit Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 229,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 262,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 280,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 254,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 425,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Fire Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 407,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 210,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 247,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 241,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 269,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 354,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Spirit Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 273,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 261,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Break Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Blight Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 263,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 224,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 274,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 285,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 254,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 242,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 283,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 228,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 355,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 283,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 223,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 383,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 212,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 399,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 259,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 307,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 292,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 284,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 317,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 336,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 247,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 317,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 265,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 315,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Frost Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 260,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 358,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 239,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 256,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Fire Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 278,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 268,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Cleansing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 332,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 339,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 238,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 257,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 291,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 351,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 233,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 298,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 393,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 314,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 238,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 239,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 242,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 417,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 307,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 257,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 264,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 251,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 253,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 285,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 286,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 265,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 307,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 387,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 260,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 336,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 322,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 250,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 247,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 257,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 430,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Frost Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 372,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 232,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 327,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 369,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 439,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 304,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 250,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 252,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 385,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Cleansing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 342,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 318,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 249,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 397,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 356,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 306,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 257,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 252,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 364,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Purge Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 227,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 448,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 254,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 391,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 404,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 294,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 378,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 264,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Risen from the Depth",
+        "amount": 298,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 454,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 445,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 424,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 460,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 438,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 462,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 425,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 463,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 467,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 475,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 468,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 428,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 480,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 429,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 445,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 441,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 453,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Spirit Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 472,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 473,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 414,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 422,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 465,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 433,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 444,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 453,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 464,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 449,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 419,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 419,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 455,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 429,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 460,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 465,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 472,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Minor Blight Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 468,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 456,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 422,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 471,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 448,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 439,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 445,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 467,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 464,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 446,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 461,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 476,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 462,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 417,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 419,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 449,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 455,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 425,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 425,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 451,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 428,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 458,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Risen from the Depth",
+        "amount": 443,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 774,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 436,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 705,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 705,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 694,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 457,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 648,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 834,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 697,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 5,
+        "item": "Tier 4 Blue Shard"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 5938,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 1,
+        "item": "Major Fire Rune"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 475,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 1,
+        "item": "Minor Fire Rune"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 768,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 515,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 789,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 487,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 453,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 687,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 630,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 468,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 7,
+        "item": "Tier 4 Yellow Shard"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 11,
+        "item": "Tier 4 Red Shard"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Karnak's Temple",
+        "amount": 5964,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 439,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 618,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 681,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 185,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 469,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 641,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 539,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 701,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 641,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 26,
+        "item": "Essence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 4,
+        "item": "Tier 4 Yellow Shard"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 6247,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Hall of the Goblin King",
+        "amount": 254,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Hall of the Goblin King",
+        "amount": 678,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Hall of the Goblin King",
+        "amount": 609,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Hall of the Goblin King",
+        "amount": 605,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Hall of the Goblin King",
+        "amount": 433,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Hall of the Goblin King",
+        "amount": 443,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Hall of the Goblin King",
+        "amount": 407,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Hall of the Goblin King",
+        "amount": 2851,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Hall of the Goblin King",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Hall of the Goblin King",
+        "amount": 4,
+        "item": "Tier 4 Red Shard"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "Hall of the Goblin King",
+        "amount": 5261,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 467,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 460,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 300,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 429,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 290,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 1,
+        "item": "Large Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 1,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 401,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 318,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 363,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 326,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 7,
+        "item": "Tier 3 Yellow Shard"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Ice Dragon's Lair",
+        "amount": 3521,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 239,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 321,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 1,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 266,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 247,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 254,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 292,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 239,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 291,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 1,
+        "item": "Large Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 424,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 6,
+        "item": "Tier 3 Blue Shard"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 3311,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 1,
+        "item": "Major Purge Rune"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 267,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 296,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 261,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 308,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 278,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 401,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 290,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 246,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 298,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 3,
+        "item": "Tier 3 Blue Shard"
+    },
+    {
+        "type": "Dungeon",
+        "e": 10,
+        "waves": 10,
+        "phase": 0,
+        "area": "Eddas' Keep",
+        "amount": 3417,
+        "item": "Silver"
     }
 ]
