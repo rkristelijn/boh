@@ -1,0 +1,691 @@
+[
+    {
+        "name": "Steelclaw",
+        "location": "Heart of the Ebian",
+        "attacks": "Enrage"
+    },
+    {
+        "name": "Steelclaw",
+        "location": "Heart of the Ebian",
+        "attacks": "Maul",
+        "effect": "Wound",
+        "description": "Deals physical damage over time."
+    },
+    {
+        "name": "Steelclaw",
+        "location": "Heart of the Ebian",
+        "attacks": "Eviscerate"
+    },
+    {
+        "name": "Bandit Archer",
+        "location": "Heart of the Ebian",
+        "attacks": "Shoot"
+    },
+    {
+        "name": "Bandit Archer",
+        "location": "Heart of the Ebian",
+        "attacks": "Aimed Shot"
+    },
+    {
+        "name": "Bandit Captain",
+        "location": "Heart of the Ebian",
+        "attacks": "Rallying Cry"
+    },
+    {
+        "name": "Bandit Infantry",
+        "location": "Heart of the Ebian",
+        "attacks": "Fortify"
+    },
+    {
+        "name": "Bandit Infantry",
+        "location": "Heart of the Ebian",
+        "attacks": "Jab"
+    },
+    {
+        "name": "Bandit Captain",
+        "location": "Heart of the Ebian",
+        "attacks": "Slash",
+        "effect": "Ice Fracture",
+        "description": "Reduces ice resistance."
+    },
+    {
+        "name": "Bandit Infantry",
+        "location": "Heart of the Ebian",
+        "attacks": "Brutal Strike",
+        "effect": "Poison",
+        "description": "Deals nature damage over time."
+    },
+    {
+        "name": "Caliban",
+        "location": "Pinnacle",
+        "attacks": "Crystal Lance"
+    },
+    {
+        "name": "Caliban",
+        "location": "Pinnacle",
+        "attacks": "Crystal Fire",
+        "effect": "Burning",
+        "description": "Deals fire damage over time."
+    },
+    {
+        "name": "Sha'lyn, the Spider Queen",
+        "location": "Sha'lyn's Lair",
+        "attacks": "Brood Swarm",
+        "effect": "Infested",
+        "description": "Decreases damage dealt by 15% per stack."
+    },
+    {
+        "name": "Sha'lyn, the Spider Queen",
+        "location": "Sha'lyn's Lair",
+        "attacks": "Siphon Life",
+        "description": "Adds 20.000 health"
+    },
+    {
+        "name": "Sha'lyn, the Spider Queen",
+        "location": "Sha'lyn's Lair",
+        "attacks": "Infest",
+        "effect": "Infested",
+        "description": "Decreases damage dealt by 15% per stack."
+    },
+    {
+        "name": "Sha'lyn, the Spider Queen",
+        "location": "Rise of the Spider Queen",
+        "attacks": "Pierce"
+    },
+    {
+        "name": "Sha'lyn, the Spider Queen",
+        "location": "Rise of the Spider Queen",
+        "attacks": "Brood Swarm",
+        "effect": "Periodic Nature Damange",
+        "description": "Does nature damege over time."
+    },
+    {
+        "name": "Sha'lyn, the Spider Queen",
+        "location": "Rise of the Spider Queen",
+        "attacks": "Siphon Life",
+        "description": "Adds 20057 Life"
+    },
+    {
+        "name": "Sha'lyn, the Spider Queen",
+        "location": "Rise of the Spider Queen",
+        "attacks": "Pin Down",
+        "effect": "Cancels attack"
+    },
+    {
+        "name": "Yodrin the Elder",
+        "location": "Yodrin's Tower",
+        "attacks": "Spinning Staff"
+    },
+    {
+        "name": "Yodrin the Elder",
+        "location": "Yodrin's Tower",
+        "attacks": "Fierce Uppercut"
+    },
+    {
+        "name": "Yodrin the Elder",
+        "location": "Yodrin's Tower",
+        "attacks": "Sweeping Staff"
+    },
+    {
+        "name": "Yodrin the Elder (Dragon)",
+        "location": "Yodrin's Tower",
+        "attacks": "Spirit Fire",
+        "effect": "Vile Burning",
+        "description": "Deals fire damage over time. Unable to be cleansed"
+    },
+    {
+        "name": "Yodrin the Elder (Dragon)",
+        "location": "Yodrin's Tower",
+        "effect": "Vile Bleading",
+        "description": "Deals physical damage over time. Unable to be cleansed"
+    },
+    {
+        "name": "Yodrin the Elder (Dragon)",
+        "location": "Yodrin's Tower",
+        "attacks": "Flame Breath"
+    },
+    {
+        "name": "Yodrin the Elder (Dragon)",
+        "location": "Yodrin's Tower",
+        "attacks": "Entranced"
+    },
+    {
+        "name": "Yodrin the Elder (Dragon)",
+        "location": "Yodrin's Tower",
+        "attacks": "Curse of the Vile",
+        "effect": "Curse",
+        "description": "Deals spirit damage of time."
+    },
+    {
+        "name": "Yodrin the Elder (Dragon)",
+        "location": "Yodrin's Tower",
+        "attacks": "Inferno",
+        "effect": "Fire Fracture",
+        "description": "Reduces fire resistence."
+    },
+    {
+        "name": "Prince of Blades",
+        "location": "The Prince of Blades",
+        "attacks": "Strategic Shift",
+        "effect": "Intense Focus",
+        "description": "The monster is intensely focused on executing its next attack, and will resist most status effects."
+    },
+    {
+        "name": "Prince of Blades",
+        "location": "The Prince of Blades",
+        "attacks": "Shiv",
+        "effect": "Burst of Speed",
+        "description": "Increases attack speed by 50% and grants immunity to knockback effects."
+    },
+    {
+        "name": "Prince of Blades",
+        "location": "The Prince of Blades",
+        "attacks": "Twin Stab"
+    },
+    {
+        "name": "Prince of Blades",
+        "location": "The Prince of Blades",
+        "attacks": "Assassin's Mark"
+    },
+    {
+        "name": "Prince of Blades",
+        "location": "The Prince of Blades",
+        "attacks": "Disarm",
+        "effect": "Disarmed",
+        "description": "Your weapon has been stolen! Punch your enemy in the nose!"
+    },
+    {
+        "name": "Prince of Blades",
+        "location": "The Prince of Blades",
+        "attacks": "Jab"
+    },
+    {
+        "name": "Prince of Blades",
+        "location": "The Prince of Blades",
+        "attacks": "Leeching Poison"
+    },
+    {
+        "name": "Prince of Blades",
+        "location": "The Prince of Blades",
+        "attacks": "Toxic Blade",
+        "effect": "Poisoned",
+        "description": "Reduces resistance to nature damage by 15% per stack"
+    },
+    {
+        "name": "Prince of Blades",
+        "location": "The Prince of Blades",
+        "attacks": "Mind Numbing Poison",
+        "effect": "Mind-numbing Poison",
+        "description": "Your senses ahve been dulled, giving you a 10% chance to miss when performing attacks. Also deals periodic nature damage."
+    },
+    {
+        "name": "The Hunter",
+        "location": "The Hunter's Folly",
+        "attacks": "Trap",
+        "effect": "Slow",
+        "description": "Decreases speed."
+    },
+    {
+        "name": "The Hunter",
+        "location": "The Hunter's Folly",
+        "attacks": "Aimed Shot"
+    },
+    {
+        "name": "The Hunter",
+        "location": "The Hunter's Folly",
+        "attacks": "Twin Strike"
+    },
+    {
+        "name": "The Hunter",
+        "location": "The Hunter's Folly",
+        "attacks": "Valderian Fury",
+        "effect": "Fury",
+        "description": "Increases damage done."
+    },
+    {
+        "name": "Daedalus",
+        "location": "Training Hall",
+        "attacks": "Friend"
+    },
+    {
+        "name": "Majerio",
+        "location": "Majeri's Shop",
+        "attacks": "Friend"
+    },
+    {
+        "name": "Allegra",
+        "location": "Glenfort Temple",
+        "attacks": "Friend",
+        "description": "Elf-like creature with floating tiara. She looks a bit sleepy"
+    },
+    {
+        "name": "Claude",
+        "location": "Barber Shop",
+        "attacks": "Friend",
+        "description": "This guy has the weirdes hair of them all. Probably a brain-freeze of the milkshake he is sucking on."
+    },
+    {
+        "name": "Colette",
+        "location": "Mucky Duck Inn",
+        "attacks": "Friend",
+        "description": "One eye patch on her left eye"
+    },
+    {
+        "name": "Lady Gwynn",
+        "location": "Glenfort Coliseum",
+        "attacks": "Friend",
+        "description": "She is always frowning, because of all the discipline she enforces"
+    },
+    {
+        "name": "Oleg",
+        "location": "Draconic Delivery",
+        "attacks": "Friend",
+        "description": "With goggles on his head and a long beard he has some kind of backpack filled with mariuhana; you can tell from his eyes"
+    },
+    {
+        "name": "Kray",
+        "location": "Kray's Campsite",
+        "attacks": "Friend",
+        "description": "Klingon-like creature with wings for ears and a weird tail hanging from his brain. Somehow the air is on fire."
+    },
+    {
+        "name": "Ko'thar",
+        "location": "Safe House",
+        "attacks": "Friend",
+        "description": "Rat-man, has a huge red scar over his left eye and 3 earrings on his left ear"
+    },
+    {
+        "name": "Mysterio",
+        "location": "Black Market",
+        "attacks": "Friend",
+        "description": "Looks like an eye patch on his right eye. probably Colette's brother..."
+    },
+    {
+        "name": "General Zuur",
+        "location": "Attack at Dawn",
+        "attacks": "Rending Blow"
+    },
+    {
+        "name": "General Zuur",
+        "location": "Attack at Dawn",
+        "attacks": "Execute"
+    },
+    {
+        "name": "General Zuur",
+        "location": "Attack at Dawn",
+        "attacks": "Sever"
+    },
+    {
+        "name": "General Zuur",
+        "location": "Attack at Dawn",
+        "attacks": "Cripple",
+        "effect": "Slow",
+        "description": "Decreases speed."
+    },
+    {
+        "name": "Callisto",
+        "location": "Callisto's Keep",
+        "attacks": "Bludgeon",
+        "effect": "Vile Bleeding",
+        "description": "Deals physical damage over time. Unable to be cleansed."
+    },
+    {
+        "name": "Callisto",
+        "location": "Callisto's Keep",
+        "attacks": "Unspoken Words",
+        "effect": "Vile Curse",
+        "description": "Deals spirit damage over time. Unable to be cleansed."
+    },
+    {
+        "name": "Callisto",
+        "location": "Callisto's Keep",
+        "attacks": "Flame Slash",
+        "effect": "Vile Burning",
+        "description": "Deals fire damage over time. Unable to be cleansed."
+    },
+    {
+        "name": "Sebald fo Drol",
+        "location": "Disturbed Grave",
+        "attacks": "Spirit Void",
+        "effect": "Spirit Void",
+        "description": "Amplifies all spirit damage taken by 50%."
+    },
+    {
+        "name": "Sebald fo Drol",
+        "location": "Disturbed Grave",
+        "attacks": "Slash",
+        "effect": "Wound",
+        "description": "Deals physical damage over time."
+    },
+    {
+        "name": "Sebald fo Drol",
+        "location": "Disturbed Grave",
+        "attacks": "Whirlwind"
+    },
+    {
+        "name": "Sebald fo Drol",
+        "location": "Disturbed Grave",
+        "attacks": "Spirit Link",
+        "effect": "Adds 20k health"
+    },
+    {
+        "name": "Sebald fo Drol",
+        "location": "Disturbed Grave",
+        "attacks": "Otherworldly Wail"
+    },
+    {
+        "name": "Sebald fo Drol",
+        "location": "Disturbed Grave",
+        "attacks": "Nether Ward",
+        "effect": "Ward",
+        "description": "Grants a 75% chance to resist debuffs and reduces all damage taken by 20%."
+    },
+    {
+        "name": "The Originator",
+        "location": "Primal Mysteries",
+        "attacks": "Seeping Sorrow",
+        "effect": "Wound",
+        "description": "Deals physical damage over time."
+    },
+    {
+        "name": "The Originator",
+        "location": "Primal Mysteries",
+        "attacks": "Living Touch",
+        "description": "Adds 12836 health"
+    },
+    {
+        "name": "The Originator",
+        "location": "Primal Mysteries",
+        "attacks": "Overgrowth",
+        "description": "Adds 25k health"
+    },
+    {
+        "name": "The Originator",
+        "location": "Primal Mysteries",
+        "attacks": "Undisturbed"
+    },
+    {
+        "name": "The Originator",
+        "location": "Primal Mysteries",
+        "attacks": "Erosion",
+        "effect": "Disarmed",
+        "description": "Your weapon has been stolen! Punch your enemy in the nose!"
+    },
+    {
+        "name": "Met'Huzil, Keeper of the Flame",
+        "location": "Third Floor",
+        "attacks": "Firewall",
+        "effect": "Firewall",
+        "description": "Increases defense."
+    },
+    {
+        "name": "Met'Huzil, Keeper of the Flame",
+        "location": "Third Floor",
+        "attacks": "Searing Wind",
+        "effect": "Fire Fracture",
+        "description": "Reduces fire resistance"
+    },
+    {
+        "name": "Met'Huzil, Keeper of the Flame",
+        "location": "Third Floor",
+        "attacks": "Pillar of Flames"
+    },
+    {
+        "name": "Met'Huzil, Keeper of the Flame",
+        "location": "Third Floor",
+        "attacks": "Volcanic Lash"
+    },
+    {
+        "name": "Met'Huzil, Keeper of the Flame",
+        "location": "Third Floor",
+        "attacks": "Great Balls of Fire",
+        "effect": "Burning",
+        "description": "Deals fire damage of time."
+    },
+    {
+        "name": "Met'Huzil, Keeper of the Flame",
+        "location": "Third Floor",
+        "attacks": "Improved Snap Cast",
+        "effect": "Improved Snap Cast",
+        "description": "Decreases all cast times by 75%"
+    },
+    {
+        "name": "Cave Serpent",
+        "location": "The Energy Mine",
+        "attacks": "Infected Bite",
+        "effect": "Poison",
+        "description": "Deals nature damage over time."
+    },
+    {
+        "name": "Cave Serpent",
+        "location": "The Energy Mine",
+        "attacks": "Chilling Breath"
+    },
+    {
+        "name": "Cave Serpent",
+        "location": "The Energy Mine",
+        "attacks": "Dart"
+    },
+    {
+        "name": "Bloodfang",
+        "location": "Dunia's Meadow",
+        "attacks": "Shred"
+    },
+    {
+        "name": "Bloodfang",
+        "location": "Dunia's Meadow",
+        "attacks": "Savage Bite"
+    },
+    {
+        "name": "Iron Basilisk",
+        "location": "Flame Cavern",
+        "attacks": "Flame Breath"
+    },
+    {
+        "name": "Ironhaven Colossus",
+        "location": "Ironhaven's Lookout Tower",
+        "attacks": "Rampage",
+        "effect": "Rampage",
+        "description": "Increase speed and physical damage done."
+    },
+    {
+        "name": "Ironhaven Colossus",
+        "location": "Ironhaven's Lookout Tower",
+        "attacks": "Crush"
+    },
+    {
+        "name": "Ironhaven Colossus",
+        "location": "Ironhaven's Lookout Tower",
+        "attacks": "Unstoppable Charge"
+    },
+    {
+        "name": "Gate Warden",
+        "location": "Ancestral Nithus",
+        "attacks": "Immolating Strike"
+    },
+    {
+        "name": "Gate Warden",
+        "location": "Ancestral Nithus",
+        "attacks": "Cinder Blast"
+    },
+    {
+        "name": "Black Wyvern",
+        "location": "Canyon of Shadow",
+        "attacks": "Sting",
+        "effect": "Poison",
+        "description": "Deals nature damage over time."
+    },
+    {
+        "name": "Black Wyvern",
+        "location": "Canyon of Shadow",
+        "attacks": "Acid Breath"
+    },
+    {
+        "name": "Black Wyvern",
+        "location": "Canyon of Shadow",
+        "attacks": "Claws"
+    },
+    {
+        "name": "Dark Kraken",
+        "location": "Risen from the Depths",
+        "attacks": "Noxious Spray"
+    },
+    {
+        "name": "Dark Kraken",
+        "location": "Risen from the Depths",
+        "attacks": "Lash"
+    },
+    {
+        "name": "Dark Kraken",
+        "location": "Risen from the Depths",
+        "attacks": "Constrict"
+    },
+    {
+        "name": "Dark Kraken",
+        "location": "Risen from the Depths",
+        "attacks": "Tentacle Swipe"
+    },
+    {
+        "name": "Karnak",
+        "location": "Karnak's Temple",
+        "attacks": "Enveloping Shadows",
+        "effect": "Enveloping Shadows",
+        "description": "Increases damage taken from spirit damage by 25% per stack."
+    },
+    {
+        "name": "Karnak",
+        "location": "Karnak's Temple",
+        "attacks": "Void Bolt"
+    },
+    {
+        "name": "Karnak",
+        "location": "Karnak's Temple",
+        "attacks": "Ice Blast"
+    },
+    {
+        "name": "Lord of Blades",
+        "location": "The Vile Gate",
+        "attacks": "Vile Ward"
+    },
+    {
+        "name": "Direhorn",
+        "location": "Hall of the Goblin King",
+        "attacks": "Headbutt"
+    },
+    {
+        "name": "Direhorn",
+        "location": "Hall of the Goblin King",
+        "attacks": "Amazing Strike"
+    },
+    {
+        "name": "The Goblin King",
+        "location": "Hall of the Goblin King",
+        "attacks": "Jab"
+    },
+    {
+        "name": "Ice Lord Vallus",
+        "location": "Ice Dragon's Lair",
+        "attacks": "Death Bite"
+    },
+    {
+        "name": "Guardian Dragon",
+        "location": "Eddas' Keep",
+        "attacks": "Firewall",
+        "effect": "Firewall",
+        "description": "Increases defense."
+    },
+    {
+        "name": "Guardian Dragon",
+        "location": "Eddas' Keep",
+        "attacks": "Cinder Blast"
+    },
+    {
+        "name": "Deus Construct",
+        "location": "Karnak's Final Stand",
+        "attacks": "Intimidating Scrowl"
+    },
+    {
+        "name": "Deus Construct",
+        "location": "Karnak's Final Stand",
+        "attacks": "Agressive Stance"
+    },
+    {
+        "name": "Deus Construct",
+        "location": "Karnak's Final Stand",
+        "attacks": "Steal Weapon"
+    },
+    {
+        "name": "Karnak",
+        "location": "Karnak's Final Stand",
+        "attacks": "Void Bolt"
+    },
+    {
+        "name": "Karnak",
+        "location": "Karnak's Final Stand",
+        "attacks": "Ram"
+    },
+    {
+        "name": "Karnak",
+        "location": "Karnak's Final Stand",
+        "attacks": "Enveloping Shadows"
+    },
+    {
+        "name": "Karnak",
+        "location": "Karnak's Final Stand",
+        "attacks": "Empower Staff"
+    },
+    {
+        "name": "Karnak",
+        "location": "Karnak's Final Stand",
+        "attacks": "Ice Blast"
+    },
+    {
+        "name": "Saydon Keeper of Mist"
+    },
+    {
+        "name": "Orisin Keeper of Silence"
+    },
+    {
+        "name": "Bromet, Keeper of Ages",
+        "location": "Field of the Dead",
+        "attacks": "Petrify",
+        "effect": "Petrify",
+        "description": "You are slowly turning to stone, decreasing your attack speed by 15% per stack. At 4 stacks, the Stone Behemoth will complete turn you to stone."
+    },
+    {
+        "name": "Bromet, Keeper of Ages",
+        "location": "Field of the Dead",
+        "attacks": "Forcefull Punch"
+    },
+    {
+        "name": "Bromet, Keeper of Ages",
+        "location": "Field of the Dead",
+        "attacks": "Stonewall",
+        "effect": "Stonewall",
+        "description": "Decreases all incoming damage by 33% and grants a 50% chance to resist status effects"
+    },
+    {
+        "name": "Bromet, Keeper of Ages",
+        "location": "Field of the Dead",
+        "attacks": "Stone Stomp"
+    },
+    {
+        "name": "Graphazul Keeper of Void",
+        "location": "Void Corridor",
+        "attacks": "Rend and Tear",
+        "effect": "Bleeding",
+        "description": "Deals physical damage over time."
+    },
+    {
+        "name": "Graphazul Keeper of Void",
+        "location": "Void Corridor",
+        "attacks": "Void Claw"
+    },
+    {
+        "name": "Graphazul Keeper of Void",
+        "location": "Void Corridor",
+        "attacks": "Into the Void",
+        "effect": "Void Form",
+        "description": "Increases magical damage and defense but also increases physical damage taken"
+    }
+]

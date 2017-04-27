@@ -6,8 +6,9 @@ import { MatsListComponent } from './mats-list/mats-list.component';
 import { LocationsComponent } from './map/location.component';
 import { RaidListComponent } from './raids/raid-list.component';
 import { GearListComponent } from './gear/gear.component';
-import { DropComponent } from "app/drop/drop.component";
-import { Schedule } from "app/schedule/schedule";
+import { DropComponent } from "./drop/drop.component";
+import { Schedule } from "./schedule/schedule";
+import { Enemies } from "./enemies/enemies";
 
 const appRoutes: Routes = [
   {
@@ -37,6 +38,10 @@ const appRoutes: Routes = [
   {
     path: 'schedule',
     component: Schedule
+  },
+  {
+    path: 'enemies',
+    component: Enemies
   },
   {
     path: '',

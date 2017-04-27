@@ -5,6 +5,7 @@ import { Observable } from 'rxjs/Observable';
 
 @Injectable()
 export class DataService {
+    urlEnemies: string = './app/data/enemies.json';
     urlDrops: string = './app/data/drops.json';
     urlMaterials: string = './app/data/material-list.json';
     urlLocations: string = './app/data/locations.json';
@@ -20,6 +21,7 @@ export class DataService {
     gear: any[];
     drops: any[];
     schedule: any[];
+    enemies: any[];
 
     /** empty constructure with dependancy injection for HTTP calls
      * @param http 
@@ -119,7 +121,7 @@ export class DataService {
     }
 
     getSchedule():Observable<any> {
-        if (this.drops) {
+        if (this.schedule) {
             return Observable.of(this.schedule);
         } else {
             return this.http.get(this.urlSchedule)
@@ -128,5 +130,17 @@ export class DataService {
                     this.schedule = data;
                 });
         }
-    }   
+    }
+
+    getEnemies():Observable<any> {
+        if (this.enemies) {
+            return Observable.of(this.enemies);
+        } else {
+            return this.http.get(this.urlEnemies)
+                .map(res => res.json())
+                .do((data) => {
+                    this.enemies = data;
+                });
+        }
+    }
 }

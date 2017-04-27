@@ -88,11 +88,12 @@ export class DropComponent extends SortComponent implements OnInit {
             let count = area.count;
             let waves = area.waves;
             let onslaught = this.isOnslaught(area.area, area.phase);
+            let dungeon = this.isDungeon(area.area);
             area['dropRate'] = [];
             for (let item of area.drops) {
                 area.dropRate.push({
-                    dropRate: onslaught
-                    ?((item.amount / count) / (ePerWave))
+                    dropRate: dungeon
+                    ?((item.amount / (count/10) ) / (ePerWave))
                     :((item.amount / count) / (ePerWave)),
                     item: item.item
                 })
@@ -161,6 +162,38 @@ export class DropComponent extends SortComponent implements OnInit {
 
         for (let zone of onslaughtZones) {
             if(area === zone.name && phase === zone.phase) return true;
+        }
+
+        return false;
+    }
+
+    isDungeon(area: string): boolean {
+        let onslaughtZones = [
+            "Bloodstone Burrow",
+            "Callisto's Keep",
+            "Disturbed Grave",
+            "Edda's Keep",
+            "Hall of the Goblin King",
+            "Helion Temple",
+            "Hunter's Folly",
+            "Ice Dragon's Lair",
+            "Karnak's Temple",
+            "Lockbolt's Grove",
+            "Pinnacle",
+            "Plaguerider's Pass",
+            "Sha'lyn's Lair",
+            "The City of Nithus",
+            "The Cliffs of Zuur",
+            "The Emperor's Court",
+            "The Kraken's Lair",
+            "The Prince of Blades",
+            "The Steppes of Cerbarus",
+            "The Vile Gate",
+            "Yodrin's Tower"
+        ]
+
+        for (let zone of onslaughtZones) {
+            if(area.toLocaleLowerCase() === zone.toLocaleLowerCase()) return true;
         }
 
         return false;

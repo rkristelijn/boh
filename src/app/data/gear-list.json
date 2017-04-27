@@ -2714,6 +2714,21 @@
         }
     },
     {
+        "name": "Warrior's Banner",
+        "class": "War Mage",
+        "drop": [
+            "Coliseum Shop"
+        ],
+        "type": "Background",
+        "subType": "Banner",
+        "tier": 1,
+        "description": "A standard of crimson and gold, signifying its bearer as a celebrated warrior of the Coliseum.",
+        "cost": {
+            "type": "Medals",
+            "amount": 75
+        }
+    },
+    {
         "name": "Warrior's Stave",
         "class": "War Mage",
         "drop": [

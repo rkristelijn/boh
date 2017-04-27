@@ -14,6 +14,8 @@ import { RaidListComponent } from './raids/raid-list.component';
 import { GearListComponent } from './gear/gear.component';
 import { DropComponent } from './drop/drop.component'; 
 import { Schedule } from './schedule/schedule'; 
+import { Enemies } from './enemies/enemies';
+
 //shared components
 import { CollapsiblePanelComponent } from './shared/collapsible-panel';
 //pipes
@@ -47,6 +49,7 @@ import { DataService } from './data.service';
     GearListComponent,
     DropComponent,
     Schedule,
+    Enemies,
     /*shared components*/
     CollapsiblePanelComponent,
     /*Pipes*/

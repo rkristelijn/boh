@@ -1218,5 +1218,96 @@
         "amount": 5
       }
     ]
+  },
+  {
+    "name": "Empower: Amulet of Creation",
+    "time": 2880,
+    "description": "Create the Amulet of Creation",
+    "ingredients": [
+      {
+        "name": "Gem of Life",
+        "amount": 1
+      },
+      {
+        "name": "Gem of Death",
+        "amount": 1
+      },
+      {
+        "name": "Immortal Binding",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "name": "Gem of Life",
+    "time": 180,
+    "description": "?",
+    "ingredients": [
+      
+    ]
+  },
+  {
+    "name": "Gem of Death",
+    "time": 180,
+    "description": "?",
+    "ingredients": [
+      
+    ]
+  },
+  {
+    "name": "Empower: True Zeal Reaver",
+    "time": 2880,
+    "description": "During the Tragic Valentine event, one can purchase a recipe to upgrade the T19 Weapon to T20. You will still need to transfer all enchants, but you can sell the T19 Weapon for 1.875.000 silver afterwards.",
+    "ingredients": [
+      {
+        "name": "Liquid Mysery",
+        "amount": 1
+      },
+      {
+        "name": "Zeal Reaver",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "name": "Empower: Truly Cursed Heart",
+    "time": 2880,
+    "description": "During the Tragic Valentine event, one can purchase a recipe to upgrade the T19 Weapon to T20. You will still need to transfer all enchants, but you can sell the T19 Weapon for 1.875.000 silver afterwards.",
+    "ingredients": [
+      {
+        "name": "Liquid Misery",
+        "amount": 1
+      },
+      {
+        "name": "Cursed Heart",
+        "amount": 1
+      } 
+    ]
+  },
+  {
+    "name": "Empower: Ring of Eternity",
+    "time": 2880,
+    "description": "As you can see, there is a deep and ancient power here, Unfortunately the amount of concentrated in  single Imperfect Shadow is small -- almost immaterial on its own. Venture fort and continue to slay this 'Originator' as you call it. Come to me with 1,000 Imperfect Shadows and we can discuss the future of your ring. I'll also need the bits and pieces of another magical rign to use as a setting.",
+    "ingredients": [
+      {
+        "name": "Impure Shadow",
+        "amount": 1000
+      },
+      {
+        "name": "Blood Oath Band",
+        "amount": 1
+      } 
+    ]
+  },
+  {
+    "name": "Empower: Liquid Mysery",
+    "time": 60,
+    "description": "A mysterious compound that evokes the true power of Tragick's despair. You can obtain this recipe only during Tragick Valentine's event.",
+    "ingredients": [
+      {
+        "name": "Despair",
+        "amount": 1000
+      }
+    ]
   }
 ]

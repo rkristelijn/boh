@@ -1,0 +1,53 @@
+<div class='panel panel-primary'>
+    <div class='panel-heading'>
+        <div class="row">
+            <div class="col-sm-12">Enemies and other charater list ({{ enemies.length }})</div>
+        </div>
+    </div>
+
+    <div class='panel-body' *ngIf='enemies.length === 0'>
+        <div class="row">
+            <div class="col-xs-12">
+                <p>Loading data... just have to be patient..</p>
+            </div>
+        </div>
+    </div>
+
+    <div class='panel-body' *ngIf='enemies.length > 0'>
+        <div class='table-responsive'>
+            <table class='table'>
+                <thead>
+                    <tr>
+                        <th (click)="sortOn($event, 'name')">Name<span [class]="getClass('name')"></span></th>
+                        <th (click)="sortOn($event, 'location')">Location<span [class]="getClass('location')"></span></th>
+                        <th (click)="sortOn($event, 'attacks')">Attack<span [class]="getClass('attacks')"></span></th>
+                        <th (click)="sortOn($event, 'effect')">Effect<span [class]="getClass('effect')"></span></th>
+                        <th (click)="sortOn($event, 'description')">Description<span [class]="getClass('description')"></span></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><input type='text' name="nameFilter" [(ngModel)]='nameFilter' placeholder="Filter name..." /></td>
+                        <td><input type='text' name="locationFilter" [(ngModel)]='locationFilter' placeholder="Filter location..." /></td>
+                        <td><input type='text' name="attackFilter" [(ngModel)]='attackFilter' placeholder="Filter attack..." /></td>
+                        <td><input type='text' name="effectFilter" [(ngModel)]='effectFilter' placeholder="Filter effect..." /></td>
+                        <td><input type='text' name="descriptionFilter" [(ngModel)]='descriptionFilter' placeholder="Filter description..." /></td>
+                    </tr>
+                    <tr *ngFor="let enemy of enemies 
+                        | stringFilter:nameFilter:'name' 
+                        | stringFilter:locationFilter:'location' 
+                        | stringFilter:attackFilter:'attacks' 
+                        | stringFilter:effectFilter:'effect' 
+                        | stringFilter:descriotionFilter:'description' 
+                        | orderBy : [sort] ">
+                        <td>{{ enemy.name }} </td>
+                        <td>{{ enemy.location }} </td>
+                        <td>{{ enemy.attacks }} </td>
+                        <td>{{ enemy.effect }} </td>
+                        <td>{{ enemy.description }} </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
