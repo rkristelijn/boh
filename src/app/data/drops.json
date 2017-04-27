@@ -25837,5 +25837,932 @@
         "area": "Eddas' Keep",
         "amount": 3417,
         "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 610,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 753,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 797,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 629,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 818,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 759,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 728,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 837,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 861,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 686,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 786,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 609,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 642,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 725,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 568,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 759,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 650,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 545,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 667,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 555,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 749,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 800,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 691,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 698,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 484,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 496,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 793,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 525,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 674,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Minor Blight Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 847,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 28,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 28,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 78,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 28,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 18029,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 51,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 51,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 126,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 51,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 51,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 51,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 2,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 51,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 51,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 31511,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 51,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Minor Spirit Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 51,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Minor Break Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 51,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 51,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 4,
+        "item": "Indigo Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 33,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 2,
+        "item": "Indigo Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 33,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 33,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 20914,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 33,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Amber Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 33,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 33,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 33,
+        "phase": 2,
+        "area": "Karnak's Final Stand",
+        "amount": 87,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Minor Break Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Minor Spirit Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 81,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 19662,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 2,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Indigo Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 81,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 19442,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 3,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 31,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 26,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 72,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 26,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 26,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 16234,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 10,
+        "waves": 26,
+        "phase": 3,
+        "area": "Karnak's Final Stand",
+        "amount": 1,
+        "item": "Refined Essence"
     }
 ]

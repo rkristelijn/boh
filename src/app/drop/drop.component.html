@@ -48,6 +48,7 @@
                                 <div class="col-md-4 col-xs-12" *ngIf="area.phase !== 0"><small>Phase {{area.phase}}</small></div>
                             </div>
                             <div class="row">
+                                <div class="col-md-4 col-xs-12" *ngIf="area.onslaught"><small>Onslaught average waves: {{area.waves / area.count | number : '1.2-2'}}</small></div>
                                 <div class="col-md-4 col-xs-12"><small>Data entries: {{area.count}}</small></div>
                                 <div class="col-md-4 col-xs-12"><small>Energy per wave: {{area.ePerWave}}</small></div>
                             </div>
