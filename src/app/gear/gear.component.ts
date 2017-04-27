@@ -53,6 +53,8 @@ export class GearListComponent extends SortComponent implements OnInit {
     });
 
     this.activatedRoute.queryParams.subscribe((params: Params) => {
+      this.typeFilter = params['type'];
+      this.nameFilter = params['search'];
     });
   }
 

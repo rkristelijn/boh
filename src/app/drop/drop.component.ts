@@ -18,7 +18,7 @@ export class DropComponent extends SortComponent implements OnInit {
     dropFilter: string;
     typeFilter: string;
     nameFilter: string;
-    
+
     constructor(private dataService: DataService, private activatedRoute: ActivatedRoute) { super(); }
     ngOnInit() {
         this.dataService.getDrops().subscribe(data => {
@@ -27,6 +27,11 @@ export class DropComponent extends SortComponent implements OnInit {
                 this.addItem(drop);
             }
             this.addDropRate();
+        });
+
+        this.activatedRoute.queryParams.subscribe((params: Params) => {
+            this.dropFilter = params['drop'];
+            this.nameFilter = params['search'];
         });
     }
 
@@ -38,15 +43,15 @@ export class DropComponent extends SortComponent implements OnInit {
             this.addDrop(index, drop.amount, drop.item);
 
             //update onslaughter
-            if(drop.item.toLocaleLowerCase() === "silver" && this.isOnslaught(drop.area, drop.phase)) {
+            if (drop.item.toLocaleLowerCase() === "silver" && this.isOnslaught(drop.area, drop.phase)) {
                 this.drops[index]['waves'] = drop.waves;
             }
         } else {
             this.addDrop(index, drop.amount, drop.item);
 
             //update onslaughter
-            if(drop.item.toLocaleLowerCase() === "silver" && this.isOnslaught(drop.area, drop.phase)) {
-                if(!this.drops[index]['waves'] || this.drops[index]['waves'] === -1) this.drops[index]['waves'] = drop.waves;
+            if (drop.item.toLocaleLowerCase() === "silver" && this.isOnslaught(drop.area, drop.phase)) {
+                if (!this.drops[index]['waves'] || this.drops[index]['waves'] === -1) this.drops[index]['waves'] = drop.waves;
                 else this.drops[index]['waves'] += drop.waves;
             }
         }
@@ -58,7 +63,7 @@ export class DropComponent extends SortComponent implements OnInit {
             phase: phase,
             type: type,
             ePerWave: ePerWave,
-            waves: this.isOnslaught(name, phase)?-1:waves,
+            waves: this.isOnslaught(name, phase) ? -1 : waves,
             count: 0,
             drops: [],
             onslaught: this.isOnslaught(name, phase)
@@ -93,8 +98,8 @@ export class DropComponent extends SortComponent implements OnInit {
             for (let item of area.drops) {
                 area.dropRate.push({
                     dropRate: dungeon
-                    ?((item.amount / (count/10) ) / (ePerWave))
-                    :((item.amount / count) / (ePerWave)),
+                        ? ((item.amount / (count / 10)) / (ePerWave))
+                        : ((item.amount / count) / (ePerWave)),
                     item: item.item
                 })
             }
@@ -118,15 +123,15 @@ export class DropComponent extends SortComponent implements OnInit {
 
     isOnslaught(area: string, phase: number): boolean {
         let onslaughtZones = [
-            { 
+            {
                 name: "Crypt of Corruption",
-                phase: 1 
+                phase: 1
             },
-            { 
+            {
                 name: "Crypt of Corruption",
                 phase: 2
             },
-            { 
+            {
                 name: "Crypt of Corruption",
                 phase: 3
             },
@@ -141,27 +146,27 @@ export class DropComponent extends SortComponent implements OnInit {
             {
                 name: "Crystallized Vengeance",
                 phase: 2
-            }, 
+            },
             {
                 name: "Crystallized Vengeance",
                 phase: 3
-            }, 
+            },
             {
                 name: "Rise of the Spider Queen",
                 phase: 3
-            }, 
+            },
             {
                 name: "The Shadow Returns",
                 phase: 2
-            }, 
+            },
             {
                 name: "The Shadow Returns",
                 phase: 3
-            } 
+            }
         ]
 
         for (let zone of onslaughtZones) {
-            if(area === zone.name && phase === zone.phase) return true;
+            if (area === zone.name && phase === zone.phase) return true;
         }
 
         return false;
@@ -193,7 +198,7 @@ export class DropComponent extends SortComponent implements OnInit {
         ]
 
         for (let zone of onslaughtZones) {
-            if(area.toLocaleLowerCase() === zone.toLocaleLowerCase()) return true;
+            if (area.toLocaleLowerCase() === zone.toLocaleLowerCase()) return true;
         }
 
         return false;

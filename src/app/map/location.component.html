@@ -22,7 +22,7 @@
                         <td><input type='text' name="areaStringFilter" [(ngModel)]='areaStringFilter' placeholder="Filter area..."/></td> 
                     </tr>
                     <tr *ngFor="let location of locations | stringFilter:locationStringFilter:'name' | stringFilter:typeStringFilter:'type' | stringFilter:areaStringFilter:'parent' | orderBy : [sort] ">
-                        <td>{{location.name}}</td>
+                        <td><a routerLink="/drops" [queryParams]="{search:location.name}">{{location.name}}</a></td>
                         <td>{{location.type}}</td>
                         <td>{{location.parent}}</td>
                     </tr>

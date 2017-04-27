@@ -7,9 +7,26 @@
 
     <div class='panel-body'>
         <div class="row">
-            <div class="col-xs-12"><a routerLink="/recipes" [queryParams]="{search:'Enchant: Skill'}">Skill</a>: Helmet, Gauntlets, Two Hand, Main Hand (Amber Flux)</div>
-            <div class="col-xs-12"><a routerLink="/recipes" [queryParams]="{search:'Enchant: Power'}">Power</a>: Chest Armor, Leg Armor, Boots (Emerald Flux)</div>
-            <div class="col-xs-12"><a routerLink="/recipes" [queryParams]="{search:'Enchant: Magic'}">Magic</a>: Amulet, Cloak, Ring (Indigo Flux)</div>
+            <div class="col-xs-12"><a routerLink="/recipes" [queryParams]="{search:'Enchant: Skill'}">Skill</a>:
+                <a routerLink="/gear" [queryParams]="{type:'Helmet'}">Helmet</a>,
+                <a routerLink="/gear" [queryParams]="{type:'Gauntlets'}">Gauntlets</a>,
+                <a routerLink="/gear" [queryParams]="{type:'Two Hand'}">Two Hand</a>,
+                <a routerLink="/gear" [queryParams]="{type:'Main Hand'}">Main Hand</a> (
+                <a routerLink="/drops" [queryParams]="{drop:'Amber Flux'}">Amber Flux</a>)
+            </div>
+            <div class="col-xs-12"><a routerLink="/recipes" [queryParams]="{search:'Enchant: Power'}">Power</a>:
+                <a routerLink="/gear" [queryParams]="{type:'Chest Armor'}">Chest Armor</a>,
+                <a routerLink="/gear" [queryParams]="{type:'Leg Armor'}">Leg Armor</a>,
+                <a routerLink="/gear" [queryParams]="{type:'Boots'}">Boots</a> 
+                (<a routerLink="/drops" [queryParams]="{drop:'Emerald Flux'}">Emerald Flux</a>)
+            </div>
+            <div class="col-xs-12"><a routerLink="/recipes" [queryParams]="{search:'Enchant: Magic'}">Magic</a>: 
+            <a routerLink="/gear" [queryParams]="{type:'Amulet'}">Amulet</a>,
+                <a routerLink="/gear" [queryParams]="{type:'Cloak'}">Cloak</a>,
+                <a routerLink="/gear" [queryParams]="{type:'Ring'}">Ring</a> 
+                (<a routerLink="/drops" [queryParams]="{drop:'Indigo Flux'}">Indigo Flux</a>)
+            </div>
+            <div class="col-xs-12">You cannot enchant <a routerLink="/gear" [queryParams]="{type:'Shield'}">Shield</a></div>
         </div>
         <div class='table-responsive'>
             <table class='table' *ngIf='recipes && recipes.length'>
@@ -24,7 +41,8 @@
                     <tr>
                         <td><input type='text' name="listFilter" [(ngModel)]='listFilter' placeholder="Filter recipe..." /></td>
                         <td></td>
-                        <td><input type='text' name="ingredientFilter" [(ngModel)]='ingredientFilter' placeholder="filter ingredient..."/></td>
+                        <td><input type='text' name="ingredientFilter" [(ngModel)]='ingredientFilter' placeholder="filter ingredient..."
+                            /></td>
                     </tr>
                     <tr *ngFor='let recipe of recipes | recipeFilter:listFilter | recipeIngredientsFilter:ingredientFilter | orderBy : [sort]'>
                         <td>{{ recipe.name }}</td>

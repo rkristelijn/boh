@@ -10908,24 +10908,6 @@
         "item": "Silver"
     },
     {
-        "type": "Dungeon",
-        "e": 20,
-        "waves": 10,
-        "phase": 0,
-        "area": "Lord of Blades",
-        "amount": 0,
-        "item": "Recipe: Skill: Two-handed Bonus"
-    },
-    {
-        "type": "Dungeon",
-        "e": 20,
-        "waves": 10,
-        "phase": 0,
-        "area": "Lord of Blades",
-        "amount": 0,
-        "item": "Recipe: Skill: One-handed Bonus"
-    },
-    {
         "type": "Quest",
         "e": 2,
         "waves": 1,
@@ -20884,6 +20866,609 @@
         "e": 2,
         "waves": 1,
         "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Indigo Flux"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 308,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 507,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 209,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 221,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 552,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 520,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 204,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 508,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 307,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 428,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 484,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 298,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 771,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 494,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 307,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Indigo Flux"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 294,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 304,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 288,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 649,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 303,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 407,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 594,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 407,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 528,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 548,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 208,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
         "area": "River's Edge",
         "amount": 847,
         "item": "Silver"
@@ -25142,6 +25727,24 @@
         "waves": 10,
         "phase": 0,
         "area": "The Vile Gate",
+        "amount": 0,
+        "item": "Recipe: Skill: Two-handed Bonus"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 0,
+        "item": "Recipe: Skill: One-handed Bonus"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
         "amount": 439,
         "item": "Silver"
     },
@@ -25261,6 +25864,132 @@
         "area": "The Vile Gate",
         "amount": 1,
         "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 747,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 405,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 430,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 692,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 237,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 597,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 446,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 174,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 616,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 5473,
+        "item": "Silver"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 1,
+        "item": "Minor Blight Rune"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 28,
+        "item": "Essence"
+    },
+    {
+        "type": "Dungeon",
+        "e": 20,
+        "waves": 10,
+        "phase": 0,
+        "area": "The Vile Gate",
+        "amount": 5,
+        "item": "Tier 4 Yellow Shard"
     },
     {
         "type": "Quest",
@@ -26548,6 +27277,78 @@
         "area": "Underwell Passage",
         "amount": 3,
         "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Underwell Passage",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Underwell Passage",
+        "amount": 840,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Underwell Passage",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Underwell Passage",
+        "amount": 901,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Underwell Passage",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Underwell Passage",
+        "amount": 1,
+        "item": "Pristine Crystal Shard"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Underwell Passage",
+        "amount": 1,
+        "item": "Cleansing Potion"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Underwell Passage",
+        "amount": 855,
+        "item": "Silver"
     },
     {
         "type": "Quest",
@@ -30510,399 +31311,129 @@
         "item": "Vile Healing Potion"
     },
     {
-        "type": "Quest",
+        "type": "Raid",
         "e": 2,
         "waves": 1,
-        "phase": 0,
-        "area": "Underwell Passage",
-        "amount": 5,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "Underwell Passage",
-        "amount": 840,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "Underwell Passage",
-        "amount": 4,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "Underwell Passage",
-        "amount": 901,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "Underwell Passage",
-        "amount": 5,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "Underwell Passage",
-        "amount": 1,
-        "item": "Pristine Crystal Shard"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "Underwell Passage",
-        "amount": 1,
-        "item": "Cleansing Potion"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "Underwell Passage",
-        "amount": 855,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 1,
-        "item": "Indigo Flux"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 5,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 308,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 1,
-        "item": "Ember of Enduring Fire"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 507,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 5,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 209,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 3,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 221,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 4,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 552,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 5,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 520,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 3,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 204,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 4,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 1,
-        "item": "Ember of Enduring Fire"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 508,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 4,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 307,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 5,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 1,
-        "item": "Ember of Enduring Fire"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 428,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 4,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 484,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 3,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 298,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 4,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 1,
-        "item": "Ember of Enduring Fire"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 771,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 3,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 494,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 1,
-        "item": "Ember of Enduring Fire"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 3,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
+        "phase": 1,
+        "area": "Primal Mysteries",
         "amount": 1,
         "item": "Powerful Healing Potion"
     },
     {
-        "type": "Quest",
+        "type": "Raid",
         "e": 2,
         "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 307,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 997,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essense"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 986,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 929,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 4,
+        "item": "Essense"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 1,
+        "item": "Exquisite Spider Silk"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 921,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 3,
+        "item": "Essense"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 996,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essense"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 5,
+        "item": "Essense"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Primal Mysteries",
+        "amount": 864,
         "item": "Silver"
     },
     {
@@ -30910,26 +31441,89 @@
         "e": 2,
         "waves": 1,
         "phase": 0,
-        "area": "River Crossing",
-        "amount": 3,
-        "item": "Essence"
+        "area": "Undrian Gate",
+        "amount": 593,
+        "item": "Silver"
     },
     {
         "type": "Quest",
         "e": 2,
         "waves": 1,
         "phase": 0,
-        "area": "River Crossing",
+        "area": "Undrian Gate",
         "amount": 1,
-        "item": "Indigo Flux"
+        "item": "Minor Purge Rune"
     },
     {
         "type": "Quest",
         "e": 2,
         "waves": 1,
         "phase": 0,
-        "area": "River Crossing",
-        "amount": 294,
+        "area": "Undrian Gate",
+        "amount": 597,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Undrian Gate",
+        "amount": 1,
+        "item": "Minor Purge Rune"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Undrian Gate",
+        "amount": 660,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Undrian Gate",
+        "amount": 515,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Undrian Gate",
+        "amount": 599,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Undrian Gate",
+        "amount": 1,
+        "item": "Minor Frost Rune"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Undrian Gate",
+        "amount": 701,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Undrian Gate",
+        "amount": 642,
         "item": "Silver"
     },
     {
@@ -30947,7 +31541,7 @@
         "waves": 1,
         "phase": 0,
         "area": "River Crossing",
-        "amount": 304,
+        "amount": 215,
         "item": "Silver"
     },
     {
@@ -30956,7 +31550,25 @@
         "waves": 1,
         "phase": 0,
         "area": "River Crossing",
-        "amount": 4,
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 412,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 3,
         "item": "Essence"
     },
     {
@@ -30965,7 +31577,16 @@
         "waves": 1,
         "phase": 0,
         "area": "River Crossing",
-        "amount": 288,
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 390,
         "item": "Silver"
     },
     {
@@ -30992,6 +31613,60 @@
         "waves": 1,
         "phase": 0,
         "area": "River Crossing",
+        "amount": 469,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 386,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 469,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
         "amount": 4,
         "item": "Essence"
     },
@@ -31001,7 +31676,88 @@
         "waves": 1,
         "phase": 0,
         "area": "River Crossing",
-        "amount": 649,
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 538,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 698,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 275,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 1,
+        "item": "Ember of Enduring Fire"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "River Crossing",
+        "amount": 443,
         "item": "Silver"
     },
     {
@@ -31019,17 +31775,8 @@
         "waves": 1,
         "phase": 0,
         "area": "River Crossing",
-        "amount": 303,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
         "amount": 1,
-        "item": "Ember of Enduring Fire"
+        "item": "Gold Shield"
     },
     {
         "type": "Quest",
@@ -31037,61 +31784,7 @@
         "waves": 1,
         "phase": 0,
         "area": "River Crossing",
-        "amount": 4,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 407,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 1,
-        "item": "Ember of Enduring Fire"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 594,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 4,
-        "item": "Essence"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 1,
-        "item": "Ember of Enduring Fire"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
-        "amount": 407,
+        "amount": 398,
         "item": "Silver"
     },
     {
@@ -31109,8 +31802,8 @@
         "waves": 1,
         "phase": 0,
         "area": "River Crossing",
-        "amount": 1,
-        "item": "Ember of Enduring Fire"
+        "amount": 287,
+        "item": "Silver"
     },
     {
         "type": "Quest",
@@ -31118,7 +31811,7 @@
         "waves": 1,
         "phase": 0,
         "area": "River Crossing",
-        "amount": 4,
+        "amount": 5,
         "item": "Essence"
     },
     {
@@ -31126,34 +31819,25 @@
         "e": 2,
         "waves": 1,
         "phase": 0,
-        "area": "River Crossing",
-        "amount": 528,
-        "item": "Silver"
-    },
-    {
-        "type": "Quest",
-        "e": 2,
-        "waves": 1,
-        "phase": 0,
-        "area": "River Crossing",
+        "area": "Broken Willow",
         "amount": 1,
-        "item": "Ember of Enduring Fire"
+        "item": "Rough Stone (Quest)"
     },
     {
         "type": "Quest",
         "e": 2,
         "waves": 1,
         "phase": 0,
-        "area": "River Crossing",
-        "amount": 548,
-        "item": "Silver"
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Flathead Stones"
     },
     {
         "type": "Quest",
         "e": 2,
         "waves": 1,
         "phase": 0,
-        "area": "River Crossing",
+        "area": "Broken Willow",
         "amount": 3,
         "item": "Essence"
     },
@@ -31162,16 +31846,79 @@
         "e": 2,
         "waves": 1,
         "phase": 0,
-        "area": "River Crossing",
-        "amount": 1,
-        "item": "Ember of Enduring Fire"
+        "area": "Broken Willow",
+        "amount": 3,
+        "item": "Essence"
     },
     {
         "type": "Quest",
         "e": 2,
         "waves": 1,
         "phase": 0,
-        "area": "River Crossing",
+        "area": "Broken Willow",
+        "amount": 677,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 677,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Rough Stone (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Vile Extract"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 768,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Flathead Stones"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Vile Extract"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
         "amount": 4,
         "item": "Essence"
     },
@@ -31180,8 +31927,989 @@
         "e": 2,
         "waves": 1,
         "phase": 0,
-        "area": "River Crossing",
-        "amount": 208,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Rough Stone (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 667,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Rough Stone (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 672,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Flathead Stones"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Rough Stone (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Minor Blight Rune"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 806,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Rough Stone (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 729,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 4,
+        "item": "Essense"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Vile Extract"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 536,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Vile Extract"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Flathead Stones"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 702,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 1,
+        "item": "Rough Stone (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 444,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Broken Willow",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Dragon Pendant (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Lilywort Petals (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 343,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Dragon Pendant (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Fell Leaf"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 295,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Minor Fire Rune"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Dragon Pendant (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 519,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Dragon Pendant (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 381,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Undead Ichor"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 619,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Dragon Pendant (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Lilywort Petals (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 316,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Dragon Pendant (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Minor Spirit Rune"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Dragon Pendant (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Lilywort Petals (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 361,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Lilywort Petals (Quest)"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 362,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 1,
+        "waves": 1,
+        "phase": 0,
+        "area": "Graycoast Bog",
+        "amount": 1,
+        "item": "Dragon Pendant (Quest)"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Attack at Dawn",
+        "amount": 379,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Attack at Dawn",
+        "amount": 280,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Attack at Dawn",
+        "amount": 261,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Attack at Dawn",
+        "amount": 392,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Attack at Dawn",
+        "amount": 431,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Attack at Dawn",
+        "amount": 382,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Attack at Dawn",
+        "amount": 359,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 349,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 417,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Minor Spirit Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Mountain Lichen"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 359,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 486,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Mountain Lichen"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 471,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Large Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Large Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 431,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 383,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 437,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 436,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 448,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 371,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 399,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 377,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 408,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 472,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 493,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 450,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Minor Break Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 391,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 394,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Mountain Lichen"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 418,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Medium Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 399,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Large Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 417,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Large Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Minor Spirit Rune"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Mountain Lichen"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 441,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 425,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 451,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 449,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Mountain Lichen"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 452,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 426,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 450,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Large Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Large Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 339,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 1,
+        "item": "Large Healing Potion"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Attack at Dawn",
+        "amount": 451,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Attack at Dawn",
+        "amount": 489,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Attack at Dawn",
+        "amount": 482,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Attack at Dawn",
+        "amount": 451,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Attack at Dawn",
+        "amount": 518,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Attack at Dawn",
+        "amount": 417,
+        "item": "Silver"
+    },
+    {
+        "type": "Raid",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Attack at Dawn",
+        "amount": 507,
         "item": "Silver"
     }
 ]
