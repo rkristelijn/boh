@@ -1,0 +1,41 @@
+<div class='panel panel-primary'>
+    <div class='panel-heading'>
+        <div class="row">
+            <div class="col-sm-12">Raid Schedule ({{ schedule.length }})</div>
+        </div>
+    </div>
+
+    <div class='panel-body' *ngIf='schedule.length === 0'>
+        <div class="row">
+            <div class="col-xs-12">
+                <p>Loading data... just have to be patient..</p>
+            </div>
+        </div>
+    </div>
+
+    <div class='panel-body' *ngIf='schedule.length > 0'>
+        <div class='table-responsive'>
+            <table class='table'>
+                <thead>
+                    <tr>
+                        <th (click)="sortOn($event, 'guild')">Guild<span [class]="getClass('guild')"></span></th>
+                        <th (click)="sortOn($event, 'serverTime')">Server Time<span [class]="getClass('serverTime')"></span></th>
+                        <th (click)="sortOn($event, 'raid')">Raid<span [class]="getClass('raid')"></span></th>   
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><input type='text' name="guildFilter" [(ngModel)]='guildFilter' placeholder="Filter guild..." /></td>
+                        <td></td>
+                        <td><input type='text' name="raidFilter" [(ngModel)]='raidFilter' placeholder="Filter raid..." /></td>
+                    </tr>
+                    <tr *ngFor="let item of schedule | stringFilter:guildFilter:'guild' | stringFilter:raidFilter:'raid' | orderBy : [sort] ">
+                        <td>{{ item.guild }} </td>
+                        <td>{{ item.serverTime }} </td>
+                        <td>{{ item.raid }} </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

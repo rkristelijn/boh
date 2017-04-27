@@ -11,6 +11,7 @@ export class DataService {
     urlRecipes: string = './app/data/recipe-list.json';
     urlRaids: string = './app/data/raid-list.json';
     urlGear: string = './app/data/gear-list.json';
+    urlSchedule: string = './app/data/schedule.json';
 
     materials: any[];
     recipes: any[];
@@ -18,6 +19,7 @@ export class DataService {
     locations: any;
     gear: any[];
     drops: any[];
+    schedule: any[];
 
     /** empty constructure with dependancy injection for HTTP calls
      * @param http 
@@ -115,4 +117,16 @@ export class DataService {
                 });
         }
     }
+
+    getSchedule():Observable<any> {
+        if (this.drops) {
+            return Observable.of(this.schedule);
+        } else {
+            return this.http.get(this.urlSchedule)
+                .map(res => res.json())
+                .do((data) => {
+                    this.schedule = data;
+                });
+        }
+    }   
 }

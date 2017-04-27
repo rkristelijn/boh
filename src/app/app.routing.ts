@@ -7,6 +7,7 @@ import { LocationsComponent } from './map/location.component';
 import { RaidListComponent } from './raids/raid-list.component';
 import { GearListComponent } from './gear/gear.component';
 import { DropComponent } from "app/drop/drop.component";
+import { Schedule } from "app/schedule/schedule";
 
 const appRoutes: Routes = [
   {
@@ -32,6 +33,10 @@ const appRoutes: Routes = [
   {
     path: 'drops',
     component: DropComponent
+  },
+  {
+    path: 'schedule',
+    component: Schedule
   },
   {
     path: '',

@@ -18,6 +18,7 @@ export class DropComponent extends SortComponent implements OnInit {
     dropFilter: string;
     typeFilter: string;
     nameFilter: string;
+    
     constructor(private dataService: DataService, private activatedRoute: ActivatedRoute) { super(); }
     ngOnInit() {
         this.dataService.getDrops().subscribe(data => {
@@ -26,24 +27,18 @@ export class DropComponent extends SortComponent implements OnInit {
                 this.addItem(drop);
             }
             this.addDropRate();
-            //console.log(this.drops);
         });
     }
 
     //data manipulators
     addItem(drop) {
-        //console.log("processing", drop);
         let index = this.indexOfArea(drop.area, drop.phase);
-        //console.log("index", index);
         if (index === -1) {
-            //console.log("adding", drop);
             index = this.addArea(drop.area, drop.phase, drop.type, drop.e, drop.waves);
-            //console.log("new index:", index);
             this.addDrop(index, drop.amount, drop.item);
 
             //update onslaughter
             if(drop.item.toLocaleLowerCase() === "silver" && this.isOnslaught(drop.area, drop.phase)) {
-                console.log(drop.area, drop.phase, drop.waves);
                 this.drops[index]['waves'] = drop.waves;
             }
         } else {
@@ -51,7 +46,6 @@ export class DropComponent extends SortComponent implements OnInit {
 
             //update onslaughter
             if(drop.item.toLocaleLowerCase() === "silver" && this.isOnslaught(drop.area, drop.phase)) {
-                console.log("+", drop.area, drop.phase, drop.waves);
                 if(!this.drops[index]['waves'] || this.drops[index]['waves'] === -1) this.drops[index]['waves'] = drop.waves;
                 else this.drops[index]['waves'] += drop.waves;
             }
@@ -74,29 +68,22 @@ export class DropComponent extends SortComponent implements OnInit {
     }
 
     addDrop(index: number, amount: number, item: string) {
-        //console.log("adding drop", item, "count is", this.drops[index].count);
         //increase the counter
         if (item.toLocaleLowerCase() === "silver") this.drops[index].count++;
 
-        //console.log("count is", this.drops[index].count);
-
         let dropIndex = this.indexOfDrop(this.drops[index].drops, item);
-        //console.log("dropIndex", dropIndex);
         if (dropIndex === -1) {
-            //console.log("adding drop", item);
             this.drops[index].drops.push({
                 item: item,
                 amount: amount
             });
         } else {
-            //console.log("increasing drop", item);
             this.drops[index].drops[dropIndex].amount += amount;
         }
     }
 
     addDropRate() {
         for (let area of this.drops) {
-            //console.log("calculating droprate for", area.area, area.phase);
             let ePerWave = area.ePerWave;
             let count = area.count;
             let waves = area.waves;

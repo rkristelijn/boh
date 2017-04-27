@@ -1,0 +1,345 @@
+[
+    {
+        "guild": "Knights of the Old Republic",
+        "serverTime": "00:00",
+        "raid": "The Shadow Returns"
+    },
+    {
+        "guild": "Knights of the Old Republic",
+        "serverTime": "03:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Knights of the Old Republic",
+        "serverTime": "06:00",
+        "raid": "The Shadow Returns"
+    },
+    {
+        "guild": "Knights of the Old Republic",
+        "serverTime": "09:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Knights of the Old Republic",
+        "serverTime": "12:00",
+        "raid": "The Shadow Returns"
+    },
+    {
+        "guild": "Knights of the Old Republic",
+        "serverTime": "15:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Knights of the Old Republic",
+        "serverTime": "18:00",
+        "raid": "The Shadow Returns"
+    },
+    {
+        "guild": "Knights of the Old Republic",
+        "serverTime": "21:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Helmsmens Jacuzzi",
+        "serverTime": "12:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Helmsmens Jacuzzi",
+        "serverTime": "17:00",
+        "raid": "The Shadow Returns"
+    },
+    {
+        "guild": "Helmsmens Jacuzzi",
+        "serverTime": "20:30",
+        "raid": "Primal Mysteries"
+    },
+    {
+        "guild": "Helmsmens Jacuzzi",
+        "serverTime": "00:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Helmsmens Jacuzzi",
+        "serverTime": "02:30",
+        "raid": "Primal Mysteries"
+    },
+    {
+        "guild": "Helmsmens Jacuzzi",
+        "serverTime": "05:00",
+        "raid": "The Shadow Returns"
+    },
+    {
+        "guild": "Den of Chaos",
+        "serverTime": "11:30",
+        "raid": "Karnak's Final Stand"
+    },
+    {
+        "guild": "Den of Chaos",
+        "serverTime": "15:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Den of Chaos",
+        "serverTime": "18:30",
+        "raid": "The Shadow Returns"
+    },
+    {
+        "guild": "Den of Chaos",
+        "serverTime": "22:30",
+        "raid": "Primal Mysteries"
+    },
+    {
+        "guild": "Den of Chaos",
+        "serverTime": "02:00",
+        "raid": "The Shadow Returns"
+    },
+    {
+        "guild": "Fizzbears of the Spoon",
+        "serverTime": "23:00",
+        "raid": "Primal Mysteries"
+    },
+    {
+        "guild": "Fizzbears of the Spoon",
+        "serverTime": "14:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Fizzbears of the Spoon",
+        "serverTime": "17:00",
+        "raid": "Primal Mysteries"
+    },
+    {
+        "guild": "Fizzbears of the Spoon",
+        "serverTime": "20:00",
+        "raid": "The Shadow Returns"
+    },
+    {
+        "guild": "Fizzbears of the Spoon",
+        "serverTime": "23:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Fizzbears of the Spoon",
+        "serverTime": "11:00",
+        "raid": "Primal Mysteries"
+    },
+    {
+        "guild": "Sarkasian Slayers",
+        "serverTime": "09:00",
+        "raid": "Karnak's Final Stand"
+    },
+    {
+        "guild": "Sarkasian Slayers",
+        "serverTime": "13:00",
+        "raid": "Primal Mysteries"
+    },
+    {
+        "guild": "Sarkasian Slayers",
+        "serverTime": "18:00",
+        "raid": "Crypt of Corruption"
+    },
+    {
+        "guild": "Sarkasian Slayers",
+        "serverTime": "20:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Die Drachenjäger",
+        "serverTime": "11:00",
+        "raid": "Karnak's Final Stand"
+    },
+    {
+        "guild": "Die Drachenjäger",
+        "serverTime": "15:30",
+        "raid": "Primal Mysteries"
+    },
+    {
+        "guild": "Die Drachenjäger",
+        "serverTime": "19:30",
+        "raid": "Crystallized Vengeance"
+    },
+    {
+        "guild": "Unholy Grounds",
+        "serverTime": "12:45",
+        "raid": "Karnak's Final Stand"
+    },
+    {
+        "guild": "Unholy Grounds",
+        "serverTime": "17:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Unholy Grounds",
+        "serverTime": "21:00",
+        "raid": "Primal Mysteries"
+    },
+    {
+        "guild": "Unholy Grounds",
+        "serverTime": "01:00",
+        "raid": "Legacy of Blades"
+    },
+    {
+        "guild": "Eroi di Glenfort",
+        "serverTime": "05:00",
+        "raid": "Karnak's Final Stand"
+    },
+    {
+        "guild": "Eroi di Glenfort",
+        "serverTime": "11:00",
+        "raid": "Karnak's Final Stand"
+    },
+    {
+        "guild": "Eroi di Glenfort",
+        "serverTime": "13:30",
+        "raid": "Battle of the Vile Gate"
+    },
+    {
+        "guild": "Eroi di Glenfort",
+        "serverTime": "18:30",
+        "raid": "Primal Mysteries"
+    },
+    {
+        "guild": "Flammenschwert"
+    },
+    {
+        "guild": "Go Big Red"
+    },
+    {
+        "guild": "New Blood Warriors",
+        "serverTime": "20:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "New Blood Warriors",
+        "serverTime": "02:00",
+        "raid": "The Shadow Returns"
+    },
+    {
+        "guild": "New Blood Warriors",
+        "serverTime": "06:00",
+        "raid": "The Shadow Returns"
+    },
+    {
+        "guild": "New Blood Warriors",
+        "serverTime": "12:00",
+        "raid": "The Shadow Returns"
+    },
+    {
+        "guild": "Scions of Abbadon",
+        "serverTime": "16:00",
+        "raid": "Karnak's Final Stand"
+    },
+    {
+        "guild": "Scions of Abbadon",
+        "serverTime": "20:00",
+        "raid": "Cursed Keep"
+    },
+    {
+        "guild": "Scions of Abbadon",
+        "serverTime": "00:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Blood Fist",
+        "serverTime": "23:00",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Blood Fist",
+        "serverTime": "03:00",
+        "raid": "Karnak's Final Stand"
+    },
+    {
+        "guild": "Virtue",
+        "serverTime": "05:30",
+        "raid": "Karnak's Final Stand"
+    },
+    {
+        "guild": "Virtue",
+        "serverTime": "18:00",
+        "raid": "Crystallized Vengeance"
+    },
+    {
+        "guild": "Badgers Uprising",
+        "serverTime": "17:00",
+        "raid": "Crypt of Corruption"
+    },
+    {
+        "guild": "Badgers Uprising",
+        "serverTime": "21:00",
+        "raid": "Legacy of Blades"
+    },
+    {
+        "guild": "Badgers Uprising",
+        "serverTime": "01:30",
+        "raid": "Crystallized Vengeance"
+    },
+    {
+        "guild": "La Fenice"
+    },
+    {
+        "guild": "The Kingdom"
+    },
+    {
+        "guild": "Axiom"
+    },
+    {
+        "guild": "justforfun",
+        "serverTime": "10:30",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "justforfun",
+        "serverTime": "01:30",
+        "raid": "Primal Mysteries"
+    },
+    {
+        "guild": "justforfun",
+        "serverTime": "06:30",
+        "raid": "Rise of the Spider Queen"
+    },
+    {
+        "guild": "Apocalypsis Rex",
+        "serverTime": "08:30",
+        "raid": "Hunted in the Mist"
+    },
+    {
+        "guild": "Apocalypsis Rex",
+        "serverTime": "13:30",
+        "raid": "Hunted in the Mist"
+    },
+    {
+        "guild": "Apocalypsis Rex",
+        "serverTime": "18:00",
+        "raid": "Crystallized Vengeance"
+    },
+    {
+        "guild": "Masters Training Club",
+        "serverTime": "18:00",
+        "raid": "Karnak's Final Stand"
+    },
+    {
+        "guild": "Masters Training Club",
+        "serverTime": "13:00",
+        "raid": "Hunted in the Mist"
+    },
+    {
+        "guild": "Masters Training Club",
+        "serverTime": "23:00",
+        "raid": "Battle of the Vile Gate"
+    },
+    {
+        "guild": "Deus Ex",
+        "serverTime": "15:00",
+        "raid": "Karnak's Final Stand"
+    },
+    {
+        "guild": "Deus Ex",
+        "serverTime": "22:00",
+        "raid": "Primal Mysteries"
+    },
+    {
+        "guild": "Dragonborns On Fire"
+    }
+]

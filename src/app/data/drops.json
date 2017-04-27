@@ -26764,5 +26764,329 @@
         "area": "Karnak's Final Stand",
         "amount": 1,
         "item": "Refined Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 1006,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 1,
+        "item": "Minor Break Rune"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 844,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 1,
+        "item": "Gold Shield"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 840,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 920,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 923,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 963,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 962,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 909,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 878,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 1,
+        "item": "Indigo Flux"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 859,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 1,
+        "item": "Powerful Healing Potion"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 952,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 928,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 927,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 1036,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 1,
+        "item": "Minor Spirit Rune"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 745,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 0,
+        "area": "Third Floor",
+        "amount": 5,
+        "item": "Essence"
     }
 ]
