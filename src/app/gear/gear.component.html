@@ -18,7 +18,7 @@
                 <thead>
                     <tr>
                         <th (click)="sortOn($event, 'name')">Name<span [class]="getClass('name')"></span></th>
-                        <th (click)="sortOn($event, 'class')">Class<span [class]="getClass('class')"></span></th>
+                        <th>Class</th>
                         <th>Drops</th>
                         <th (click)="sortOn($event, 'type')">Type<span [class]="getClass('type')"></span></th>
                         <th (click)="sortOn($event, 'tier')">Tier<span [class]="getClass('tier')"></span></th>
@@ -39,7 +39,18 @@
                         <td>
                             <input type='text' name="nameFilter" [(ngModel)]='nameFilter' placeholder="Filter name..." />
                         </td>
-                        <td>&nbsp;</td>
+                        <td>
+                            <select name="classFilter" [(ngModel)]='classFilter'>
+                                <!--<option *ngFor="let option of getDistinct('type')">{{ option }}</option> throws error-->
+                                <option></option>
+                                <option>War Mage</option>
+                                <option>Justicar</option>
+                                <option>Shadow Walker</option>
+                                <option>Frost Knight</option>
+                                <option>Flame Warden</option>
+                                <option>Inquisitor</option>
+                            </select>
+                        </td>
                         <td>&nbsp;</td>
                         <td>
                             <select name="typeFilter" [(ngModel)]='typeFilter'>
@@ -100,6 +111,7 @@
                                 <option>Light</option>
                                 <option>Sword</option>
                                 <option>Staff</option>
+                                <option>Mail</option>
                                 <option>?</option>
                             </select>
                         </td>
@@ -112,7 +124,9 @@
                             | stringFilter:tierFilter:'tier':true 
                             | orderBy : [sort] ">
                         <td>{{ item.name }}</td>
-                        <td>{{ item.class }}</td>
+                        <td>
+                           <div *ngFor="let class of item.class">{{ class }}</div> 
+                        </td>
                         <td>
                             <div *ngFor="let drop of item.drop">
                                 {{ drop }}

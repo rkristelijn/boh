@@ -1,7 +1,9 @@
 [
     {
         "name": "Glenfort Cap",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -17,7 +19,9 @@
     },
     {
         "name": "Acolyte Hat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop",
             "Quest"
@@ -34,7 +38,9 @@
     },
     {
         "name": "Felstalker Cap",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -50,7 +56,9 @@
     },
     {
         "name": "Berserker Helm",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -66,7 +74,9 @@
     },
     {
         "name": "Dawnrock Hood",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop",
             "Quest?"
@@ -83,7 +93,9 @@
     },
     {
         "name": "Vengeance Hood",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -99,7 +111,9 @@
     },
     {
         "name": "Darkbane Crown",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -115,7 +129,9 @@
     },
     {
         "name": "Dragonscale Hood",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -131,7 +147,9 @@
     },
     {
         "name": "Conjured Cap",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop",
             "Quest?"
@@ -148,7 +166,9 @@
     },
     {
         "name": "Deathblight Hat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -164,7 +184,9 @@
     },
     {
         "name": "Shattered Soal Cap",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -180,7 +202,9 @@
     },
     {
         "name": "Valorstrike Helm",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -196,7 +220,9 @@
     },
     {
         "name": "Soulstrike Cap",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -212,7 +238,9 @@
     },
     {
         "name": "Champion Crown",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -228,7 +256,9 @@
     },
     {
         "name": "Demonsbane Hood",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -244,7 +274,9 @@
     },
     {
         "name": "Dauntless Hat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -260,7 +292,9 @@
     },
     {
         "name": "Blood Oath Hood",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -276,7 +310,9 @@
     },
     {
         "name": "Glenfort Shirt",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -292,7 +328,9 @@
     },
     {
         "name": "Acolyte Shirt",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -308,7 +346,9 @@
     },
     {
         "name": "Felstalker Doublet",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -324,7 +364,9 @@
     },
     {
         "name": "Berserker Vestment",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -340,7 +382,9 @@
     },
     {
         "name": "Dawnrock Tabard",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -356,7 +400,9 @@
     },
     {
         "name": "Dragonscale Robe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -372,7 +418,9 @@
     },
     {
         "name": "Conjured Robe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -388,7 +436,9 @@
     },
     {
         "name": "Deathblight Robe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -404,7 +454,9 @@
     },
     {
         "name": "Shattered Soul Tunic",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -420,7 +472,9 @@
     },
     {
         "name": "Valorstrike Robe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -436,7 +490,9 @@
     },
     {
         "name": "Soulstrike Tunic",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -452,7 +508,9 @@
     },
     {
         "name": "Champion Vestment",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -468,7 +526,9 @@
     },
     {
         "name": "Demonsbane Raiment",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -484,7 +544,9 @@
     },
     {
         "name": "Dauntless Vestment",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -500,7 +562,9 @@
     },
     {
         "name": "Blood Oath Raiment",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -516,7 +580,9 @@
     },
     {
         "name": "Glenfort Handwraps",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -532,7 +598,9 @@
     },
     {
         "name": "Acolyte Handwraps",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -548,7 +616,9 @@
     },
     {
         "name": "Felstalker Handwraps",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -564,7 +634,9 @@
     },
     {
         "name": "Berserker Bracers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -580,7 +652,9 @@
     },
     {
         "name": "Dawnrock Handguards",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -596,7 +670,9 @@
     },
     {
         "name": "Vengeance Gloves",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -612,7 +688,9 @@
     },
     {
         "name": "Darkbane Bracers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -628,7 +706,9 @@
     },
     {
         "name": "Dragonscale Gloves",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -644,7 +724,9 @@
     },
     {
         "name": "Conjured Gloves",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -660,7 +742,9 @@
     },
     {
         "name": "Deathblight Gloves",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -676,7 +760,9 @@
     },
     {
         "name": "Shattered Soul Handguards",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -692,7 +778,9 @@
     },
     {
         "name": "Valorstrike Handguards",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -708,7 +796,9 @@
     },
     {
         "name": "Soulstrike Handguards",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -724,7 +814,9 @@
     },
     {
         "name": "Champion Bracers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -740,7 +832,9 @@
     },
     {
         "name": "Demonsbane Gloves",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -756,7 +850,9 @@
     },
     {
         "name": "Dauntless Handguards",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -772,7 +868,9 @@
     },
     {
         "name": "Blood Oath Handguards",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -788,7 +886,9 @@
     },
     {
         "name": "Glenfort Pants",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -804,7 +904,9 @@
     },
     {
         "name": "Acolyte Leggings",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -820,7 +922,9 @@
     },
     {
         "name": "Felstalker Leggings",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -836,7 +940,9 @@
     },
     {
         "name": "Berserker Leggings",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -852,7 +958,9 @@
     },
     {
         "name": "Dawnrock Pants",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -868,7 +976,9 @@
     },
     {
         "name": "Vengeance Leggings",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -884,7 +994,9 @@
     },
     {
         "name": "Darkbane Pants",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -900,7 +1012,9 @@
     },
     {
         "name": "Dragonscale Leggings",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -916,7 +1030,9 @@
     },
     {
         "name": "Conjured Leggings",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -932,7 +1048,9 @@
     },
     {
         "name": "Deathblight Leggings",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -948,7 +1066,9 @@
     },
     {
         "name": "Shattered Soul Pants",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -964,7 +1084,9 @@
     },
     {
         "name": "Valorstrike Pants",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -980,7 +1102,9 @@
     },
     {
         "name": "Soulstrike Pants",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -996,7 +1120,9 @@
     },
     {
         "name": "Champion Leggings",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1012,7 +1138,9 @@
     },
     {
         "name": "Demonsbane Pants",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1028,7 +1156,9 @@
     },
     {
         "name": "Dauntless Pants",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1044,7 +1174,9 @@
     },
     {
         "name": "Blood Oath Pants",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1060,7 +1192,9 @@
     },
     {
         "name": "Glenfort Shoes",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1076,7 +1210,9 @@
     },
     {
         "name": "Acolyte Boots",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1092,7 +1228,9 @@
     },
     {
         "name": "Felstalker Boots",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1108,7 +1246,9 @@
     },
     {
         "name": "Berseker Shoes",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1124,7 +1264,9 @@
     },
     {
         "name": "Dawnrock Boots",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1140,7 +1282,9 @@
     },
     {
         "name": "Vengeance Boots",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1156,7 +1300,9 @@
     },
     {
         "name": "Darkbane Boots",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1172,7 +1318,9 @@
     },
     {
         "name": "Dragonscale Shoes",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1188,7 +1336,9 @@
     },
     {
         "name": "Conjured Boots",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1204,7 +1354,9 @@
     },
     {
         "name": "Deathblight Slippers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1220,7 +1372,9 @@
     },
     {
         "name": "Shattered Soul Slippers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1236,7 +1390,9 @@
     },
     {
         "name": "Valorstrike Boots",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1252,7 +1408,9 @@
     },
     {
         "name": "Soulstrike Slippers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1268,7 +1426,9 @@
     },
     {
         "name": "Champion Slippers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1284,7 +1444,9 @@
     },
     {
         "name": "Demonsbane Shoes",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1300,7 +1462,9 @@
     },
     {
         "name": "Dauntless Shoes",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1316,7 +1480,9 @@
     },
     {
         "name": "Blood Oath Boots",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1332,7 +1498,9 @@
     },
     {
         "name": "Glenfort Cloak",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1348,7 +1516,9 @@
     },
     {
         "name": "Acolyte Cape",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1364,7 +1534,9 @@
     },
     {
         "name": "Felstalker Cloak",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1380,7 +1552,9 @@
     },
     {
         "name": "Berserker Cloak",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1396,7 +1570,9 @@
     },
     {
         "name": "Dawnrock Cape",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1412,7 +1588,9 @@
     },
     {
         "name": "Vengeance Cape",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1428,7 +1606,9 @@
     },
     {
         "name": "Darkbane Cape",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1444,7 +1624,9 @@
     },
     {
         "name": "Dragonscale Cape",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1460,7 +1642,9 @@
     },
     {
         "name": "Conjured Cloak",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1476,7 +1660,9 @@
     },
     {
         "name": "Deathblight Cloak",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1492,7 +1678,9 @@
     },
     {
         "name": "Valorstrike Cloak",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1508,7 +1696,9 @@
     },
     {
         "name": "Soulstrike Cloak",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1524,7 +1714,9 @@
     },
     {
         "name": "Champion Cape",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1540,7 +1732,9 @@
     },
     {
         "name": "Demonsbane Mantle",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1556,7 +1750,9 @@
     },
     {
         "name": "Dauntless Cape",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1572,7 +1768,9 @@
     },
     {
         "name": "Blood Oath Cloak",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1588,7 +1786,9 @@
     },
     {
         "name": "Berserker Pendant",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1603,7 +1803,9 @@
     },
     {
         "name": "Dawnrock Talisman",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1618,7 +1820,9 @@
     },
     {
         "name": "Vengeance Pendant",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1633,7 +1837,9 @@
     },
     {
         "name": "Darkbane Talisman",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1648,7 +1854,9 @@
     },
     {
         "name": "Dragonscale Pendant",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1663,7 +1871,9 @@
     },
     {
         "name": "Conjured Talisman",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1678,7 +1888,9 @@
     },
     {
         "name": "Deathblight Amulet",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1693,7 +1905,9 @@
     },
     {
         "name": "Shattered Soul Pendant",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1708,7 +1922,9 @@
     },
     {
         "name": "Valorstrike Pendant",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1723,7 +1939,9 @@
     },
     {
         "name": "Soulstrike Pendant",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1738,7 +1956,9 @@
     },
     {
         "name": "Champion Talisman",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1753,7 +1973,9 @@
     },
     {
         "name": "Demonsbane Necklace",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1768,7 +1990,9 @@
     },
     {
         "name": "Dauntless Pendant",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1783,7 +2007,9 @@
     },
     {
         "name": "Blood Oath Talisman",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1798,7 +2024,9 @@
     },
     {
         "name": "Dawnrock Ring",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1813,7 +2041,9 @@
     },
     {
         "name": "Vengeance Band",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1828,7 +2058,9 @@
     },
     {
         "name": "Darkbane Ring",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1843,7 +2075,9 @@
     },
     {
         "name": "Dragonscale Band",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1858,7 +2092,9 @@
     },
     {
         "name": "Conjured Ring",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1873,7 +2109,9 @@
     },
     {
         "name": "Deathblight Ring",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1888,7 +2126,9 @@
     },
     {
         "name": "Shattered Soul Band",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1903,7 +2143,9 @@
     },
     {
         "name": "Valorstrike Ring",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1918,7 +2160,9 @@
     },
     {
         "name": "Soulstrike Band",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1933,7 +2177,9 @@
     },
     {
         "name": "Champion Band",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1948,7 +2194,9 @@
     },
     {
         "name": "Demonsbane Ring",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1963,7 +2211,9 @@
     },
     {
         "name": "Dauntless Band",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1978,7 +2228,9 @@
     },
     {
         "name": "Blood Oath Band",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -1993,7 +2245,9 @@
     },
     {
         "name": "Dull Hatchet",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2012,7 +2266,9 @@
     },
     {
         "name": "Rusty Steel Sword",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2031,7 +2287,9 @@
     },
     {
         "name": "Francisca",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2050,7 +2308,9 @@
     },
     {
         "name": "Basic Falchion",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2069,7 +2329,9 @@
     },
     {
         "name": "Axe of Igorot",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2088,7 +2350,9 @@
     },
     {
         "name": "Chopper",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2107,7 +2371,9 @@
     },
     {
         "name": "Tungi Axe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2126,7 +2392,9 @@
     },
     {
         "name": "Korra",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2145,7 +2413,9 @@
     },
     {
         "name": "Great Axe of Igorot",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2164,7 +2434,9 @@
     },
     {
         "name": "Fork-blade Cutter",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2183,7 +2455,9 @@
     },
     {
         "name": "Sharp Tarbizan",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2202,7 +2476,9 @@
     },
     {
         "name": "Obsidian Sword",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2221,7 +2497,9 @@
     },
     {
         "name": "Gilded Tarbizan",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2240,7 +2518,9 @@
     },
     {
         "name": "Royal Spatha",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2259,7 +2539,9 @@
     },
     {
         "name": "Death's Harbinger",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2278,7 +2560,9 @@
     },
     {
         "name": "Holy Blade",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2297,7 +2581,9 @@
     },
     {
         "name": "Double-Blade",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2316,7 +2602,9 @@
     },
     {
         "name": "Valdenian Edge",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2335,7 +2623,9 @@
     },
     {
         "name": "Dragon Axe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2354,7 +2644,9 @@
     },
     {
         "name": "Crystal Blade",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2373,7 +2665,9 @@
     },
     {
         "name": "Golden Francisca",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2392,7 +2686,9 @@
     },
     {
         "name": "Chief's Cutlass",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2411,7 +2707,9 @@
     },
     {
         "name": "Righteous Axe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2430,7 +2728,9 @@
     },
     {
         "name": "Bishop's Sword",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2449,7 +2749,9 @@
     },
     {
         "name": "Iron Francisca",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2468,7 +2770,9 @@
     },
     {
         "name": "Commander's Cutlass",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2487,7 +2791,9 @@
     },
     {
         "name": "Axe of the Ancients",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2506,7 +2812,9 @@
     },
     {
         "name": "Hero's Razor",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2525,7 +2833,9 @@
     },
     {
         "name": "Gilded Cleaver",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2544,7 +2854,9 @@
     },
     {
         "name": "Demon's Tooth",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2563,7 +2875,9 @@
     },
     {
         "name": "Justice's Edge",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2582,7 +2896,9 @@
     },
     {
         "name": "Khopesh of the Righteous",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2601,7 +2917,9 @@
     },
     {
         "name": "Lich Carver",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2620,7 +2938,9 @@
     },
     {
         "name": "Bloodweeper",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2639,7 +2959,9 @@
     },
     {
         "name": "Enchanted Stick",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2658,7 +2980,9 @@
     },
     {
         "name": "Moonsplit Staff",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2677,7 +3001,9 @@
     },
     {
         "name": "Sorcery Rod",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2696,7 +3022,9 @@
     },
     {
         "name": "Staff of Darkness",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2715,7 +3043,9 @@
     },
     {
         "name": "Warrior's Banner",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Coliseum Shop"
         ],
@@ -2730,7 +3060,9 @@
     },
     {
         "name": "Warrior's Stave",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2749,7 +3081,9 @@
     },
     {
         "name": "Marblewood Rod",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2768,7 +3102,9 @@
     },
     {
         "name": "Nithusian Wand",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2787,7 +3123,9 @@
     },
     {
         "name": "Bogmaster's Staff",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2806,7 +3144,9 @@
     },
     {
         "name": "Dragonswort Stave",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2825,7 +3165,9 @@
     },
     {
         "name": "Staff of the Undead",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2844,7 +3186,9 @@
     },
     {
         "name": "Ballast of the Heavens",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2863,7 +3207,9 @@
     },
     {
         "name": "Aurous Stave",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2882,7 +3228,9 @@
     },
     {
         "name": "Celestial Crescent",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2901,7 +3249,9 @@
     },
     {
         "name": "Staff of the Cobra King",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2920,7 +3270,9 @@
     },
     {
         "name": "Solaris",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2939,7 +3291,9 @@
     },
     {
         "name": "Sceptre of Victory",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2958,7 +3312,9 @@
     },
     {
         "name": "Dragonsbane",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2977,7 +3333,9 @@
     },
     {
         "name": "Splintered Buckler",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -2995,7 +3353,9 @@
     },
     {
         "name": "Kite Shield",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3013,7 +3373,9 @@
     },
     {
         "name": "Officer's Kite Shield",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3031,7 +3393,9 @@
     },
     {
         "name": "Vintain's Buckler",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3049,7 +3413,9 @@
     },
     {
         "name": "Captain's Buckler",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3067,7 +3433,9 @@
     },
     {
         "name": "Royal Buckler",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3085,7 +3453,9 @@
     },
     {
         "name": "Royal Buckler",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3103,7 +3473,9 @@
     },
     {
         "name": "Shield of the Occult",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3121,7 +3493,9 @@
     },
     {
         "name": "Burnished Shield of Blight",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3139,7 +3513,9 @@
     },
     {
         "name": "Shield of Nil",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3157,7 +3533,9 @@
     },
     {
         "name": "Elite Heater Shield",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3175,7 +3553,9 @@
     },
     {
         "name": "Hunter's Trophy Shield",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3193,7 +3573,9 @@
     },
     {
         "name": "Onyx Heater Shield",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3211,7 +3593,9 @@
     },
     {
         "name": "Shield of the Temple",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3229,7 +3613,9 @@
     },
     {
         "name": "Shield of the Void",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3247,7 +3633,9 @@
     },
     {
         "name": "Buckler of Defiance",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3265,7 +3653,9 @@
     },
     {
         "name": "Essence Infused Barricade",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3281,18 +3671,11 @@
             "amount": 2655
         }
     },
-    
-
-
-
-
-
-
-
-
     {
         "name": "Circled of Perpetual Flame",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3308,7 +3691,9 @@
     },
     {
         "name": "Stylish Top Hat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Quest?"
         ],
@@ -3324,7 +3709,9 @@
     },
     {
         "name": "Arcanist's Axe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3343,7 +3730,9 @@
     },
     {
         "name": "Ravager's Scimitar",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3362,7 +3751,9 @@
     },
     {
         "name": "Doomshard Staff",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3381,7 +3772,9 @@
     },
     {
         "name": "Executor's Shield",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3399,7 +3792,9 @@
     },
     {
         "name": "Dragonmaw Axe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3418,7 +3813,9 @@
     },
     {
         "name": "Ravenspire Sword",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3437,7 +3834,9 @@
     },
     {
         "name": "Lunar Crescent",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3456,7 +3855,9 @@
     },
     {
         "name": "Carapace Shield",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Majerio's Shop"
         ],
@@ -3474,7 +3875,9 @@
     },
     {
         "name": "Twilight Order Hat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3490,7 +3893,9 @@
     },
     {
         "name": "Twilight Order Robe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3506,7 +3911,9 @@
     },
     {
         "name": "Twilight Order Gloves",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3522,7 +3929,9 @@
     },
     {
         "name": "Twilight Order Leggings",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3538,7 +3947,9 @@
     },
     {
         "name": "Twilight Order Slippers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3554,7 +3965,9 @@
     },
     {
         "name": "Arcane Amulet",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3568,7 +3981,9 @@
     },
     {
         "name": "Arcane Cloak",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3583,7 +3998,9 @@
     },
     {
         "name": "Arcane Ring",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3597,7 +4014,9 @@
     },
     {
         "name": "Dragonstooth Scythe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3616,7 +4035,9 @@
     },
     {
         "name": "Bloodgem Sword",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3635,7 +4056,9 @@
     },
     {
         "name": "Doomwight Staff",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3654,7 +4077,9 @@
     },
     {
         "name": "Skirmisher's Shield",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3670,12 +4095,11 @@
             "amount": 525
         }
     },
-
-
-
     {
         "name": "Arcane Tower Hat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3691,7 +4115,9 @@
     },
     {
         "name": "Arcane Tower Vestment",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3707,7 +4133,9 @@
     },
     {
         "name": "Arcane Tower Bracers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3723,7 +4151,9 @@
     },
     {
         "name": "Arcane Tower Leggings",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3739,7 +4169,9 @@
     },
     {
         "name": "Arcane Tower Slippers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3755,7 +4187,9 @@
     },
     {
         "name": "Griffonwing Talisman",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3769,7 +4203,9 @@
     },
     {
         "name": "Griffonwing Cloak",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3784,7 +4220,9 @@
     },
     {
         "name": "Griffonwing Band",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3798,7 +4236,9 @@
     },
     {
         "name": "Runic Axe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3817,7 +4257,9 @@
     },
     {
         "name": "Bloodchannel Blade",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3836,7 +4278,9 @@
     },
     {
         "name": "Viper Staff",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3855,7 +4299,9 @@
     },
     {
         "name": "Hero's Shield",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3871,12 +4317,11 @@
             "amount": 1576
         }
     },
-
-
-
     {
         "name": "Dark Magus Hat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3892,7 +4337,9 @@
     },
     {
         "name": "Dark Magus Vestment",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3908,7 +4355,9 @@
     },
     {
         "name": "Dark Magus Handguards",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3924,7 +4373,9 @@
     },
     {
         "name": "Dark Magus Pants",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3940,7 +4391,9 @@
     },
     {
         "name": "Dark Magus Shoes",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3956,7 +4409,9 @@
     },
     {
         "name": "Grand Augur's Pendant",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3970,7 +4425,9 @@
     },
     {
         "name": "Grand Augur's Cloak",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3985,7 +4442,9 @@
     },
     {
         "name": "Grand Augur's Band",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -3999,7 +4458,9 @@
     },
     {
         "name": "Demonshard Axe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4018,7 +4479,9 @@
     },
     {
         "name": "Bonesplint Sword",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4037,7 +4500,9 @@
     },
     {
         "name": "Wyrmgem Staff",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4056,7 +4521,9 @@
     },
     {
         "name": "Goldreaver Shield",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4072,11 +4539,11 @@
             "amount": 4730
         }
     },
-
-
     {
         "name": "Cryptic Hollow Mask",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4092,7 +4559,9 @@
     },
     {
         "name": "Cryptic Hollow Raiment",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4108,7 +4577,9 @@
     },
     {
         "name": "Cryptic Hollow Bracers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4124,7 +4595,9 @@
     },
     {
         "name": "Cryptic Hollow Pants",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4140,7 +4613,9 @@
     },
     {
         "name": "Cryptic Hollow Boots",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4156,7 +4631,9 @@
     },
     {
         "name": "Archmagus Talisman",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4170,7 +4647,9 @@
     },
     {
         "name": "Archmagus Mantle",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4185,7 +4664,9 @@
     },
     {
         "name": "Archmagus Band",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4199,7 +4680,9 @@
     },
     {
         "name": "Requiem",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4218,7 +4701,9 @@
     },
     {
         "name": "Harvester",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4237,7 +4722,9 @@
     },
     {
         "name": "Hail Storm",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4256,7 +4743,9 @@
     },
     {
         "name": "Loyalist's Shield",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "PvP"
         ],
@@ -4272,15 +4761,11 @@
             "amount": 5913
         }
     },
-
-
-
-
-
-
     {
         "name": "Tragick's Despair",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4296,7 +4781,9 @@
     },
     {
         "name": "Tragick's Envy",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4312,7 +4799,9 @@
     },
     {
         "name": "Tragick's Guilt",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4328,7 +4817,9 @@
     },
     {
         "name": "Tragick's Love",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4344,7 +4835,9 @@
     },
     {
         "name": "Tragick's Loyalty",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4360,7 +4853,9 @@
     },
     {
         "name": "Tragick's Rage",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4376,7 +4871,9 @@
     },
     {
         "name": "Tragick's Wisdom",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4392,7 +4889,9 @@
     },
     {
         "name": "Cursed Heart",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4411,7 +4910,9 @@
     },
     {
         "name": "True Zeal Reaver",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4430,7 +4931,9 @@
     },
     {
         "name": "Zeal Reaver",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4449,17 +4952,19 @@
     },
     {
         "name": "Truly Cursed Heart",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
         "type": "Two Hand",
         "subType": "Staff",
         "tier": 20,
-        "damageMin":3291,
-        "damageMax":4021,
-        "speed":1.3,
-        "damagePerSecond":2812.3,
+        "damageMin": 3291,
+        "damageMax": 4021,
+        "speed": 1.3,
+        "damagePerSecond": 2812.3,
         "description": "The fully empowered staff of Tragick",
         "cost": {
             "type": "Hearts",
@@ -4468,7 +4973,9 @@
     },
     {
         "name": "Valentine's Golden Bracers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4484,7 +4991,9 @@
     },
     {
         "name": "Valentine's Bracers",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4500,7 +5009,9 @@
     },
     {
         "name": "Pendant of Despair",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4514,7 +5025,9 @@
     },
     {
         "name": "Eternal Romance Talisman",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4528,7 +5041,9 @@
     },
     {
         "name": "The Heart Stopper",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4542,14 +5057,11 @@
             "amount": 1000
         }
     },
-
-
-
-
-
     {
         "name": "Grinning Skull Patch",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Pirates"
         ],
@@ -4565,7 +5077,9 @@
     },
     {
         "name": "Maelstrom Ruby Patch",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Pirates"
         ],
@@ -4581,7 +5095,9 @@
     },
     {
         "name": "Midnight Patch",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Pirates"
         ],
@@ -4597,7 +5113,9 @@
     },
     {
         "name": "Pirate Bandana",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Pirates"
         ],
@@ -4613,7 +5131,9 @@
     },
     {
         "name": "Pirate Hat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Pirates"
         ],
@@ -4629,7 +5149,9 @@
     },
     {
         "name": "Pirate Hat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Pirates"
         ],
@@ -4645,7 +5167,9 @@
     },
     {
         "name": "Shark Leather Coat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Pirates"
         ],
@@ -4661,7 +5185,9 @@
     },
     {
         "name": "Shark Leather Gloves",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Pirates"
         ],
@@ -4677,7 +5203,9 @@
     },
     {
         "name": "Ring of Hornswoggle",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Pirates"
         ],
@@ -4691,7 +5219,9 @@
     },
     {
         "name": "Pimm the Pirate Monkey",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Pirates"
         ],
@@ -4705,7 +5235,9 @@
     },
     {
         "name": "Dread Cutlass",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Pirates"
         ],
@@ -4724,7 +5256,9 @@
     },
     {
         "name": "Raja the Chat Parrot",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Pirates"
         ],
@@ -4740,7 +5274,9 @@
     },
     {
         "name": "Swash Buckler",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Valentine"
         ],
@@ -4754,15 +5290,11 @@
             "amount": 3000
         }
     },
-
-
-
-
-
-
     {
         "name": "Mitre of Glenfort",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
@@ -4778,7 +5310,9 @@
     },
     {
         "name": "Halo of the Heavens",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
@@ -4794,7 +5328,9 @@
     },
     {
         "name": "Goblin's Bag of Goodies",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
@@ -4810,7 +5346,9 @@
     },
     {
         "name": "Green Holiday Hat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
@@ -4826,7 +5364,9 @@
     },
     {
         "name": "Elfin' Longhelm",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
@@ -4842,7 +5382,9 @@
     },
     {
         "name": "Red Holiday Hat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
@@ -4858,7 +5400,9 @@
     },
     {
         "name": "Holiday Cheer Helm",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
@@ -4874,7 +5418,9 @@
     },
     {
         "name": "Yuletide's Frost",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
@@ -4893,7 +5439,9 @@
     },
     {
         "name": "Yuletide Battleaxe",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
@@ -4912,7 +5460,9 @@
     },
     {
         "name": "Sweater of Festivity",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
@@ -4928,7 +5478,9 @@
     },
     {
         "name": "Red Holiday Coat",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
@@ -4944,7 +5496,9 @@
     },
     {
         "name": "Angletic Wings",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
@@ -4959,16 +5513,18 @@
     },
     {
         "name": "Yuletide Greataxe",
-        "class": "Justicar",
+        "class": [
+            "Justicar"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
         "type": "Two Hand",
         "subType": "Axe",
-        "damageMin":2850,
-        "damageMax":3857,
-        "speed":1.4,
-        "damagePerSecond":2395.35,
+        "damageMin": 2850,
+        "damageMax": 3857,
+        "speed": 1.4,
+        "damagePerSecond": 2395.35,
         "tier": 19,
         "description": "A massive greataxe imbued with powerful Elfin' cheers, Distilled from their very life essence by powerful Yuletide magic.",
         "cost": {
@@ -4978,16 +5534,18 @@
     },
     {
         "name": "Huge Peppermint Stick",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
         "type": "Two Hand",
         "subType": "Sword",
-        "damageMin":1129,
-        "damageMax":1380,
-        "speed":1.3,
-        "damagePerSecond":965.0,
+        "damageMin": 1129,
+        "damageMax": 1380,
+        "speed": 1.3,
+        "damagePerSecond": 965.0,
         "tier": 13,
         "description": "Justice just got a little bit sweeter! (Limited Time!)",
         "cost": {
@@ -4997,15 +5555,17 @@
     },
     {
         "name": "Pointy Peppermint Stick",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Holigoblin (Christmas)"
         ],
         "type": "Main Hand",
-        "damageMin":677,
-        "damageMax":828,
-        "speed":1.0,
-        "damagePerSecond":752.5,
+        "damageMin": 677,
+        "damageMax": 828,
+        "speed": 1.0,
+        "damagePerSecond": 752.5,
         "tier": 13,
         "description": "Exact sweet, sweet justice upon your foes! (Limited Time!)",
         "cost": {
@@ -5013,15 +5573,11 @@
             "amount": 15
         }
     },
-
-
-
-
-
-
     {
         "name": "Jack-o-Lantarn",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Halloween"
         ],
@@ -5037,7 +5593,9 @@
     },
     {
         "name": "Traitor's Mask",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Halloween"
         ],
@@ -5053,7 +5611,9 @@
     },
     {
         "name": "Bandit's Mask",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Halloween"
         ],
@@ -5069,7 +5629,9 @@
     },
     {
         "name": "Infernal Horns",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Halloween"
         ],
@@ -5085,7 +5647,9 @@
     },
     {
         "name": "Apocryphal Horns",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Halloween"
         ],
@@ -5101,7 +5665,9 @@
     },
     {
         "name": "Dracula's Mantle",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Halloween"
         ],
@@ -5117,7 +5683,9 @@
     },
     {
         "name": "Wings of the Vanguard",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Halloween"
         ],
@@ -5132,7 +5700,9 @@
     },
     {
         "name": "Vampire's Emrace",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Halloween"
         ],
@@ -5147,7 +5717,9 @@
     },
     {
         "name": "Underworld Trident",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Halloween"
         ],
@@ -5162,7 +5734,9 @@
     },
     {
         "name": "The Devil's Trident",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Halloween"
         ],
@@ -5177,7 +5751,9 @@
     },
     {
         "name": "Furry Hooves",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Halloween"
         ],
@@ -5192,7 +5768,9 @@
     },
     {
         "name": "Hero's Tombstone",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Halloween"
         ],
@@ -5206,16 +5784,11 @@
             "amount": 4500
         }
     },
-
-
-
-
-
-
-
     {
         "name": "Chef's Toque",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Werechef"
         ],
@@ -5231,7 +5804,9 @@
     },
     {
         "name": "Dark Accursed Helm",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Werechef"
         ],
@@ -5247,7 +5822,9 @@
     },
     {
         "name": "Lycanthrope Helm",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Werechef"
         ],
@@ -5263,15 +5840,17 @@
     },
     {
         "name": "Old Frying Pan",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Werechef"
         ],
         "type": "Main Hand",
         "subType": "",
         "tier": 13,
-        "damageMin":677,
-        "damageMax":828,
+        "damageMin": 677,
+        "damageMax": 828,
         "speed": 1.0,
         "damagePerSecond": 752.5,
         "description": "Deal some wrought-iron justice with this powerful culinary artifact. (Limited Time!)",
@@ -5282,7 +5861,9 @@
     },
     {
         "name": "Werewere Necklace",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Werechef"
         ],
@@ -5297,7 +5878,9 @@
     },
     {
         "name": "Lycanthrope Tail",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Werechef"
         ],
@@ -5312,7 +5895,9 @@
     },
     {
         "name": "Haute Cleaver",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Werechef"
         ],
@@ -5326,7 +5911,9 @@
     },
     {
         "name": "Lycanthrope Claws",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Lucky"
         ],
@@ -5342,7 +5929,9 @@
     },
     {
         "name": "Lycanthrope Leggings",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Lucky"
         ],
@@ -5356,12 +5945,11 @@
             "amount": 40
         }
     },
-
-
-
     {
         "name": "Faerie Disguise",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Lucky"
         ],
@@ -5377,17 +5965,19 @@
     },
     {
         "name": "Lucky's Shillelagh",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Lucky"
         ],
         "type": "Main Hand",
         "subType": "",
         "tier": 15,
-        "damageMin":922,
-        "damageMax":1126,
-        "speed":1.0,
-        "damagePerSecond":1024.0,
+        "damageMin": 922,
+        "damageMax": 1126,
+        "speed": 1.0,
+        "damagePerSecond": 1024.0,
         "description": "The festive walking stick packs a wallop! (Limited Time!)",
         "cost": {
             "type": "Clover",
@@ -5396,14 +5986,16 @@
     },
     {
         "name": "Raider's Kilt",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Lucky"
         ],
         "type": "Leg Armor",
         "subType": "Cloth",
         "tier": 19,
-        "defense":849,
+        "defense": 849,
         "description": "A ceremonial kilt inlaid with an ancient symbol of power and prestige.",
         "cost": {
             "type": "Clover",
@@ -5412,7 +6004,9 @@
     },
     {
         "name": "Leprechaun Boots",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Lucky"
         ],
@@ -5428,7 +6022,9 @@
     },
     {
         "name": "Wanderer's Kilt",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Lucky"
         ],
@@ -5444,7 +6040,9 @@
     },
     {
         "name": "Thornweave Shield",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event: Lucky"
         ],
@@ -5458,47 +6056,47 @@
             "amount": 40
         }
     },
-    
-
-
-
-
-
     {
         "name": "Prestine Sword of the Vile",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Quest"
         ],
         "type": "Main Hand",
         "subType": "Sword",
         "tier": 9,
-        "damageMin":366,
-        "damageMax":447,
-        "speed":1.0,
-        "damagePerSecond":406.5,
+        "damageMin": 366,
+        "damageMax": 447,
+        "speed": 1.0,
+        "damagePerSecond": 406.5,
         "description": "The empowered Sword of the Vile. Legacy Gear",
-        "cost": { }
+        "cost": {}
     },
     {
         "name": "Time Lost Sword",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Quest"
         ],
         "type": "Main Hand",
         "subType": "Sword",
         "tier": 1,
-        "damageMin":23,
-        "damageMax":28,
-        "speed":1.0,
-        "damagePerSecond":25.5,
+        "damageMin": 23,
+        "damageMax": 28,
+        "speed": 1.0,
+        "damagePerSecond": 25.5,
         "description": "Despite the fact that this weapon seems a bit old fashioned, you cn see how it might have once beenthe weapon of a true champion!",
-        "cost": { }
+        "cost": {}
     },
     {
         "name": "Ancient Golden Emblazonment",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event"
         ],
@@ -5506,11 +6104,13 @@
         "subType": "",
         "tier": 1,
         "description": "In ages past, gladiators dared to enter the Coliseum without the burden of armor, proving their unmatched skill in one-on-one combat (Gold League, PVP, Season 1) - Legacy Gear",
-        "cost": { }
+        "cost": {}
     },
     {
         "name": "Ancient Platinum Emblazonment",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event"
         ],
@@ -5518,11 +6118,13 @@
         "subType": "",
         "tier": 1,
         "description": "(Platinum League, PVP, Season 1) - Legacy Gear",
-        "cost": { }
+        "cost": {}
     },
     {
         "name": "The Master's Emblazonment",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Event"
         ],
@@ -5530,61 +6132,179 @@
         "subType": "",
         "tier": 1,
         "description": "(Masters League, PVP, Season 1) - Legacy Gear",
-        "cost": { }
+        "cost": {}
     },
     {
         "name": "Amulet of Creation",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Craft"
         ],
         "type": "Amulet",
         "tier": 19,
         "description": "Long protected by the mysterious Keepers, this strange and terrible artifact whispers cryptic warnings of something long-forgotten beneath the surface of Glenfort.",
-        "cost": { }
+        "cost": {}
     },
     {
         "name": "Amulet of Ironhaven",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Quest"
         ],
         "type": "Amulet",
         "tier": 7,
         "description": "",
-        "cost": { }
+        "cost": {}
     },
     {
         "name": "Karnak's Ring",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Craft"
         ],
         "type": "Ring",
         "tier": 15,
         "description": "You now understand why Karnak sought to enter our world; the power of the Void, combined with Glenfort's finest gems, has resulted in an artifact with power almost unfathomable.",
-        "cost": { }
+        "cost": {}
     },
     {
         "name": "Ring of Eternity",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Craft"
         ],
         "type": "Ring",
         "tier": 19,
         "description": "The potent arcane energies that result form combining the power of the Void, Glenfort's vast resources, and the ancient knowledge of the Keepers are likely more than mere mortals were meant to wield.",
-        "cost": { }
+        "cost": {}
     },
     {
         "name": "Chef's Uniform",
-        "class": "War Mage",
+        "class": [
+            "War Mage"
+        ],
         "drop": [
             "Quest"
         ],
         "type": "Chest Armor",
         "tier": 1,
         "description": "Legacy Gear",
-        "cost": { }
+        "cost": {}
+    },
+    {
+        "name": "Glenfort Helmet",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 1,
+        "description": "Legacy Gear",
+        "defense": 34,
+        "cost": {
+            "type": "Silver",
+            "amount": 112
+        }
+    },
+    {
+        "name": "Acolyte Helm",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 2,
+        "defense": 43,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 933
+        }
+    },
+    {
+        "name": "Felstalker Helmet",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 3,
+        "defense": 54,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 1866
+        }
+    },
+    {
+        "name": "Berserker Helm",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 4,
+        "defense": 68,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 3731
+        }
+    },
+    {
+        "name": "Dawnrock Helm",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 5,
+        "defense": 86,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 7463
+        }
+    },
+    {
+        "name": "Vengeance Helmet",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 5,
+        "defense": 108,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 14925
+        }
     }
 ]
