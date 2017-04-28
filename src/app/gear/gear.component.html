@@ -41,7 +41,6 @@
                         </td>
                         <td>
                             <select name="classFilter" [(ngModel)]='classFilter'>
-                                <!--<option *ngFor="let option of getDistinct('type')">{{ option }}</option> throws error-->
                                 <option></option>
                                 <option>War Mage</option>
                                 <option>Justicar</option>
@@ -54,7 +53,6 @@
                         <td>&nbsp;</td>
                         <td>
                             <select name="typeFilter" [(ngModel)]='typeFilter'>
-                                <!--<option *ngFor="let option of getDistinct('type')">{{ option }}</option> throws error-->
                                 <option></option>
                                 <option>Amulet</option>
                                 <option>Boots</option>
@@ -71,6 +69,7 @@
                         </td>
                         <td>
                             <select name="tierFilter" [(ngModel)]="tierFilter">
+                                    <option></option>
                                     <option>1</option>
                                     <option>2</option>
                                     <option>3</option>
@@ -96,7 +95,25 @@
                         </td>
                         <td>
                             <select name="valorFilter" [(ngModel)]='valorFilter'>
+                                <option></option>
                                 <option>Silver</option>
+                                <option>Gold Shield</option>
+                                <option>Marks</option>
+                                <option>Medals</option>
+                                <option>Squire's Valor</option>
+                                <option>Soldier's Valor</option>
+                                <option>Knight's Valor</option>
+                                <option>Captain's Valor</option>
+                                <option>Champion's Valor</option>
+                                <option>Guardian's Valor</option>
+                                <option>Candy Corn</option>
+                                <option>Red Ornament</option>
+                                <option>Green Ornament</option>
+                                <option>Clover</option>
+                                <option>Silverware</option>
+                                <option>Doubloon</option>
+                                <option>Craft</option>
+                                <option>Quest</option>
                             </select>
                         </td>
                         <td>
@@ -122,10 +139,12 @@
                             | stringFilter:descFilter:'description' 
                             | stringFilter:subTypeFilter:'subType' 
                             | stringFilter:tierFilter:'tier':true 
+                            | classFilter:classFilter 
+                            | valorFilter:valorFilter 
                             | orderBy : [sort] ">
                         <td>{{ item.name }}</td>
                         <td>
-                           <div *ngFor="let class of item.class">{{ class }}</div> 
+                            <div *ngFor="let class of item.class">{{ class }}</div>
                         </td>
                         <td>
                             <div *ngFor="let drop of item.drop">
@@ -170,6 +189,15 @@
                         <label (click)="sortOn($event, 'class')">Class<span [class]="getClass('class')"></span></label>
                     </div>
                     <div class="col-xs-8">
+                        <select name="classFilter" [(ngModel)]='classFilter'>
+                                <option></option>
+                                <option>War Mage</option>
+                                <option>Justicar</option>
+                                <option>Shadow Walker</option>
+                                <option>Frost Knight</option>
+                                <option>Flame Warden</option>
+                                <option>Inquisitor</option>
+                            </select>
                     </div>
                 </div>
                 <div class="row">
@@ -237,7 +265,27 @@
                         <label>Cost<span [class]="getClass('cost')"></span></label>
                     </div>
                     <div class="col-xs-8">
-
+                        <select name="valorFilter" [(ngModel)]='valorFilter'>
+                                <option></option>
+                                <option>Silver</option>
+                                <option>Gold Shield</option>
+                                <option>Marks</option>
+                                <option>Medals</option>
+                                <option>Squire's Valor</option>
+                                <option>Soldier's Valor</option>
+                                <option>Knight's Valor</option>
+                                <option>Captain's Valor</option>
+                                <option>Champion's Valor</option>
+                                <option>Guardian's Valor</option>
+                                <option>Candy Corn</option>
+                                <option>Red Ornament</option>
+                                <option>Green Ornament</option>
+                                <option>Clover</option>
+                                <option>Silverware</option>
+                                <option>Doubloon</option>
+                                <option>Craft</option>
+                                <option>Quest</option>
+                            </select>
                     </div>
                 </div>
                 <div class="row">
@@ -305,12 +353,14 @@
 
             <!-- content -->
             <div *ngFor="let item of gear 
-                    | stringFilter:nameFilter:'name' 
-                    | stringFilter:typeFilter:'type' 
-                    | stringFilter:descFilter:'description' 
-                    | stringFilter:subTypeFilter:'subType' 
-                    | stringFilter:tierFilter:'tier':true 
-                    | orderBy : [sort] ">
+                            | stringFilter:nameFilter:'name' 
+                            | stringFilter:typeFilter:'type' 
+                            | stringFilter:descFilter:'description' 
+                            | stringFilter:subTypeFilter:'subType' 
+                            | stringFilter:tierFilter:'tier':true 
+                            | classFilter:classFilter 
+                            | valorFilter:valorFilter 
+                            | orderBy : [sort] ">
                 <collapsible-panel>
                     <span class="title">{{ item.name }} <span *ngIf="item.tier !== -1">(Tier {{ item.tier }})</span></span>
                     <ul>

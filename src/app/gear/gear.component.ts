@@ -32,7 +32,7 @@ export class GearListComponent extends SortComponent implements OnInit {
    */
   constructor(private dataService: DataService, private activatedRoute: ActivatedRoute) {
     super();
-    this.sort = 'name';
+    this.sort = '-tier';
   }
 
   toggle(name) {

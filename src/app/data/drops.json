@@ -32911,5 +32911,1049 @@
         "area": "Attack at Dawn",
         "amount": 507,
         "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 916,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 953,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 1,
+        "item": "Amber Flux"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 412,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 321,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 750,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 951,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 4,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 453,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 1180,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 3,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 332,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 665,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 372,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 672,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 1,
+        "area": "Amber Portal",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 436,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 6,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 7,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 273,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 1026,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 1,
+        "item": "Minor Break Rune"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 333,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 7,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 858,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 7,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 390,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 7,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 1034,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 1128,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 7,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 848,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 7,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 5,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 966,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 315,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 6,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 2,
+        "area": "Amber Portal",
+        "amount": 908,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 781,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 7,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 1098,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 684,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 1,
+        "item": "Minor Fire Rune"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 8,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 1142,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 1046,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 7,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 1098,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 628,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 986,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 7,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 1026,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 1201,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 7,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 7,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 3,
+        "area": "Amber Portal",
+        "amount": 329,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1027,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 637,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1,
+        "item": "Emerald Flux"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1107,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 943,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1131,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1146,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1072,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1070,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1,
+        "item": "Refined Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 983,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1,
+        "item": "Amber Flux"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 803,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1,
+        "item": "Amber Flux"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 806,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 9,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1185,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1125,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 10,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1038,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1131,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 971,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 1181,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 11,
+        "item": "Essence"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 697,
+        "item": "Silver"
+    },
+    {
+        "type": "Quest",
+        "e": 2,
+        "waves": 1,
+        "phase": 4,
+        "area": "Amber Portal",
+        "amount": 9,
+        "item": "Essence"
     }
 ]

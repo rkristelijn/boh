@@ -29,6 +29,8 @@ import { StringFilterPipe } from '../assets/stringFilter.pipe';
 import { OrderBy } from '../assets/order.pipe';
 import { HasDropFilterPipe } from './drop/has-drop.pipe';
 import { DropFilterPipe } from './drop/drop.pipe';
+import { ClassFilterPipe } from './gear/gear.class.filter.pipe';
+import { ValorFilterPipe } from './gear/gear.valor.filter.pipe';
 
 //router
 import { routing } from './app.routing';
@@ -61,6 +63,8 @@ import { DataService } from './data.service';
     HyperlinkPipe,
     HasDropFilterPipe,
     DropFilterPipe,
+    ClassFilterPipe,
+    ValorFilterPipe,
     /*Generic pipes*/
     StringFilterPipe,
     OrderBy

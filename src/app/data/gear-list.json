@@ -1686,7 +1686,7 @@
         ],
         "type": "Cloak",
         "subType": "",
-        "tier": 9,
+        "tier": 10,
         "defense": 185,
         "description": "",
         "cost": {
@@ -1780,7 +1780,7 @@
         "defense": 633,
         "description": "",
         "cost": {
-            "type": "Champion's Valor",
+            "type": "Guardian's Valor",
             "amount": 3180
         }
     },
@@ -3695,7 +3695,7 @@
             "War Mage"
         ],
         "drop": [
-            "Quest?"
+            "Quest"
         ],
         "type": "Helmet",
         "subType": "",
@@ -3703,8 +3703,7 @@
         "defense": 34,
         "description": "It's a classic yet stylish piece of headgear!",
         "cost": {
-            "type": "",
-            "amount": 0
+            "type": "Quest"
         }
     },
     {
@@ -5213,8 +5212,7 @@
         "tier": 21,
         "description": "Yo Ho Ho, wouldn't be a scurvy pirate if thar wasn't some type 'o cheatin'",
         "cost": {
-            "type": "Doubloon",
-            "amount": -1
+            "type": "Craft"
         }
     },
     {
@@ -6072,7 +6070,9 @@
         "speed": 1.0,
         "damagePerSecond": 406.5,
         "description": "The empowered Sword of the Vile. Legacy Gear",
-        "cost": {}
+        "cost": {
+            "type": "Quest"
+        }
     },
     {
         "name": "Time Lost Sword",
@@ -6090,7 +6090,9 @@
         "speed": 1.0,
         "damagePerSecond": 25.5,
         "description": "Despite the fact that this weapon seems a bit old fashioned, you cn see how it might have once beenthe weapon of a true champion!",
-        "cost": {}
+        "cost": {
+            "type": "Quest"
+        }
     },
     {
         "name": "Ancient Golden Emblazonment",
@@ -6104,7 +6106,9 @@
         "subType": "",
         "tier": 1,
         "description": "In ages past, gladiators dared to enter the Coliseum without the burden of armor, proving their unmatched skill in one-on-one combat (Gold League, PVP, Season 1) - Legacy Gear",
-        "cost": {}
+        "cost": {
+            "type": "Medals"
+        }
     },
     {
         "name": "Ancient Platinum Emblazonment",
@@ -6118,7 +6122,9 @@
         "subType": "",
         "tier": 1,
         "description": "(Platinum League, PVP, Season 1) - Legacy Gear",
-        "cost": {}
+        "cost": {
+            "type": "Medals"
+        }
     },
     {
         "name": "The Master's Emblazonment",
@@ -6132,7 +6138,9 @@
         "subType": "",
         "tier": 1,
         "description": "(Masters League, PVP, Season 1) - Legacy Gear",
-        "cost": {}
+        "cost": {
+            "type": "Medals"
+        }
     },
     {
         "name": "Amulet of Creation",
@@ -6145,7 +6153,9 @@
         "type": "Amulet",
         "tier": 19,
         "description": "Long protected by the mysterious Keepers, this strange and terrible artifact whispers cryptic warnings of something long-forgotten beneath the surface of Glenfort.",
-        "cost": {}
+        "cost": {
+            "type": "Craft"
+        }
     },
     {
         "name": "Amulet of Ironhaven",
@@ -6158,7 +6168,9 @@
         "type": "Amulet",
         "tier": 7,
         "description": "",
-        "cost": {}
+        "cost": {
+            "type": "Craft"
+        }
     },
     {
         "name": "Karnak's Ring",
@@ -6171,7 +6183,9 @@
         "type": "Ring",
         "tier": 15,
         "description": "You now understand why Karnak sought to enter our world; the power of the Void, combined with Glenfort's finest gems, has resulted in an artifact with power almost unfathomable.",
-        "cost": {}
+        "cost": {
+            "type": "Craft"
+        }
     },
     {
         "name": "Ring of Eternity",
@@ -6184,7 +6198,9 @@
         "type": "Ring",
         "tier": 19,
         "description": "The potent arcane energies that result form combining the power of the Void, Glenfort's vast resources, and the ancient knowledge of the Keepers are likely more than mere mortals were meant to wield.",
-        "cost": {}
+        "cost": {
+            "type": "Craft"
+        }
     },
     {
         "name": "Chef's Uniform",
@@ -6197,7 +6213,9 @@
         "type": "Chest Armor",
         "tier": 1,
         "description": "Legacy Gear",
-        "cost": {}
+        "cost": {
+            "type": "Quest"
+        }
     },
     {
         "name": "Glenfort Helmet",
@@ -6299,12 +6317,192 @@
         ],
         "type": "Helmet",
         "subType": "Mail",
-        "tier": 5,
+        "tier": 6,
         "defense": 108,
         "description": "",
         "cost": {
             "type": "Silver",
             "amount": 14925
+        }
+    },
+    {
+        "name": "Darkbane Crow",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 6,
+        "defense": 108,
+        "description": "",
+        "cost": {
+            "type": "Gold Shield",
+            "amount": 15
+        }
+    },
+    {
+        "name": "Dragonscale Helm",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 6,
+        "defense": 108,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 187
+        }
+    },
+    {
+        "name": "Conjured Helmet",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 7,
+        "defense": 136,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 26119
+        }
+    },
+    {
+        "name": "Deathblight Helmet",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 8,
+        "defense": 158,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 45709
+        }
+    },
+    {
+        "name": "Shattered Soul Helmet",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 9,
+        "defense": 185,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 79991
+        }
+    },
+    {
+        "name": "Valorstrike Helm",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 10,
+        "defense": 216,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 486
+        }
+    },
+    {
+        "name": "Champion Crown",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 12,
+        "defense": 293,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 1120
+        }
+    },
+    {
+        "name": "Demonsbane Helm",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 14,
+        "defense": 399,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 1493
+        }
+    },
+    {
+        "name": "Dauntless Helmet",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 16,
+        "defense": 543,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 1642
+        }
+    },
+    {
+        "name": "Blood Oath Helmet",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Helmet",
+        "subType": "Mail",
+        "tier": 18,
+        "defense": 738,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 2655
         }
     }
 ]
