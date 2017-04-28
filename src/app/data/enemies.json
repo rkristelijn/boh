@@ -568,6 +568,18 @@
         "attacks": "Vile Ward"
     },
     {
+        "name": "Lord of Blades",
+        "location": "The Vile Gate",
+        "attacks": "Slash"
+    },
+    {
+        "name": "Lord of Blades",
+        "location": "The Vile Gate",
+        "attacks": "Whirlwind",
+        "effect": "Wound",
+        "description": "Deals physical damage over time."
+    },
+    {
         "name": "Direhorn",
         "location": "Hall of the Goblin King",
         "attacks": "Headbutt"
@@ -585,7 +597,32 @@
     {
         "name": "Ice Lord Vallus",
         "location": "Ice Dragon's Lair",
-        "attacks": "Death Bite"
+        "attacks": "Death Bite",
+        "effect": "Frostbite",
+        "description": "Deals ice damage over time."
+    },
+    {
+        "name": "Ice Lord Vallus",
+        "location": "Ice Dragon's Lair",
+        "attacks": "Frozen Tomb"
+    },
+    {
+        "name": "Ice Lord Vallus",
+        "location": "Ice Dragon's Lair",
+        "attacks": "Second Wind",
+        "effect": "Adds 3048 Health"
+    },
+    {
+        "name": "Ice Lord Vallus",
+        "location": "Ice Dragon's Lair",
+        "attacks": "Vallus' Fury",
+        "effect": "Vallus' Fury",
+        "description": "Increases damage done."
+    },
+    {
+        "name": "Ice Lord Vallus",
+        "location": "Ice Dragon's Lair",
+        "attacks": "Freezing Breath"
     },
     {
         "name": "Guardian Dragon",

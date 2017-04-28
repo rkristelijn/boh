@@ -39,7 +39,7 @@ export class DropComponent extends SortComponent implements OnInit {
     addItem(drop) {
         let index = this.indexOfArea(drop.area, drop.phase);
         if (index === -1) {
-            index = this.addArea(drop.area, drop.phase, drop.type, drop.e, drop.waves);
+            index = this.addArea(drop.area, drop.phase, drop.type, drop.e, drop.waves, drop.parent);
             this.addDrop(index, drop.amount, drop.item);
 
             //update onslaughter
@@ -57,7 +57,7 @@ export class DropComponent extends SortComponent implements OnInit {
         }
     }
 
-    addArea(name: string, phase: number, type: string, ePerWave: number, waves: number): number {
+    addArea(name: string, phase: number, type: string, ePerWave: number, waves: number, parent: string): number {
         let index = this.drops.push({
             area: name,
             phase: phase,
@@ -66,6 +66,7 @@ export class DropComponent extends SortComponent implements OnInit {
             waves: this.isOnslaught(name, phase) ? -1 : waves,
             count: 0,
             drops: [],
+            parent: parent,
             onslaught: this.isOnslaught(name, phase)
         });
 

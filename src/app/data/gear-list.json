@@ -123,7 +123,7 @@
         "defense": 77,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 15
         }
     },
@@ -232,7 +232,7 @@
         "defense": 180,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 48
         }
     },
@@ -394,7 +394,7 @@
         "defense": 122,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 30
         }
     },
@@ -502,7 +502,7 @@
         "defense": 359,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 96
         }
     },
@@ -700,7 +700,7 @@
         "defense": 62,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 12
         }
     },
@@ -808,7 +808,7 @@
         "defense": 144,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 39
         }
     },
@@ -1006,7 +1006,7 @@
         "defense": 108,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 21
         }
     },
@@ -1114,7 +1114,7 @@
         "defense": 251,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 67
         }
     },
@@ -1312,7 +1312,7 @@
         "defense": 62,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 12
         }
     },
@@ -1420,7 +1420,7 @@
         "defense": 144,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 39
         }
     },
@@ -1618,7 +1618,7 @@
         "defense": 92,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 18
         }
     },
@@ -1708,7 +1708,7 @@
         "defense": 216,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 58
         }
     },
@@ -1848,7 +1848,7 @@
         "tier": 6,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 21
         }
     },
@@ -1950,7 +1950,7 @@
         "tier": 11,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 67
         }
     },
@@ -2069,7 +2069,7 @@
         "tier": 6,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 21
         }
     },
@@ -2171,7 +2171,7 @@
         "tier": 11,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 67
         }
     },
@@ -2512,7 +2512,7 @@
         "damagePerSecond": 209.54,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 30
         }
     },
@@ -2533,7 +2533,7 @@
         "damagePerSecond": 209.0,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 30
         }
     },
@@ -2764,7 +2764,7 @@
         "damagePerSecond": 553.18,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 96
         }
     },
@@ -2785,7 +2785,7 @@
         "damagePerSecond": 553.5,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 96
         }
     },
@@ -3117,7 +3117,7 @@
         "damagePerSecond": 268.46,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 45
         }
     },
@@ -3243,7 +3243,7 @@
         "damagePerSecond": 709.23,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 144
         }
     },
@@ -3467,7 +3467,7 @@
         "blockMitigation": 50,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 15
         }
     },
@@ -3587,7 +3587,7 @@
         "blockMitigation": 50,
         "description": "",
         "cost": {
-            "type": "Gold Shields",
+            "type": "Gold Shield",
             "amount": 48
         }
     },
@@ -6503,6 +6503,312 @@
         "cost": {
             "type": "Guardian's Valor",
             "amount": 2655
+        }
+    },
+    {
+        "name": "Glenfort Cuirass",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 1,
+        "defense": 68,
+        "description": "Legacy Gear",
+        "cost": {
+            "type": "Silver",
+            "amount": 224
+        }
+    },
+    {
+        "name": "Acolyte Cuirass",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 2,
+        "defense": 86,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 1866
+        }
+    },
+    {
+        "name": "Felstalker Breastplate",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 3,
+        "defense": 108,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 3731
+        }
+    },
+    {
+        "name": "Berserker Breastplate",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 4,
+        "defense": 136,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 7463
+        }
+    },
+    {
+        "name": "Dawnrock Breastplate",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 5,
+        "defense": 171,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 14925
+        }
+    },
+    {
+        "name": "Vengeance Breastplate",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 6,
+        "defense": 216,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 29851
+        }
+    },
+    {
+        "name": "Darkbane Cuirass",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 6,
+        "defense": 216,
+        "description": "",
+        "cost": {
+            "type": "Gold Shield",
+            "amount": 30
+        }
+    },
+    {
+        "name": "Dragonscale Cuirass",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 6,
+        "defense": 216,
+        "description": "",
+        "cost": {
+            "type": "Squire's Valor",
+            "amount": 374
+        }
+    },
+    {
+        "name": "Conjured Breastplate",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 7,
+        "defense": 272,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 52239
+        }
+    },
+    {
+        "name": "Deathblight Breastplate",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 8,
+        "defense": 317,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 91418
+        }
+    },
+    {
+        "name": "Shattered Soul Cuirass",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 9,
+        "defense": 370,
+        "description": "",
+        "cost": {
+            "type": "Silver",
+            "amount": 159981
+        }
+    },
+    {
+        "name": "Valorstrike Breastplate",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 10,
+        "defense": 431,
+        "description": "",
+        "cost": {
+            "type": "Soldier's Valor",
+            "amount": 971
+        }
+    },
+    {
+        "name": "Soulstrike Cuirass",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 11,
+        "defense": 501,
+        "description": "",
+        "cost": {
+            "type": "Gold Shield",
+            "amount": 96
+        }
+    },
+    {
+        "name": "Champion Cuirass",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 12,
+        "defense": 587,
+        "description": "",
+        "cost": {
+            "type": "Knight's Valor",
+            "amount": 2240
+        }
+    },
+    {
+        "name": "Demonsbane Breastplate",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 14,
+        "defense": 798,
+        "description": "",
+        "cost": {
+            "type": "Captain's Valor",
+            "amount": 2986
+        }
+    },
+    {
+        "name": "Dauntless Breastplate",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 16,
+        "defense": 1068,
+        "description": "",
+        "cost": {
+            "type": "Champion's Valor",
+            "amount": 3284
+        }
+    },
+    {
+        "name": "Blood Oath Cuirass",
+        "class": [
+            "Justicar"
+        ],
+        "drop": [
+            "Majerio's Shop"
+        ],
+        "type": "Chest Armor",
+        "subType": "Mail",
+        "tier": 18,
+        "defense": 1477,
+        "description": "",
+        "cost": {
+            "type": "Guardian's Valor",
+            "amount": 5310
         }
     }
 ]

@@ -20,7 +20,8 @@
                     <tr>
                         <th>
                             <div id="block" (click)="sortOn($event, 'type')">Type<span [class]="getClass('type')"></span></div> |
-                            <div id="block" (click)="sortOn($event, 'area')">Area<span [class]="getClass('area')"></span></div> |
+                            <div id="block" (click)="sortOn($event, 'area')">Name<span [class]="getClass('area')"></span></div> |
+                            <div id="block" (click)="sortOn($event, 'parent')">Area<span [class]="getClass('parent')"></span></div> |
                             <div id="block" (click)="sortOn($event, 'phase')">Phase<span [class]="getClass('phase')"></span></div>
                         </th>
                         <th>Drops/1 energy</th>
@@ -37,10 +38,11 @@
                                 <option>Elite</option>
                             </select>
                             <input type='text' name="nameFilter" [(ngModel)]='nameFilter' placeholder="Filter name..." />
+                            <input type='text' name="parentFilter" [(ngModel)]='parentFilter' placeholder="Filter area..." />
                         </td>
                         <td><input type='text' name="dropFilter" [(ngModel)]='dropFilter' placeholder="Filter drop..." /></td>
                     </tr>
-                    <tr *ngFor="let area of drops | hasDropFilter:dropFilter | stringFilter:nameFilter:'area' | stringFilter:typeFilter:'type' | orderBy : [sort] ">
+                    <tr *ngFor="let area of drops | hasDropFilter:dropFilter | stringFilter:nameFilter:'area' | stringFilter:typeFilter:'type' | stringFilter:parentFilter:'parent' | orderBy : [sort] ">
                         <td>
                             <div class="row">
                                 <div class="col-md-4 col-xs-12"><strong><a [routerLink]="['/locations']" [queryParams]="{search:area.area}">{{area.area}}</a></strong></div>
@@ -48,9 +50,10 @@
                                 <div class="col-md-4 col-xs-12" *ngIf="area.phase !== 0"><small>Phase {{area.phase}}</small></div>
                             </div>
                             <div class="row">
-                                <div class="col-md-4 col-xs-12" *ngIf="area.onslaught"><small>Onslaught average waves: {{area.waves / area.count | number : '1.2-2'}}</small></div>
+                                <div class="col-md-4 col-xs-12"><small>Area: {{area.parent}}</small></div>
                                 <div class="col-md-4 col-xs-12"><small>Data entries: {{area.count}}</small></div>
                                 <div class="col-md-4 col-xs-12"><small>Energy per wave: {{area.ePerWave}}</small></div>
+                                <div class="col-md-4 col-xs-12" *ngIf="area.onslaught"><small>Onslaught average waves: {{area.waves / area.count | number : '1.2-2'}}</small></div>
                             </div>
                         </td>
                         <td>
